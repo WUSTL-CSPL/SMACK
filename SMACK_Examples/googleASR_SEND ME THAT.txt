@@ -1,0 +1,2236 @@
+_IncompatibleKeys(missing_keys=['tgt_mask', 'pos_txt.p', 'pos_mel.p'], unexpected_keys=[])
+_IncompatibleKeys(missing_keys=['tgt_mask', 'pos_txt.p', 'pos_mel.p'], unexpected_keys=[])
+_IncompatibleKeys(missing_keys=['tgt_mask', 'pos_txt.p', 'pos_mel.p'], unexpected_keys=[])
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 4cefb9f8-bb2d-4c22-acab-106b01e50e36 Fitness: -11.79]
+[Individual 4cefb9f8-bb2d-4c22-acab-106b01e50e36 Levenshtein: -11.82]
+[Individual 4cefb9f8-bb2d-4c22-acab-106b01e50e36 CMU: 0.03]
+[Individual 4cefb9f8-bb2d-4c22-acab-106b01e50e36 ALINE: -0.21]
+[Individual 4cefb9f8-bb2d-4c22-acab-106b01e50e36 NISQA: 0.20]
+
+
+Google ASR Result after 0 retries: SAMMY GOT
+[Individual 41bfe864-debb-4801-89a9-f946df0c68ed Fitness: -8.78]
+[Individual 41bfe864-debb-4801-89a9-f946df0c68ed Levenshtein: -8.75]
+[Individual 41bfe864-debb-4801-89a9-f946df0c68ed CMU: 0.03]
+[Individual 41bfe864-debb-4801-89a9-f946df0c68ed ALINE: -0.26]
+[Individual 41bfe864-debb-4801-89a9-f946df0c68ed NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 3c2c6f39-fe04-4afb-b926-b5720451718f Fitness: -11.78]
+[Individual 3c2c6f39-fe04-4afb-b926-b5720451718f Levenshtein: -11.82]
+[Individual 3c2c6f39-fe04-4afb-b926-b5720451718f CMU: 0.03]
+[Individual 3c2c6f39-fe04-4afb-b926-b5720451718f ALINE: -0.21]
+[Individual 3c2c6f39-fe04-4afb-b926-b5720451718f NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual a3af991f-1c8a-45f9-b1a2-d2ee1d21ae7b Fitness: -11.77]
+[Individual a3af991f-1c8a-45f9-b1a2-d2ee1d21ae7b Levenshtein: -11.82]
+[Individual a3af991f-1c8a-45f9-b1a2-d2ee1d21ae7b CMU: 0.03]
+[Individual a3af991f-1c8a-45f9-b1a2-d2ee1d21ae7b ALINE: -0.21]
+[Individual a3af991f-1c8a-45f9-b1a2-d2ee1d21ae7b NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 3ea3b066-a239-42f4-9165-80d85233c7ee Fitness: -11.79]
+[Individual 3ea3b066-a239-42f4-9165-80d85233c7ee Levenshtein: -11.82]
+[Individual 3ea3b066-a239-42f4-9165-80d85233c7ee CMU: 0.03]
+[Individual 3ea3b066-a239-42f4-9165-80d85233c7ee ALINE: -0.21]
+[Individual 3ea3b066-a239-42f4-9165-80d85233c7ee NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 06041c68-98ea-44fd-b725-42846e0e9a17 Fitness: -11.79]
+[Individual 06041c68-98ea-44fd-b725-42846e0e9a17 Levenshtein: -11.82]
+[Individual 06041c68-98ea-44fd-b725-42846e0e9a17 CMU: 0.03]
+[Individual 06041c68-98ea-44fd-b725-42846e0e9a17 ALINE: -0.21]
+[Individual 06041c68-98ea-44fd-b725-42846e0e9a17 NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 42746009-9d7c-45bb-8571-879b001ced4a Fitness: -11.78]
+[Individual 42746009-9d7c-45bb-8571-879b001ced4a Levenshtein: -11.82]
+[Individual 42746009-9d7c-45bb-8571-879b001ced4a CMU: 0.03]
+[Individual 42746009-9d7c-45bb-8571-879b001ced4a ALINE: -0.21]
+[Individual 42746009-9d7c-45bb-8571-879b001ced4a NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual be4c9982-c6c6-4c87-9638-9dd89aefab8e Fitness: -11.78]
+[Individual be4c9982-c6c6-4c87-9638-9dd89aefab8e Levenshtein: -11.82]
+[Individual be4c9982-c6c6-4c87-9638-9dd89aefab8e CMU: 0.03]
+[Individual be4c9982-c6c6-4c87-9638-9dd89aefab8e ALINE: -0.21]
+[Individual be4c9982-c6c6-4c87-9638-9dd89aefab8e NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 469b81eb-faf4-497c-bea2-9f6375ad45f5 Fitness: -11.80]
+[Individual 469b81eb-faf4-497c-bea2-9f6375ad45f5 Levenshtein: -11.82]
+[Individual 469b81eb-faf4-497c-bea2-9f6375ad45f5 CMU: 0.03]
+[Individual 469b81eb-faf4-497c-bea2-9f6375ad45f5 ALINE: -0.21]
+[Individual 469b81eb-faf4-497c-bea2-9f6375ad45f5 NISQA: 0.20]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 76f27e2f-9c23-48fa-9f33-3542d8aad1b1 Fitness: -11.80]
+[Individual 76f27e2f-9c23-48fa-9f33-3542d8aad1b1 Levenshtein: -11.82]
+[Individual 76f27e2f-9c23-48fa-9f33-3542d8aad1b1 CMU: 0.03]
+[Individual 76f27e2f-9c23-48fa-9f33-3542d8aad1b1 ALINE: -0.21]
+[Individual 76f27e2f-9c23-48fa-9f33-3542d8aad1b1 NISQA: 0.20]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 28a7ddea-0afa-407f-8940-10ccbd5a11e4 Fitness: -11.77]
+[Individual 28a7ddea-0afa-407f-8940-10ccbd5a11e4 Levenshtein: -11.82]
+[Individual 28a7ddea-0afa-407f-8940-10ccbd5a11e4 CMU: 0.03]
+[Individual 28a7ddea-0afa-407f-8940-10ccbd5a11e4 ALINE: -0.21]
+[Individual 28a7ddea-0afa-407f-8940-10ccbd5a11e4 NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 4708f383-9309-4e57-96d0-57d42bde31c7 Fitness: -11.78]
+[Individual 4708f383-9309-4e57-96d0-57d42bde31c7 Levenshtein: -11.82]
+[Individual 4708f383-9309-4e57-96d0-57d42bde31c7 CMU: 0.03]
+[Individual 4708f383-9309-4e57-96d0-57d42bde31c7 ALINE: -0.21]
+[Individual 4708f383-9309-4e57-96d0-57d42bde31c7 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 7c09ef6e-231b-448b-a40a-75d6a19b6be2 Fitness: -11.76]
+[Individual 7c09ef6e-231b-448b-a40a-75d6a19b6be2 Levenshtein: -11.82]
+[Individual 7c09ef6e-231b-448b-a40a-75d6a19b6be2 CMU: 0.03]
+[Individual 7c09ef6e-231b-448b-a40a-75d6a19b6be2 ALINE: -0.21]
+[Individual 7c09ef6e-231b-448b-a40a-75d6a19b6be2 NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 05cb82e4-e516-4eca-beae-155e0078add4 Fitness: -11.79]
+[Individual 05cb82e4-e516-4eca-beae-155e0078add4 Levenshtein: -11.82]
+[Individual 05cb82e4-e516-4eca-beae-155e0078add4 CMU: 0.03]
+[Individual 05cb82e4-e516-4eca-beae-155e0078add4 ALINE: -0.21]
+[Individual 05cb82e4-e516-4eca-beae-155e0078add4 NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 9ddc144a-a180-4dd3-b650-e539174b2062 Fitness: -11.80]
+[Individual 9ddc144a-a180-4dd3-b650-e539174b2062 Levenshtein: -11.82]
+[Individual 9ddc144a-a180-4dd3-b650-e539174b2062 CMU: 0.03]
+[Individual 9ddc144a-a180-4dd3-b650-e539174b2062 ALINE: -0.21]
+[Individual 9ddc144a-a180-4dd3-b650-e539174b2062 NISQA: 0.19]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 9c82f65e-1f29-4cf1-8f0a-7356b768f7c9 Fitness: -11.76]
+[Individual 9c82f65e-1f29-4cf1-8f0a-7356b768f7c9 Levenshtein: -11.82]
+[Individual 9c82f65e-1f29-4cf1-8f0a-7356b768f7c9 CMU: 0.03]
+[Individual 9c82f65e-1f29-4cf1-8f0a-7356b768f7c9 ALINE: -0.21]
+[Individual 9c82f65e-1f29-4cf1-8f0a-7356b768f7c9 NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual ab230493-cf60-4b01-969b-f2cf316b06aa Fitness: -11.78]
+[Individual ab230493-cf60-4b01-969b-f2cf316b06aa Levenshtein: -11.82]
+[Individual ab230493-cf60-4b01-969b-f2cf316b06aa CMU: 0.03]
+[Individual ab230493-cf60-4b01-969b-f2cf316b06aa ALINE: -0.21]
+[Individual ab230493-cf60-4b01-969b-f2cf316b06aa NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual d4be3884-71d9-4ac4-ae65-b4f7658a6601 Fitness: -11.77]
+[Individual d4be3884-71d9-4ac4-ae65-b4f7658a6601 Levenshtein: -11.82]
+[Individual d4be3884-71d9-4ac4-ae65-b4f7658a6601 CMU: 0.03]
+[Individual d4be3884-71d9-4ac4-ae65-b4f7658a6601 ALINE: -0.21]
+[Individual d4be3884-71d9-4ac4-ae65-b4f7658a6601 NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 1488c375-26d5-4748-ae79-82bd738a0e69 Fitness: -11.78]
+[Individual 1488c375-26d5-4748-ae79-82bd738a0e69 Levenshtein: -11.82]
+[Individual 1488c375-26d5-4748-ae79-82bd738a0e69 CMU: 0.03]
+[Individual 1488c375-26d5-4748-ae79-82bd738a0e69 ALINE: -0.21]
+[Individual 1488c375-26d5-4748-ae79-82bd738a0e69 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 3ba2015b-eebc-4087-8afd-ce05c50d15dd Fitness: -11.79]
+[Individual 3ba2015b-eebc-4087-8afd-ce05c50d15dd Levenshtein: -11.82]
+[Individual 3ba2015b-eebc-4087-8afd-ce05c50d15dd CMU: 0.03]
+[Individual 3ba2015b-eebc-4087-8afd-ce05c50d15dd ALINE: -0.21]
+[Individual 3ba2015b-eebc-4087-8afd-ce05c50d15dd NISQA: 0.21]
+
+
+[Epoch 0 Closest Candidate: '[0.00446406 0.0059547  0.0399117  ... 0.00115    0.01512087 0.00435089]', Fitness: -8.78] 
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 41bfe864-debb-4801-89a9-f946df0c68ed Fitness: -11.81]
+[Individual 41bfe864-debb-4801-89a9-f946df0c68ed Levenshtein: -11.82]
+[Individual 41bfe864-debb-4801-89a9-f946df0c68ed CMU: 0.03]
+[Individual 41bfe864-debb-4801-89a9-f946df0c68ed ALINE: -0.21]
+[Individual 41bfe864-debb-4801-89a9-f946df0c68ed NISQA: 0.19]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 7c09ef6e-231b-448b-a40a-75d6a19b6be2 Fitness: -11.78]
+[Individual 7c09ef6e-231b-448b-a40a-75d6a19b6be2 Levenshtein: -11.82]
+[Individual 7c09ef6e-231b-448b-a40a-75d6a19b6be2 CMU: 0.03]
+[Individual 7c09ef6e-231b-448b-a40a-75d6a19b6be2 ALINE: -0.21]
+[Individual 7c09ef6e-231b-448b-a40a-75d6a19b6be2 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 7ba534c2-1d63-4f87-9f86-6ca20b636f3b Fitness: -11.77]
+[Individual 7ba534c2-1d63-4f87-9f86-6ca20b636f3b Levenshtein: -11.82]
+[Individual 7ba534c2-1d63-4f87-9f86-6ca20b636f3b CMU: 0.03]
+[Individual 7ba534c2-1d63-4f87-9f86-6ca20b636f3b ALINE: -0.21]
+[Individual 7ba534c2-1d63-4f87-9f86-6ca20b636f3b NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 99b3f4ed-af73-4edd-91b2-226bf77b0ad2 Fitness: -11.78]
+[Individual 99b3f4ed-af73-4edd-91b2-226bf77b0ad2 Levenshtein: -11.82]
+[Individual 99b3f4ed-af73-4edd-91b2-226bf77b0ad2 CMU: 0.03]
+[Individual 99b3f4ed-af73-4edd-91b2-226bf77b0ad2 ALINE: -0.21]
+[Individual 99b3f4ed-af73-4edd-91b2-226bf77b0ad2 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 8f924711-949e-4e82-abc5-133dc842b6a8 Fitness: -11.77]
+[Individual 8f924711-949e-4e82-abc5-133dc842b6a8 Levenshtein: -11.82]
+[Individual 8f924711-949e-4e82-abc5-133dc842b6a8 CMU: 0.03]
+[Individual 8f924711-949e-4e82-abc5-133dc842b6a8 ALINE: -0.21]
+[Individual 8f924711-949e-4e82-abc5-133dc842b6a8 NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 5edcd577-4378-4fc6-b5b0-5d307369a161 Fitness: -11.78]
+[Individual 5edcd577-4378-4fc6-b5b0-5d307369a161 Levenshtein: -11.82]
+[Individual 5edcd577-4378-4fc6-b5b0-5d307369a161 CMU: 0.03]
+[Individual 5edcd577-4378-4fc6-b5b0-5d307369a161 ALINE: -0.21]
+[Individual 5edcd577-4378-4fc6-b5b0-5d307369a161 NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANG
+[Individual bdcb8fdf-b7c8-486d-b0a0-f358d06fbc99 Fitness: -11.07]
+[Individual bdcb8fdf-b7c8-486d-b0a0-f358d06fbc99 Levenshtein: -11.00]
+[Individual bdcb8fdf-b7c8-486d-b0a0-f358d06fbc99 CMU: 0.03]
+[Individual bdcb8fdf-b7c8-486d-b0a0-f358d06fbc99 ALINE: -0.30]
+[Individual bdcb8fdf-b7c8-486d-b0a0-f358d06fbc99 NISQA: 0.20]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 30b77e5e-31fb-4324-a008-302438044e8e Fitness: -11.76]
+[Individual 30b77e5e-31fb-4324-a008-302438044e8e Levenshtein: -11.82]
+[Individual 30b77e5e-31fb-4324-a008-302438044e8e CMU: 0.03]
+[Individual 30b77e5e-31fb-4324-a008-302438044e8e ALINE: -0.21]
+[Individual 30b77e5e-31fb-4324-a008-302438044e8e NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 220813aa-eed4-4962-abd4-cce1f4aeb034 Fitness: -11.77]
+[Individual 220813aa-eed4-4962-abd4-cce1f4aeb034 Levenshtein: -11.82]
+[Individual 220813aa-eed4-4962-abd4-cce1f4aeb034 CMU: 0.03]
+[Individual 220813aa-eed4-4962-abd4-cce1f4aeb034 ALINE: -0.21]
+[Individual 220813aa-eed4-4962-abd4-cce1f4aeb034 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual df5bc349-3e76-4ac8-9fe8-bd3034b99281 Fitness: -11.79]
+[Individual df5bc349-3e76-4ac8-9fe8-bd3034b99281 Levenshtein: -11.82]
+[Individual df5bc349-3e76-4ac8-9fe8-bd3034b99281 CMU: 0.03]
+[Individual df5bc349-3e76-4ac8-9fe8-bd3034b99281 ALINE: -0.21]
+[Individual df5bc349-3e76-4ac8-9fe8-bd3034b99281 NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual d349a0f3-14f7-4f5e-9e38-ef751984f3b1 Fitness: -11.79]
+[Individual d349a0f3-14f7-4f5e-9e38-ef751984f3b1 Levenshtein: -11.82]
+[Individual d349a0f3-14f7-4f5e-9e38-ef751984f3b1 CMU: 0.03]
+[Individual d349a0f3-14f7-4f5e-9e38-ef751984f3b1 ALINE: -0.21]
+[Individual d349a0f3-14f7-4f5e-9e38-ef751984f3b1 NISQA: 0.20]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 78069350-883e-418e-8cc8-00e0deb64292 Fitness: -11.81]
+[Individual 78069350-883e-418e-8cc8-00e0deb64292 Levenshtein: -11.82]
+[Individual 78069350-883e-418e-8cc8-00e0deb64292 CMU: 0.03]
+[Individual 78069350-883e-418e-8cc8-00e0deb64292 ALINE: -0.21]
+[Individual 78069350-883e-418e-8cc8-00e0deb64292 NISQA: 0.18]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 1421be7e-4e38-4b28-a08c-d596c167824b Fitness: -11.76]
+[Individual 1421be7e-4e38-4b28-a08c-d596c167824b Levenshtein: -11.82]
+[Individual 1421be7e-4e38-4b28-a08c-d596c167824b CMU: 0.03]
+[Individual 1421be7e-4e38-4b28-a08c-d596c167824b ALINE: -0.21]
+[Individual 1421be7e-4e38-4b28-a08c-d596c167824b NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual a4a52468-472a-4c62-b798-047c1a533d36 Fitness: -11.78]
+[Individual a4a52468-472a-4c62-b798-047c1a533d36 Levenshtein: -11.82]
+[Individual a4a52468-472a-4c62-b798-047c1a533d36 CMU: 0.03]
+[Individual a4a52468-472a-4c62-b798-047c1a533d36 ALINE: -0.21]
+[Individual a4a52468-472a-4c62-b798-047c1a533d36 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 9215a7d1-5ef6-43f4-9878-35f812d71388 Fitness: -11.77]
+[Individual 9215a7d1-5ef6-43f4-9878-35f812d71388 Levenshtein: -11.82]
+[Individual 9215a7d1-5ef6-43f4-9878-35f812d71388 CMU: 0.03]
+[Individual 9215a7d1-5ef6-43f4-9878-35f812d71388 ALINE: -0.21]
+[Individual 9215a7d1-5ef6-43f4-9878-35f812d71388 NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 5a253230-4a4a-42cd-841a-3b9666f13e52 Fitness: -11.77]
+[Individual 5a253230-4a4a-42cd-841a-3b9666f13e52 Levenshtein: -11.82]
+[Individual 5a253230-4a4a-42cd-841a-3b9666f13e52 CMU: 0.03]
+[Individual 5a253230-4a4a-42cd-841a-3b9666f13e52 ALINE: -0.21]
+[Individual 5a253230-4a4a-42cd-841a-3b9666f13e52 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual a0eef0e4-7bb1-400e-ba8e-78de2b6e7f4c Fitness: -11.77]
+[Individual a0eef0e4-7bb1-400e-ba8e-78de2b6e7f4c Levenshtein: -11.82]
+[Individual a0eef0e4-7bb1-400e-ba8e-78de2b6e7f4c CMU: 0.03]
+[Individual a0eef0e4-7bb1-400e-ba8e-78de2b6e7f4c ALINE: -0.21]
+[Individual a0eef0e4-7bb1-400e-ba8e-78de2b6e7f4c NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 437c3f39-84b0-43e7-85aa-d4ccb5e540b0 Fitness: -11.77]
+[Individual 437c3f39-84b0-43e7-85aa-d4ccb5e540b0 Levenshtein: -11.82]
+[Individual 437c3f39-84b0-43e7-85aa-d4ccb5e540b0 CMU: 0.03]
+[Individual 437c3f39-84b0-43e7-85aa-d4ccb5e540b0 ALINE: -0.21]
+[Individual 437c3f39-84b0-43e7-85aa-d4ccb5e540b0 NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 827ebe93-a9ad-49b9-b655-77c791ee1efe Fitness: -11.78]
+[Individual 827ebe93-a9ad-49b9-b655-77c791ee1efe Levenshtein: -11.82]
+[Individual 827ebe93-a9ad-49b9-b655-77c791ee1efe CMU: 0.03]
+[Individual 827ebe93-a9ad-49b9-b655-77c791ee1efe ALINE: -0.21]
+[Individual 827ebe93-a9ad-49b9-b655-77c791ee1efe NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual f9ad0d28-24d3-40d6-aed1-2f9674e15148 Fitness: -11.77]
+[Individual f9ad0d28-24d3-40d6-aed1-2f9674e15148 Levenshtein: -11.82]
+[Individual f9ad0d28-24d3-40d6-aed1-2f9674e15148 CMU: 0.03]
+[Individual f9ad0d28-24d3-40d6-aed1-2f9674e15148 ALINE: -0.21]
+[Individual f9ad0d28-24d3-40d6-aed1-2f9674e15148 NISQA: 0.23]
+
+
+[Epoch 1 Closest Candidate: '[ 0.01511123  0.01182407  0.00877616 ...  0.00910302  0.00607315
+ -0.00029657]', Fitness: -11.07] 
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual bdcb8fdf-b7c8-486d-b0a0-f358d06fbc99 Fitness: -11.77]
+[Individual bdcb8fdf-b7c8-486d-b0a0-f358d06fbc99 Levenshtein: -11.82]
+[Individual bdcb8fdf-b7c8-486d-b0a0-f358d06fbc99 CMU: 0.03]
+[Individual bdcb8fdf-b7c8-486d-b0a0-f358d06fbc99 ALINE: -0.21]
+[Individual bdcb8fdf-b7c8-486d-b0a0-f358d06fbc99 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 1421be7e-4e38-4b28-a08c-d596c167824b Fitness: -11.77]
+[Individual 1421be7e-4e38-4b28-a08c-d596c167824b Levenshtein: -11.82]
+[Individual 1421be7e-4e38-4b28-a08c-d596c167824b CMU: 0.03]
+[Individual 1421be7e-4e38-4b28-a08c-d596c167824b ALINE: -0.21]
+[Individual 1421be7e-4e38-4b28-a08c-d596c167824b NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 4a26dfd2-a614-44df-bce4-5715317eb20c Fitness: -11.78]
+[Individual 4a26dfd2-a614-44df-bce4-5715317eb20c Levenshtein: -11.82]
+[Individual 4a26dfd2-a614-44df-bce4-5715317eb20c CMU: 0.03]
+[Individual 4a26dfd2-a614-44df-bce4-5715317eb20c ALINE: -0.21]
+[Individual 4a26dfd2-a614-44df-bce4-5715317eb20c NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 40f7e26c-694a-483b-a31c-cc4d267822ad Fitness: -11.77]
+[Individual 40f7e26c-694a-483b-a31c-cc4d267822ad Levenshtein: -11.82]
+[Individual 40f7e26c-694a-483b-a31c-cc4d267822ad CMU: 0.03]
+[Individual 40f7e26c-694a-483b-a31c-cc4d267822ad ALINE: -0.21]
+[Individual 40f7e26c-694a-483b-a31c-cc4d267822ad NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 73d76a9c-764d-4ebd-a2c0-3531fb8fdae9 Fitness: -11.77]
+[Individual 73d76a9c-764d-4ebd-a2c0-3531fb8fdae9 Levenshtein: -11.82]
+[Individual 73d76a9c-764d-4ebd-a2c0-3531fb8fdae9 CMU: 0.03]
+[Individual 73d76a9c-764d-4ebd-a2c0-3531fb8fdae9 ALINE: -0.21]
+[Individual 73d76a9c-764d-4ebd-a2c0-3531fb8fdae9 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual fb9d10ca-cdc9-4179-90cc-e70e1f10b68f Fitness: -11.78]
+[Individual fb9d10ca-cdc9-4179-90cc-e70e1f10b68f Levenshtein: -11.82]
+[Individual fb9d10ca-cdc9-4179-90cc-e70e1f10b68f CMU: 0.03]
+[Individual fb9d10ca-cdc9-4179-90cc-e70e1f10b68f ALINE: -0.21]
+[Individual fb9d10ca-cdc9-4179-90cc-e70e1f10b68f NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual d3176cd7-adc6-42ce-9309-a4a08a78860a Fitness: -11.79]
+[Individual d3176cd7-adc6-42ce-9309-a4a08a78860a Levenshtein: -11.82]
+[Individual d3176cd7-adc6-42ce-9309-a4a08a78860a CMU: 0.03]
+[Individual d3176cd7-adc6-42ce-9309-a4a08a78860a ALINE: -0.21]
+[Individual d3176cd7-adc6-42ce-9309-a4a08a78860a NISQA: 0.20]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 36d2a887-e1b4-49fd-9a55-f6f7fef2d52a Fitness: -11.77]
+[Individual 36d2a887-e1b4-49fd-9a55-f6f7fef2d52a Levenshtein: -11.82]
+[Individual 36d2a887-e1b4-49fd-9a55-f6f7fef2d52a CMU: 0.03]
+[Individual 36d2a887-e1b4-49fd-9a55-f6f7fef2d52a ALINE: -0.21]
+[Individual 36d2a887-e1b4-49fd-9a55-f6f7fef2d52a NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 934e00d1-50c7-43bc-8915-608f22eb75bb Fitness: -11.77]
+[Individual 934e00d1-50c7-43bc-8915-608f22eb75bb Levenshtein: -11.82]
+[Individual 934e00d1-50c7-43bc-8915-608f22eb75bb CMU: 0.03]
+[Individual 934e00d1-50c7-43bc-8915-608f22eb75bb ALINE: -0.21]
+[Individual 934e00d1-50c7-43bc-8915-608f22eb75bb NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 3a29ec24-be37-4447-90ad-8433cdb61671 Fitness: -11.77]
+[Individual 3a29ec24-be37-4447-90ad-8433cdb61671 Levenshtein: -11.82]
+[Individual 3a29ec24-be37-4447-90ad-8433cdb61671 CMU: 0.03]
+[Individual 3a29ec24-be37-4447-90ad-8433cdb61671 ALINE: -0.21]
+[Individual 3a29ec24-be37-4447-90ad-8433cdb61671 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual aaab7ad4-69e7-4639-a4d5-2002d3f580df Fitness: -11.79]
+[Individual aaab7ad4-69e7-4639-a4d5-2002d3f580df Levenshtein: -11.82]
+[Individual aaab7ad4-69e7-4639-a4d5-2002d3f580df CMU: 0.03]
+[Individual aaab7ad4-69e7-4639-a4d5-2002d3f580df ALINE: -0.21]
+[Individual aaab7ad4-69e7-4639-a4d5-2002d3f580df NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 9e4b1dce-c6cd-4c5f-b9be-5af43e440814 Fitness: -11.79]
+[Individual 9e4b1dce-c6cd-4c5f-b9be-5af43e440814 Levenshtein: -11.82]
+[Individual 9e4b1dce-c6cd-4c5f-b9be-5af43e440814 CMU: 0.03]
+[Individual 9e4b1dce-c6cd-4c5f-b9be-5af43e440814 ALINE: -0.21]
+[Individual 9e4b1dce-c6cd-4c5f-b9be-5af43e440814 NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 763a72ea-922e-4337-9251-aa98f618b0a9 Fitness: -11.77]
+[Individual 763a72ea-922e-4337-9251-aa98f618b0a9 Levenshtein: -11.82]
+[Individual 763a72ea-922e-4337-9251-aa98f618b0a9 CMU: 0.03]
+[Individual 763a72ea-922e-4337-9251-aa98f618b0a9 ALINE: -0.21]
+[Individual 763a72ea-922e-4337-9251-aa98f618b0a9 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual d6839d50-3d39-4a91-8474-5c143047969b Fitness: -11.77]
+[Individual d6839d50-3d39-4a91-8474-5c143047969b Levenshtein: -11.82]
+[Individual d6839d50-3d39-4a91-8474-5c143047969b CMU: 0.03]
+[Individual d6839d50-3d39-4a91-8474-5c143047969b ALINE: -0.21]
+[Individual d6839d50-3d39-4a91-8474-5c143047969b NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 38e33a5d-1e6f-41ff-8d85-000e7f988740 Fitness: -11.79]
+[Individual 38e33a5d-1e6f-41ff-8d85-000e7f988740 Levenshtein: -11.82]
+[Individual 38e33a5d-1e6f-41ff-8d85-000e7f988740 CMU: 0.03]
+[Individual 38e33a5d-1e6f-41ff-8d85-000e7f988740 ALINE: -0.21]
+[Individual 38e33a5d-1e6f-41ff-8d85-000e7f988740 NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANG
+[Individual c3bf22d0-372f-4c49-83ca-b2d927d5d64d Fitness: -11.05]
+[Individual c3bf22d0-372f-4c49-83ca-b2d927d5d64d Levenshtein: -11.00]
+[Individual c3bf22d0-372f-4c49-83ca-b2d927d5d64d CMU: 0.03]
+[Individual c3bf22d0-372f-4c49-83ca-b2d927d5d64d ALINE: -0.30]
+[Individual c3bf22d0-372f-4c49-83ca-b2d927d5d64d NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 168fb992-59b3-40e9-a365-e2e40a609f29 Fitness: -11.78]
+[Individual 168fb992-59b3-40e9-a365-e2e40a609f29 Levenshtein: -11.82]
+[Individual 168fb992-59b3-40e9-a365-e2e40a609f29 CMU: 0.03]
+[Individual 168fb992-59b3-40e9-a365-e2e40a609f29 ALINE: -0.21]
+[Individual 168fb992-59b3-40e9-a365-e2e40a609f29 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual b773e681-b546-436d-9c6c-0bf7ccf908fe Fitness: -11.79]
+[Individual b773e681-b546-436d-9c6c-0bf7ccf908fe Levenshtein: -11.82]
+[Individual b773e681-b546-436d-9c6c-0bf7ccf908fe CMU: 0.03]
+[Individual b773e681-b546-436d-9c6c-0bf7ccf908fe ALINE: -0.21]
+[Individual b773e681-b546-436d-9c6c-0bf7ccf908fe NISQA: 0.20]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual b86ec267-ff16-4ed4-a9f6-05dc214e24e6 Fitness: -11.77]
+[Individual b86ec267-ff16-4ed4-a9f6-05dc214e24e6 Levenshtein: -11.82]
+[Individual b86ec267-ff16-4ed4-a9f6-05dc214e24e6 CMU: 0.03]
+[Individual b86ec267-ff16-4ed4-a9f6-05dc214e24e6 ALINE: -0.21]
+[Individual b86ec267-ff16-4ed4-a9f6-05dc214e24e6 NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 0248fca9-af21-4379-b46d-072c049bda60 Fitness: -11.78]
+[Individual 0248fca9-af21-4379-b46d-072c049bda60 Levenshtein: -11.82]
+[Individual 0248fca9-af21-4379-b46d-072c049bda60 CMU: 0.03]
+[Individual 0248fca9-af21-4379-b46d-072c049bda60 ALINE: -0.21]
+[Individual 0248fca9-af21-4379-b46d-072c049bda60 NISQA: 0.21]
+
+
+[Epoch 2 Closest Candidate: '[0.00136845 0.00112273 0.00331954 ... 0.00163299 0.00621666 0.00791798]', Fitness: -11.05] 
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual c3bf22d0-372f-4c49-83ca-b2d927d5d64d Fitness: -11.79]
+[Individual c3bf22d0-372f-4c49-83ca-b2d927d5d64d Levenshtein: -11.82]
+[Individual c3bf22d0-372f-4c49-83ca-b2d927d5d64d CMU: 0.03]
+[Individual c3bf22d0-372f-4c49-83ca-b2d927d5d64d ALINE: -0.21]
+[Individual c3bf22d0-372f-4c49-83ca-b2d927d5d64d NISQA: 0.20]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual b86ec267-ff16-4ed4-a9f6-05dc214e24e6 Fitness: -11.80]
+[Individual b86ec267-ff16-4ed4-a9f6-05dc214e24e6 Levenshtein: -11.82]
+[Individual b86ec267-ff16-4ed4-a9f6-05dc214e24e6 CMU: 0.03]
+[Individual b86ec267-ff16-4ed4-a9f6-05dc214e24e6 ALINE: -0.21]
+[Individual b86ec267-ff16-4ed4-a9f6-05dc214e24e6 NISQA: 0.19]
+
+
+Google ASR Result after 0 retries: SAMMY GOT
+[Individual 3e689669-3a67-48c9-909f-ade797d00042 Fitness: -8.77]
+[Individual 3e689669-3a67-48c9-909f-ade797d00042 Levenshtein: -8.75]
+[Individual 3e689669-3a67-48c9-909f-ade797d00042 CMU: 0.03]
+[Individual 3e689669-3a67-48c9-909f-ade797d00042 ALINE: -0.26]
+[Individual 3e689669-3a67-48c9-909f-ade797d00042 NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual da4290e2-a5de-48c1-8d7a-eb0b156f6c07 Fitness: -11.80]
+[Individual da4290e2-a5de-48c1-8d7a-eb0b156f6c07 Levenshtein: -11.82]
+[Individual da4290e2-a5de-48c1-8d7a-eb0b156f6c07 CMU: 0.03]
+[Individual da4290e2-a5de-48c1-8d7a-eb0b156f6c07 ALINE: -0.21]
+[Individual da4290e2-a5de-48c1-8d7a-eb0b156f6c07 NISQA: 0.20]
+
+
+Google ASR Result after 0 retries: SAMMY GOT
+[Individual ce914bf7-8041-4e3e-9193-87d3d7ba7742 Fitness: -8.79]
+[Individual ce914bf7-8041-4e3e-9193-87d3d7ba7742 Levenshtein: -8.75]
+[Individual ce914bf7-8041-4e3e-9193-87d3d7ba7742 CMU: 0.03]
+[Individual ce914bf7-8041-4e3e-9193-87d3d7ba7742 ALINE: -0.26]
+[Individual ce914bf7-8041-4e3e-9193-87d3d7ba7742 NISQA: 0.19]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 79cc9d1c-a35b-4fe4-9502-ccfc8c053e4f Fitness: -11.78]
+[Individual 79cc9d1c-a35b-4fe4-9502-ccfc8c053e4f Levenshtein: -11.82]
+[Individual 79cc9d1c-a35b-4fe4-9502-ccfc8c053e4f CMU: 0.03]
+[Individual 79cc9d1c-a35b-4fe4-9502-ccfc8c053e4f ALINE: -0.21]
+[Individual 79cc9d1c-a35b-4fe4-9502-ccfc8c053e4f NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 9924cd6a-78f1-4fc6-87af-1a4455fca29d Fitness: -11.79]
+[Individual 9924cd6a-78f1-4fc6-87af-1a4455fca29d Levenshtein: -11.82]
+[Individual 9924cd6a-78f1-4fc6-87af-1a4455fca29d CMU: 0.03]
+[Individual 9924cd6a-78f1-4fc6-87af-1a4455fca29d ALINE: -0.21]
+[Individual 9924cd6a-78f1-4fc6-87af-1a4455fca29d NISQA: 0.20]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 0f52dc9e-b828-46c5-a2bd-6f48153d3efd Fitness: -11.78]
+[Individual 0f52dc9e-b828-46c5-a2bd-6f48153d3efd Levenshtein: -11.82]
+[Individual 0f52dc9e-b828-46c5-a2bd-6f48153d3efd CMU: 0.03]
+[Individual 0f52dc9e-b828-46c5-a2bd-6f48153d3efd ALINE: -0.21]
+[Individual 0f52dc9e-b828-46c5-a2bd-6f48153d3efd NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual b9c6ed02-30b1-400b-8450-3f791135efb6 Fitness: -11.79]
+[Individual b9c6ed02-30b1-400b-8450-3f791135efb6 Levenshtein: -11.82]
+[Individual b9c6ed02-30b1-400b-8450-3f791135efb6 CMU: 0.03]
+[Individual b9c6ed02-30b1-400b-8450-3f791135efb6 ALINE: -0.21]
+[Individual b9c6ed02-30b1-400b-8450-3f791135efb6 NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 6ae94e03-6913-48f5-9f12-40224e397d01 Fitness: -11.77]
+[Individual 6ae94e03-6913-48f5-9f12-40224e397d01 Levenshtein: -11.82]
+[Individual 6ae94e03-6913-48f5-9f12-40224e397d01 CMU: 0.03]
+[Individual 6ae94e03-6913-48f5-9f12-40224e397d01 ALINE: -0.21]
+[Individual 6ae94e03-6913-48f5-9f12-40224e397d01 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT
+[Individual 93366a16-0c8e-4843-b62a-d3489dedde3a Fitness: -8.76]
+[Individual 93366a16-0c8e-4843-b62a-d3489dedde3a Levenshtein: -8.75]
+[Individual 93366a16-0c8e-4843-b62a-d3489dedde3a CMU: 0.03]
+[Individual 93366a16-0c8e-4843-b62a-d3489dedde3a ALINE: -0.26]
+[Individual 93366a16-0c8e-4843-b62a-d3489dedde3a NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 27b2e982-ca9e-4625-8991-477cbaed4b7b Fitness: -11.79]
+[Individual 27b2e982-ca9e-4625-8991-477cbaed4b7b Levenshtein: -11.82]
+[Individual 27b2e982-ca9e-4625-8991-477cbaed4b7b CMU: 0.03]
+[Individual 27b2e982-ca9e-4625-8991-477cbaed4b7b ALINE: -0.21]
+[Individual 27b2e982-ca9e-4625-8991-477cbaed4b7b NISQA: 0.20]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 7e8f8438-36c2-4e29-8a42-0ca68dc2680d Fitness: -11.77]
+[Individual 7e8f8438-36c2-4e29-8a42-0ca68dc2680d Levenshtein: -11.82]
+[Individual 7e8f8438-36c2-4e29-8a42-0ca68dc2680d CMU: 0.03]
+[Individual 7e8f8438-36c2-4e29-8a42-0ca68dc2680d ALINE: -0.21]
+[Individual 7e8f8438-36c2-4e29-8a42-0ca68dc2680d NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 63227621-dbd5-4b85-9ecc-5d656a692cd1 Fitness: -11.80]
+[Individual 63227621-dbd5-4b85-9ecc-5d656a692cd1 Levenshtein: -11.82]
+[Individual 63227621-dbd5-4b85-9ecc-5d656a692cd1 CMU: 0.03]
+[Individual 63227621-dbd5-4b85-9ecc-5d656a692cd1 ALINE: -0.21]
+[Individual 63227621-dbd5-4b85-9ecc-5d656a692cd1 NISQA: 0.20]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 53f500c3-b9db-4e98-9026-598307575b3f Fitness: -11.76]
+[Individual 53f500c3-b9db-4e98-9026-598307575b3f Levenshtein: -11.82]
+[Individual 53f500c3-b9db-4e98-9026-598307575b3f CMU: 0.03]
+[Individual 53f500c3-b9db-4e98-9026-598307575b3f ALINE: -0.21]
+[Individual 53f500c3-b9db-4e98-9026-598307575b3f NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual c8f8048d-9d54-45c6-b0bb-5ac967866693 Fitness: -11.77]
+[Individual c8f8048d-9d54-45c6-b0bb-5ac967866693 Levenshtein: -11.82]
+[Individual c8f8048d-9d54-45c6-b0bb-5ac967866693 CMU: 0.03]
+[Individual c8f8048d-9d54-45c6-b0bb-5ac967866693 ALINE: -0.21]
+[Individual c8f8048d-9d54-45c6-b0bb-5ac967866693 NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual abb0de27-ec9e-462f-91a5-022c2a20ebe5 Fitness: -11.77]
+[Individual abb0de27-ec9e-462f-91a5-022c2a20ebe5 Levenshtein: -11.82]
+[Individual abb0de27-ec9e-462f-91a5-022c2a20ebe5 CMU: 0.03]
+[Individual abb0de27-ec9e-462f-91a5-022c2a20ebe5 ALINE: -0.21]
+[Individual abb0de27-ec9e-462f-91a5-022c2a20ebe5 NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual f1748af8-20e7-4d06-bf71-b3d4ad41d81d Fitness: -11.79]
+[Individual f1748af8-20e7-4d06-bf71-b3d4ad41d81d Levenshtein: -11.82]
+[Individual f1748af8-20e7-4d06-bf71-b3d4ad41d81d CMU: 0.03]
+[Individual f1748af8-20e7-4d06-bf71-b3d4ad41d81d ALINE: -0.21]
+[Individual f1748af8-20e7-4d06-bf71-b3d4ad41d81d NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 5a868537-0f77-4b98-a1a1-3467d7de9d7f Fitness: -11.78]
+[Individual 5a868537-0f77-4b98-a1a1-3467d7de9d7f Levenshtein: -11.82]
+[Individual 5a868537-0f77-4b98-a1a1-3467d7de9d7f CMU: 0.03]
+[Individual 5a868537-0f77-4b98-a1a1-3467d7de9d7f ALINE: -0.21]
+[Individual 5a868537-0f77-4b98-a1a1-3467d7de9d7f NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual f081179c-98dc-4181-abbf-e1cd8f10723f Fitness: -11.78]
+[Individual f081179c-98dc-4181-abbf-e1cd8f10723f Levenshtein: -11.82]
+[Individual f081179c-98dc-4181-abbf-e1cd8f10723f CMU: 0.03]
+[Individual f081179c-98dc-4181-abbf-e1cd8f10723f ALINE: -0.21]
+[Individual f081179c-98dc-4181-abbf-e1cd8f10723f NISQA: 0.22]
+
+
+[Epoch 3 Closest Candidate: '[0.00584563 0.01524298 0.00805532 ... 0.00272567 0.01860585 0.00180048]', Fitness: -8.76] 
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 93366a16-0c8e-4843-b62a-d3489dedde3a Fitness: -11.80]
+[Individual 93366a16-0c8e-4843-b62a-d3489dedde3a Levenshtein: -11.82]
+[Individual 93366a16-0c8e-4843-b62a-d3489dedde3a CMU: 0.03]
+[Individual 93366a16-0c8e-4843-b62a-d3489dedde3a ALINE: -0.21]
+[Individual 93366a16-0c8e-4843-b62a-d3489dedde3a NISQA: 0.19]
+
+
+Google ASR Result after 0 retries: SAMMY GOT
+[Individual 3e689669-3a67-48c9-909f-ade797d00042 Fitness: -8.76]
+[Individual 3e689669-3a67-48c9-909f-ade797d00042 Levenshtein: -8.75]
+[Individual 3e689669-3a67-48c9-909f-ade797d00042 CMU: 0.03]
+[Individual 3e689669-3a67-48c9-909f-ade797d00042 ALINE: -0.26]
+[Individual 3e689669-3a67-48c9-909f-ade797d00042 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANG
+[Individual dd9a3e28-a36c-4ff0-ab87-488d59f9ff1c Fitness: -11.04]
+[Individual dd9a3e28-a36c-4ff0-ab87-488d59f9ff1c Levenshtein: -11.00]
+[Individual dd9a3e28-a36c-4ff0-ab87-488d59f9ff1c CMU: 0.03]
+[Individual dd9a3e28-a36c-4ff0-ab87-488d59f9ff1c ALINE: -0.30]
+[Individual dd9a3e28-a36c-4ff0-ab87-488d59f9ff1c NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 03a536a6-f106-4af4-82b9-cc5505f808c0 Fitness: -11.78]
+[Individual 03a536a6-f106-4af4-82b9-cc5505f808c0 Levenshtein: -11.82]
+[Individual 03a536a6-f106-4af4-82b9-cc5505f808c0 CMU: 0.03]
+[Individual 03a536a6-f106-4af4-82b9-cc5505f808c0 ALINE: -0.21]
+[Individual 03a536a6-f106-4af4-82b9-cc5505f808c0 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 8f21cd59-85f0-4aa1-8b93-8e876a145bbc Fitness: -11.76]
+[Individual 8f21cd59-85f0-4aa1-8b93-8e876a145bbc Levenshtein: -11.82]
+[Individual 8f21cd59-85f0-4aa1-8b93-8e876a145bbc CMU: 0.03]
+[Individual 8f21cd59-85f0-4aa1-8b93-8e876a145bbc ALINE: -0.21]
+[Individual 8f21cd59-85f0-4aa1-8b93-8e876a145bbc NISQA: 0.24]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANG
+[Individual f03aef45-27dc-463d-a544-18984a4a91c5 Fitness: -11.08]
+[Individual f03aef45-27dc-463d-a544-18984a4a91c5 Levenshtein: -11.00]
+[Individual f03aef45-27dc-463d-a544-18984a4a91c5 CMU: 0.03]
+[Individual f03aef45-27dc-463d-a544-18984a4a91c5 ALINE: -0.30]
+[Individual f03aef45-27dc-463d-a544-18984a4a91c5 NISQA: 0.19]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual f52be658-f4a0-41b1-a711-ec6861633560 Fitness: -11.78]
+[Individual f52be658-f4a0-41b1-a711-ec6861633560 Levenshtein: -11.82]
+[Individual f52be658-f4a0-41b1-a711-ec6861633560 CMU: 0.03]
+[Individual f52be658-f4a0-41b1-a711-ec6861633560 ALINE: -0.21]
+[Individual f52be658-f4a0-41b1-a711-ec6861633560 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANG
+[Individual 7c7dcab8-3d3a-4cd9-a9c4-e1d3bc821498 Fitness: -11.06]
+[Individual 7c7dcab8-3d3a-4cd9-a9c4-e1d3bc821498 Levenshtein: -11.00]
+[Individual 7c7dcab8-3d3a-4cd9-a9c4-e1d3bc821498 CMU: 0.03]
+[Individual 7c7dcab8-3d3a-4cd9-a9c4-e1d3bc821498 ALINE: -0.30]
+[Individual 7c7dcab8-3d3a-4cd9-a9c4-e1d3bc821498 NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 94eb9af9-536b-46fe-8f43-d36869c8808d Fitness: -11.76]
+[Individual 94eb9af9-536b-46fe-8f43-d36869c8808d Levenshtein: -11.82]
+[Individual 94eb9af9-536b-46fe-8f43-d36869c8808d CMU: 0.03]
+[Individual 94eb9af9-536b-46fe-8f43-d36869c8808d ALINE: -0.21]
+[Individual 94eb9af9-536b-46fe-8f43-d36869c8808d NISQA: 0.24]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 4717c27d-b589-4ace-ab9e-e5cf52f8c056 Fitness: -11.78]
+[Individual 4717c27d-b589-4ace-ab9e-e5cf52f8c056 Levenshtein: -11.82]
+[Individual 4717c27d-b589-4ace-ab9e-e5cf52f8c056 CMU: 0.03]
+[Individual 4717c27d-b589-4ace-ab9e-e5cf52f8c056 ALINE: -0.21]
+[Individual 4717c27d-b589-4ace-ab9e-e5cf52f8c056 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SENDING
+[Individual 2f29316d-9b40-45e4-b85c-1372adabbeec Fitness: -4.27]
+[Individual 2f29316d-9b40-45e4-b85c-1372adabbeec Levenshtein: -4.29]
+[Individual 2f29316d-9b40-45e4-b85c-1372adabbeec CMU: 0.07]
+[Individual 2f29316d-9b40-45e4-b85c-1372adabbeec ALINE: -0.19]
+[Individual 2f29316d-9b40-45e4-b85c-1372adabbeec NISQA: 0.15]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANG
+[Individual ea5fa50e-90f0-4c2f-8345-5bbc9d078211 Fitness: -11.07]
+[Individual ea5fa50e-90f0-4c2f-8345-5bbc9d078211 Levenshtein: -11.00]
+[Individual ea5fa50e-90f0-4c2f-8345-5bbc9d078211 CMU: 0.03]
+[Individual ea5fa50e-90f0-4c2f-8345-5bbc9d078211 ALINE: -0.30]
+[Individual ea5fa50e-90f0-4c2f-8345-5bbc9d078211 NISQA: 0.20]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 9bb7af24-5186-4da3-bd85-5cbced9b538e Fitness: -11.77]
+[Individual 9bb7af24-5186-4da3-bd85-5cbced9b538e Levenshtein: -11.82]
+[Individual 9bb7af24-5186-4da3-bd85-5cbced9b538e CMU: 0.03]
+[Individual 9bb7af24-5186-4da3-bd85-5cbced9b538e ALINE: -0.21]
+[Individual 9bb7af24-5186-4da3-bd85-5cbced9b538e NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT
+[Individual 9f06b392-1854-4518-95b6-392e204f0232 Fitness: -8.90]
+[Individual 9f06b392-1854-4518-95b6-392e204f0232 Levenshtein: -8.75]
+[Individual 9f06b392-1854-4518-95b6-392e204f0232 CMU: 0.03]
+[Individual 9f06b392-1854-4518-95b6-392e204f0232 ALINE: -0.26]
+[Individual 9f06b392-1854-4518-95b6-392e204f0232 NISQA: 0.08]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANG
+[Individual ed6192ef-3da0-4258-a6f0-61aac778bb35 Fitness: -11.10]
+[Individual ed6192ef-3da0-4258-a6f0-61aac778bb35 Levenshtein: -11.00]
+[Individual ed6192ef-3da0-4258-a6f0-61aac778bb35 CMU: 0.03]
+[Individual ed6192ef-3da0-4258-a6f0-61aac778bb35 ALINE: -0.30]
+[Individual ed6192ef-3da0-4258-a6f0-61aac778bb35 NISQA: 0.17]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 4868eb70-d29e-4613-8506-a6a2e2531bad Fitness: -11.77]
+[Individual 4868eb70-d29e-4613-8506-a6a2e2531bad Levenshtein: -11.82]
+[Individual 4868eb70-d29e-4613-8506-a6a2e2531bad CMU: 0.03]
+[Individual 4868eb70-d29e-4613-8506-a6a2e2531bad ALINE: -0.21]
+[Individual 4868eb70-d29e-4613-8506-a6a2e2531bad NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 01c4bc75-cb39-4a8b-a863-9dca3158b074 Fitness: -11.77]
+[Individual 01c4bc75-cb39-4a8b-a863-9dca3158b074 Levenshtein: -11.82]
+[Individual 01c4bc75-cb39-4a8b-a863-9dca3158b074 CMU: 0.03]
+[Individual 01c4bc75-cb39-4a8b-a863-9dca3158b074 ALINE: -0.21]
+[Individual 01c4bc75-cb39-4a8b-a863-9dca3158b074 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual f6f6fd3c-f16a-4007-a7a1-5f748a1da41b Fitness: -11.78]
+[Individual f6f6fd3c-f16a-4007-a7a1-5f748a1da41b Levenshtein: -11.82]
+[Individual f6f6fd3c-f16a-4007-a7a1-5f748a1da41b CMU: 0.03]
+[Individual f6f6fd3c-f16a-4007-a7a1-5f748a1da41b ALINE: -0.21]
+[Individual f6f6fd3c-f16a-4007-a7a1-5f748a1da41b NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANG
+[Individual 8f6c69a3-0efb-43ee-8e25-361541b7725d Fitness: -11.03]
+[Individual 8f6c69a3-0efb-43ee-8e25-361541b7725d Levenshtein: -11.00]
+[Individual 8f6c69a3-0efb-43ee-8e25-361541b7725d CMU: 0.03]
+[Individual 8f6c69a3-0efb-43ee-8e25-361541b7725d ALINE: -0.30]
+[Individual 8f6c69a3-0efb-43ee-8e25-361541b7725d NISQA: 0.24]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 7cc3297e-d98c-4f3e-b0ae-96ec67d91bb4 Fitness: -11.78]
+[Individual 7cc3297e-d98c-4f3e-b0ae-96ec67d91bb4 Levenshtein: -11.82]
+[Individual 7cc3297e-d98c-4f3e-b0ae-96ec67d91bb4 CMU: 0.03]
+[Individual 7cc3297e-d98c-4f3e-b0ae-96ec67d91bb4 ALINE: -0.21]
+[Individual 7cc3297e-d98c-4f3e-b0ae-96ec67d91bb4 NISQA: 0.22]
+
+
+[Epoch 4 Closest Candidate: '[-0.00044527 -0.01399634  0.00424555 ...  0.00392047  0.0146277
+  0.0039718 ]', Fitness: -4.27] 
+
+Google ASR Result after 0 retries: LONDON
+[Individual 2f29316d-9b40-45e4-b85c-1372adabbeec Fitness: -7.67]
+[Individual 2f29316d-9b40-45e4-b85c-1372adabbeec Levenshtein: -7.69]
+[Individual 2f29316d-9b40-45e4-b85c-1372adabbeec CMU: 0.03]
+[Individual 2f29316d-9b40-45e4-b85c-1372adabbeec ALINE: -0.24]
+[Individual 2f29316d-9b40-45e4-b85c-1372adabbeec NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT
+[Individual 3e689669-3a67-48c9-909f-ade797d00042 Fitness: -8.76]
+[Individual 3e689669-3a67-48c9-909f-ade797d00042 Levenshtein: -8.75]
+[Individual 3e689669-3a67-48c9-909f-ade797d00042 CMU: 0.03]
+[Individual 3e689669-3a67-48c9-909f-ade797d00042 ALINE: -0.26]
+[Individual 3e689669-3a67-48c9-909f-ade797d00042 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual ce0bdea9-b264-48e5-b9f4-da2181dc301d Fitness: -11.78]
+[Individual ce0bdea9-b264-48e5-b9f4-da2181dc301d Levenshtein: -11.82]
+[Individual ce0bdea9-b264-48e5-b9f4-da2181dc301d CMU: 0.03]
+[Individual ce0bdea9-b264-48e5-b9f4-da2181dc301d ALINE: -0.21]
+[Individual ce0bdea9-b264-48e5-b9f4-da2181dc301d NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT
+[Individual 68a71f13-ce79-4fe2-8b0d-907f0efe79dd Fitness: -8.76]
+[Individual 68a71f13-ce79-4fe2-8b0d-907f0efe79dd Levenshtein: -8.75]
+[Individual 68a71f13-ce79-4fe2-8b0d-907f0efe79dd CMU: 0.03]
+[Individual 68a71f13-ce79-4fe2-8b0d-907f0efe79dd ALINE: -0.26]
+[Individual 68a71f13-ce79-4fe2-8b0d-907f0efe79dd NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual acf49940-86c2-4cf8-bb2e-7b027a568926 Fitness: -11.78]
+[Individual acf49940-86c2-4cf8-bb2e-7b027a568926 Levenshtein: -11.82]
+[Individual acf49940-86c2-4cf8-bb2e-7b027a568926 CMU: 0.03]
+[Individual acf49940-86c2-4cf8-bb2e-7b027a568926 ALINE: -0.21]
+[Individual acf49940-86c2-4cf8-bb2e-7b027a568926 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 00efa142-66e7-4cfb-aea8-4b85e606f514 Fitness: -11.83]
+[Individual 00efa142-66e7-4cfb-aea8-4b85e606f514 Levenshtein: -11.82]
+[Individual 00efa142-66e7-4cfb-aea8-4b85e606f514 CMU: 0.03]
+[Individual 00efa142-66e7-4cfb-aea8-4b85e606f514 ALINE: -0.21]
+[Individual 00efa142-66e7-4cfb-aea8-4b85e606f514 NISQA: 0.17]
+
+
+Google ASR Result after 0 retries: SAMMY GOT
+[Individual 150e1dc3-e448-4723-9b16-4d32e090d816 Fitness: -8.80]
+[Individual 150e1dc3-e448-4723-9b16-4d32e090d816 Levenshtein: -8.75]
+[Individual 150e1dc3-e448-4723-9b16-4d32e090d816 CMU: 0.03]
+[Individual 150e1dc3-e448-4723-9b16-4d32e090d816 ALINE: -0.26]
+[Individual 150e1dc3-e448-4723-9b16-4d32e090d816 NISQA: 0.18]
+
+
+Google ASR Result after 0 retries: SAMMY GOT
+[Individual 792b97f7-4d3b-4e23-bf99-14ce82eaa200 Fitness: -8.75]
+[Individual 792b97f7-4d3b-4e23-bf99-14ce82eaa200 Levenshtein: -8.75]
+[Individual 792b97f7-4d3b-4e23-bf99-14ce82eaa200 CMU: 0.03]
+[Individual 792b97f7-4d3b-4e23-bf99-14ce82eaa200 ALINE: -0.26]
+[Individual 792b97f7-4d3b-4e23-bf99-14ce82eaa200 NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SEND THAT
+[Individual ab2855a7-4386-4acc-a413-70a6be40d3f9 Fitness: -4.86]
+[Individual ab2855a7-4386-4acc-a413-70a6be40d3f9 Levenshtein: -5.00]
+[Individual ab2855a7-4386-4acc-a413-70a6be40d3f9 CMU: 0.07]
+[Individual ab2855a7-4386-4acc-a413-70a6be40d3f9 ALINE: -0.14]
+[Individual ab2855a7-4386-4acc-a413-70a6be40d3f9 NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 7e9242be-0015-4533-8ac3-351dabc1e0a5 Fitness: -11.76]
+[Individual 7e9242be-0015-4533-8ac3-351dabc1e0a5 Levenshtein: -11.82]
+[Individual 7e9242be-0015-4533-8ac3-351dabc1e0a5 CMU: 0.03]
+[Individual 7e9242be-0015-4533-8ac3-351dabc1e0a5 ALINE: -0.21]
+[Individual 7e9242be-0015-4533-8ac3-351dabc1e0a5 NISQA: 0.24]
+
+
+Google ASR Result after 0 retries: SAMMY GOT
+[Individual 2ca1c140-3a81-4eea-ac5b-dbd5f35217b9 Fitness: -8.76]
+[Individual 2ca1c140-3a81-4eea-ac5b-dbd5f35217b9 Levenshtein: -8.75]
+[Individual 2ca1c140-3a81-4eea-ac5b-dbd5f35217b9 CMU: 0.03]
+[Individual 2ca1c140-3a81-4eea-ac5b-dbd5f35217b9 ALINE: -0.26]
+[Individual 2ca1c140-3a81-4eea-ac5b-dbd5f35217b9 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual f9587fa9-290c-4e27-9ade-93365033c999 Fitness: -11.81]
+[Individual f9587fa9-290c-4e27-9ade-93365033c999 Levenshtein: -11.82]
+[Individual f9587fa9-290c-4e27-9ade-93365033c999 CMU: 0.03]
+[Individual f9587fa9-290c-4e27-9ade-93365033c999 ALINE: -0.21]
+[Individual f9587fa9-290c-4e27-9ade-93365033c999 NISQA: 0.18]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual ae8d4352-0881-458c-9c06-da40a53f95d2 Fitness: -11.78]
+[Individual ae8d4352-0881-458c-9c06-da40a53f95d2 Levenshtein: -11.82]
+[Individual ae8d4352-0881-458c-9c06-da40a53f95d2 CMU: 0.03]
+[Individual ae8d4352-0881-458c-9c06-da40a53f95d2 ALINE: -0.21]
+[Individual ae8d4352-0881-458c-9c06-da40a53f95d2 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual fc635613-50b2-4a75-a668-0f254b7bdd71 Fitness: -11.78]
+[Individual fc635613-50b2-4a75-a668-0f254b7bdd71 Levenshtein: -11.82]
+[Individual fc635613-50b2-4a75-a668-0f254b7bdd71 CMU: 0.03]
+[Individual fc635613-50b2-4a75-a668-0f254b7bdd71 ALINE: -0.21]
+[Individual fc635613-50b2-4a75-a668-0f254b7bdd71 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual cee25e9e-02ab-413e-ac63-b0cce00f1a9c Fitness: -11.77]
+[Individual cee25e9e-02ab-413e-ac63-b0cce00f1a9c Levenshtein: -11.82]
+[Individual cee25e9e-02ab-413e-ac63-b0cce00f1a9c CMU: 0.03]
+[Individual cee25e9e-02ab-413e-ac63-b0cce00f1a9c ALINE: -0.21]
+[Individual cee25e9e-02ab-413e-ac63-b0cce00f1a9c NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual cc53dda8-de9e-4457-97d8-68ee1be9fc7b Fitness: -11.80]
+[Individual cc53dda8-de9e-4457-97d8-68ee1be9fc7b Levenshtein: -11.82]
+[Individual cc53dda8-de9e-4457-97d8-68ee1be9fc7b CMU: 0.03]
+[Individual cc53dda8-de9e-4457-97d8-68ee1be9fc7b ALINE: -0.21]
+[Individual cc53dda8-de9e-4457-97d8-68ee1be9fc7b NISQA: 0.20]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 7077fbbf-ff77-4878-a653-0fc6380145ba Fitness: -11.81]
+[Individual 7077fbbf-ff77-4878-a653-0fc6380145ba Levenshtein: -11.82]
+[Individual 7077fbbf-ff77-4878-a653-0fc6380145ba CMU: 0.03]
+[Individual 7077fbbf-ff77-4878-a653-0fc6380145ba ALINE: -0.21]
+[Individual 7077fbbf-ff77-4878-a653-0fc6380145ba NISQA: 0.18]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 21340927-b89b-449e-87c1-cb75e9c4addf Fitness: -11.79]
+[Individual 21340927-b89b-449e-87c1-cb75e9c4addf Levenshtein: -11.82]
+[Individual 21340927-b89b-449e-87c1-cb75e9c4addf CMU: 0.03]
+[Individual 21340927-b89b-449e-87c1-cb75e9c4addf ALINE: -0.21]
+[Individual 21340927-b89b-449e-87c1-cb75e9c4addf NISQA: 0.20]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual f6ad8940-027f-42d2-8ae3-fce2107f3348 Fitness: -11.77]
+[Individual f6ad8940-027f-42d2-8ae3-fce2107f3348 Levenshtein: -11.82]
+[Individual f6ad8940-027f-42d2-8ae3-fce2107f3348 CMU: 0.03]
+[Individual f6ad8940-027f-42d2-8ae3-fce2107f3348 ALINE: -0.21]
+[Individual f6ad8940-027f-42d2-8ae3-fce2107f3348 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANG
+[Individual 201c9468-1ff4-4323-b32d-459bc20ed97a Fitness: -11.05]
+[Individual 201c9468-1ff4-4323-b32d-459bc20ed97a Levenshtein: -11.00]
+[Individual 201c9468-1ff4-4323-b32d-459bc20ed97a CMU: 0.03]
+[Individual 201c9468-1ff4-4323-b32d-459bc20ed97a ALINE: -0.30]
+[Individual 201c9468-1ff4-4323-b32d-459bc20ed97a NISQA: 0.22]
+
+
+[Epoch 5 Closest Candidate: '[ 0.01335229  0.00293204  0.09510767 ... -0.00261749  0.01502544
+ -0.00025386]', Fitness: -4.86] 
+
+Google ASR Result after 0 retries: LET ME GOT
+[Individual ab2855a7-4386-4acc-a413-70a6be40d3f9 Fitness: -8.04]
+[Individual ab2855a7-4386-4acc-a413-70a6be40d3f9 Levenshtein: -8.24]
+[Individual ab2855a7-4386-4acc-a413-70a6be40d3f9 CMU: 0.06]
+[Individual ab2855a7-4386-4acc-a413-70a6be40d3f9 ALINE: -0.03]
+[Individual ab2855a7-4386-4acc-a413-70a6be40d3f9 NISQA: 0.17]
+
+
+Google ASR Result after 0 retries: GOOD
+[Individual 2f29316d-9b40-45e4-b85c-1372adabbeec Fitness: -10.98]
+[Individual 2f29316d-9b40-45e4-b85c-1372adabbeec Levenshtein: -10.91]
+[Individual 2f29316d-9b40-45e4-b85c-1372adabbeec CMU: 0.03]
+[Individual 2f29316d-9b40-45e4-b85c-1372adabbeec ALINE: -0.31]
+[Individual 2f29316d-9b40-45e4-b85c-1372adabbeec NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT
+[Individual 2000c93b-26c0-4369-9b53-c47c450ff087 Fitness: -8.77]
+[Individual 2000c93b-26c0-4369-9b53-c47c450ff087 Levenshtein: -8.75]
+[Individual 2000c93b-26c0-4369-9b53-c47c450ff087 CMU: 0.03]
+[Individual 2000c93b-26c0-4369-9b53-c47c450ff087 ALINE: -0.26]
+[Individual 2000c93b-26c0-4369-9b53-c47c450ff087 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT
+[Individual 7415f3f5-3ff7-4b05-8f25-b452077d6676 Fitness: -8.77]
+[Individual 7415f3f5-3ff7-4b05-8f25-b452077d6676 Levenshtein: -8.75]
+[Individual 7415f3f5-3ff7-4b05-8f25-b452077d6676 CMU: 0.03]
+[Individual 7415f3f5-3ff7-4b05-8f25-b452077d6676 ALINE: -0.26]
+[Individual 7415f3f5-3ff7-4b05-8f25-b452077d6676 NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANG
+[Individual 972811bf-2744-4604-a989-914a960aad82 Fitness: -11.04]
+[Individual 972811bf-2744-4604-a989-914a960aad82 Levenshtein: -11.00]
+[Individual 972811bf-2744-4604-a989-914a960aad82 CMU: 0.03]
+[Individual 972811bf-2744-4604-a989-914a960aad82 ALINE: -0.30]
+[Individual 972811bf-2744-4604-a989-914a960aad82 NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOTTEN
+[Individual a65ddccf-1404-467e-a23c-6c90b4dfb4ff Fitness: -9.53]
+[Individual a65ddccf-1404-467e-a23c-6c90b4dfb4ff Levenshtein: -9.47]
+[Individual a65ddccf-1404-467e-a23c-6c90b4dfb4ff CMU: 0.03]
+[Individual a65ddccf-1404-467e-a23c-6c90b4dfb4ff ALINE: -0.29]
+[Individual a65ddccf-1404-467e-a23c-6c90b4dfb4ff NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 4c2aeabe-9dfa-49d0-affc-9e71fca52d2d Fitness: -11.79]
+[Individual 4c2aeabe-9dfa-49d0-affc-9e71fca52d2d Levenshtein: -11.82]
+[Individual 4c2aeabe-9dfa-49d0-affc-9e71fca52d2d CMU: 0.03]
+[Individual 4c2aeabe-9dfa-49d0-affc-9e71fca52d2d ALINE: -0.21]
+[Individual 4c2aeabe-9dfa-49d0-affc-9e71fca52d2d NISQA: 0.20]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 48d6a2ce-d18e-426d-a117-b1a79d9559a2 Fitness: -11.78]
+[Individual 48d6a2ce-d18e-426d-a117-b1a79d9559a2 Levenshtein: -11.82]
+[Individual 48d6a2ce-d18e-426d-a117-b1a79d9559a2 CMU: 0.03]
+[Individual 48d6a2ce-d18e-426d-a117-b1a79d9559a2 ALINE: -0.21]
+[Individual 48d6a2ce-d18e-426d-a117-b1a79d9559a2 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 040e6c2c-b2c9-4ff6-a9a1-7ca36b055b18 Fitness: -11.78]
+[Individual 040e6c2c-b2c9-4ff6-a9a1-7ca36b055b18 Levenshtein: -11.82]
+[Individual 040e6c2c-b2c9-4ff6-a9a1-7ca36b055b18 CMU: 0.03]
+[Individual 040e6c2c-b2c9-4ff6-a9a1-7ca36b055b18 ALINE: -0.21]
+[Individual 040e6c2c-b2c9-4ff6-a9a1-7ca36b055b18 NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 10dca1ed-8e42-406c-bb75-efc9513fe3ea Fitness: -11.77]
+[Individual 10dca1ed-8e42-406c-bb75-efc9513fe3ea Levenshtein: -11.82]
+[Individual 10dca1ed-8e42-406c-bb75-efc9513fe3ea CMU: 0.03]
+[Individual 10dca1ed-8e42-406c-bb75-efc9513fe3ea ALINE: -0.21]
+[Individual 10dca1ed-8e42-406c-bb75-efc9513fe3ea NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 8e6fb00a-08dc-4e02-861b-2df6c655433f Fitness: -11.82]
+[Individual 8e6fb00a-08dc-4e02-861b-2df6c655433f Levenshtein: -11.82]
+[Individual 8e6fb00a-08dc-4e02-861b-2df6c655433f CMU: 0.03]
+[Individual 8e6fb00a-08dc-4e02-861b-2df6c655433f ALINE: -0.21]
+[Individual 8e6fb00a-08dc-4e02-861b-2df6c655433f NISQA: 0.18]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 1bd873a7-e9d9-456c-ae35-08b27ff4b665 Fitness: -11.84]
+[Individual 1bd873a7-e9d9-456c-ae35-08b27ff4b665 Levenshtein: -11.82]
+[Individual 1bd873a7-e9d9-456c-ae35-08b27ff4b665 CMU: 0.03]
+[Individual 1bd873a7-e9d9-456c-ae35-08b27ff4b665 ALINE: -0.21]
+[Individual 1bd873a7-e9d9-456c-ae35-08b27ff4b665 NISQA: 0.16]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 9ae0f1dd-c685-4480-b891-0dca73d9dae0 Fitness: -11.78]
+[Individual 9ae0f1dd-c685-4480-b891-0dca73d9dae0 Levenshtein: -11.82]
+[Individual 9ae0f1dd-c685-4480-b891-0dca73d9dae0 CMU: 0.03]
+[Individual 9ae0f1dd-c685-4480-b891-0dca73d9dae0 ALINE: -0.21]
+[Individual 9ae0f1dd-c685-4480-b891-0dca73d9dae0 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SEND ME THAT
+[Individual 511c03c8-c2a2-4fb4-9ae6-d8a31f26738f Fitness: -4.97]
+[Individual 511c03c8-c2a2-4fb4-9ae6-d8a31f26738f Levenshtein: -5.26]
+[Individual 511c03c8-c2a2-4fb4-9ae6-d8a31f26738f CMU: 0.10]
+[Individual 511c03c8-c2a2-4fb4-9ae6-d8a31f26738f ALINE: -0.00]
+[Individual 511c03c8-c2a2-4fb4-9ae6-d8a31f26738f NISQA: 0.19]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual c81e0d31-7073-48e9-9e38-1b179756ee61 Fitness: -11.79]
+[Individual c81e0d31-7073-48e9-9e38-1b179756ee61 Levenshtein: -11.82]
+[Individual c81e0d31-7073-48e9-9e38-1b179756ee61 CMU: 0.03]
+[Individual c81e0d31-7073-48e9-9e38-1b179756ee61 ALINE: -0.21]
+[Individual c81e0d31-7073-48e9-9e38-1b179756ee61 NISQA: 0.20]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 8abbe2ef-be5d-4676-9728-8a7be71b6d09 Fitness: -11.80]
+[Individual 8abbe2ef-be5d-4676-9728-8a7be71b6d09 Levenshtein: -11.82]
+[Individual 8abbe2ef-be5d-4676-9728-8a7be71b6d09 CMU: 0.03]
+[Individual 8abbe2ef-be5d-4676-9728-8a7be71b6d09 ALINE: -0.21]
+[Individual 8abbe2ef-be5d-4676-9728-8a7be71b6d09 NISQA: 0.19]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 5a879258-5c55-4424-a877-421e3a8fc8ed Fitness: -11.76]
+[Individual 5a879258-5c55-4424-a877-421e3a8fc8ed Levenshtein: -11.82]
+[Individual 5a879258-5c55-4424-a877-421e3a8fc8ed CMU: 0.03]
+[Individual 5a879258-5c55-4424-a877-421e3a8fc8ed ALINE: -0.21]
+[Individual 5a879258-5c55-4424-a877-421e3a8fc8ed NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual e05c8cd2-7d4d-426a-95d0-22d1806f9d18 Fitness: -11.77]
+[Individual e05c8cd2-7d4d-426a-95d0-22d1806f9d18 Levenshtein: -11.82]
+[Individual e05c8cd2-7d4d-426a-95d0-22d1806f9d18 CMU: 0.03]
+[Individual e05c8cd2-7d4d-426a-95d0-22d1806f9d18 ALINE: -0.21]
+[Individual e05c8cd2-7d4d-426a-95d0-22d1806f9d18 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 1bae56ed-c38e-4a94-9359-646a9aeededf Fitness: -11.76]
+[Individual 1bae56ed-c38e-4a94-9359-646a9aeededf Levenshtein: -11.82]
+[Individual 1bae56ed-c38e-4a94-9359-646a9aeededf CMU: 0.03]
+[Individual 1bae56ed-c38e-4a94-9359-646a9aeededf ALINE: -0.21]
+[Individual 1bae56ed-c38e-4a94-9359-646a9aeededf NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual a94ef0f6-b544-4394-b820-96295df2ea63 Fitness: -11.78]
+[Individual a94ef0f6-b544-4394-b820-96295df2ea63 Levenshtein: -11.82]
+[Individual a94ef0f6-b544-4394-b820-96295df2ea63 CMU: 0.03]
+[Individual a94ef0f6-b544-4394-b820-96295df2ea63 ALINE: -0.21]
+[Individual a94ef0f6-b544-4394-b820-96295df2ea63 NISQA: 0.21]
+
+
+[Epoch 6 Closest Candidate: '[ 0.01335229  0.00020011  0.04365438 ...  0.0003948   0.01220314
+ -0.00162511]', Fitness: -4.97] 
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 511c03c8-c2a2-4fb4-9ae6-d8a31f26738f Fitness: -11.81]
+[Individual 511c03c8-c2a2-4fb4-9ae6-d8a31f26738f Levenshtein: -11.82]
+[Individual 511c03c8-c2a2-4fb4-9ae6-d8a31f26738f CMU: 0.03]
+[Individual 511c03c8-c2a2-4fb4-9ae6-d8a31f26738f ALINE: -0.21]
+[Individual 511c03c8-c2a2-4fb4-9ae6-d8a31f26738f NISQA: 0.18]
+
+
+Google ASR Result after 0 retries: FAMILY GUY
+[Individual ab2855a7-4386-4acc-a413-70a6be40d3f9 Fitness: -10.57]
+[Individual ab2855a7-4386-4acc-a413-70a6be40d3f9 Levenshtein: -10.59]
+[Individual ab2855a7-4386-4acc-a413-70a6be40d3f9 CMU: 0.01]
+[Individual ab2855a7-4386-4acc-a413-70a6be40d3f9 ALINE: -0.20]
+[Individual ab2855a7-4386-4acc-a413-70a6be40d3f9 NISQA: 0.20]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual f2ed5abc-abad-4e0f-8693-346659b2ea16 Fitness: -1000.85]
+[Individual f2ed5abc-abad-4e0f-8693-346659b2ea16 Levenshtein: -1000.00]
+[Individual f2ed5abc-abad-4e0f-8693-346659b2ea16 CMU: 0.00]
+[Individual f2ed5abc-abad-4e0f-8693-346659b2ea16 ALINE: -1.00]
+[Individual f2ed5abc-abad-4e0f-8693-346659b2ea16 NISQA: 0.15]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual a0062813-ce40-4f50-9176-a0ce1bf8f9e4 Fitness: -11.79]
+[Individual a0062813-ce40-4f50-9176-a0ce1bf8f9e4 Levenshtein: -11.82]
+[Individual a0062813-ce40-4f50-9176-a0ce1bf8f9e4 CMU: 0.03]
+[Individual a0062813-ce40-4f50-9176-a0ce1bf8f9e4 ALINE: -0.21]
+[Individual a0062813-ce40-4f50-9176-a0ce1bf8f9e4 NISQA: 0.20]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANG
+[Individual 5146f455-44b3-427c-af41-fb4b9d93ae70 Fitness: -11.08]
+[Individual 5146f455-44b3-427c-af41-fb4b9d93ae70 Levenshtein: -11.00]
+[Individual 5146f455-44b3-427c-af41-fb4b9d93ae70 CMU: 0.03]
+[Individual 5146f455-44b3-427c-af41-fb4b9d93ae70 ALINE: -0.30]
+[Individual 5146f455-44b3-427c-af41-fb4b9d93ae70 NISQA: 0.19]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANG
+[Individual 6dbee1a6-1de9-497b-9348-9b86b00f773b Fitness: -11.10]
+[Individual 6dbee1a6-1de9-497b-9348-9b86b00f773b Levenshtein: -11.00]
+[Individual 6dbee1a6-1de9-497b-9348-9b86b00f773b CMU: 0.03]
+[Individual 6dbee1a6-1de9-497b-9348-9b86b00f773b ALINE: -0.30]
+[Individual 6dbee1a6-1de9-497b-9348-9b86b00f773b NISQA: 0.18]
+
+
+Google ASR Result after 0 retries: SAMMY GOT
+[Individual 931c6781-ed68-4079-84ac-f8a385e1bd18 Fitness: -8.76]
+[Individual 931c6781-ed68-4079-84ac-f8a385e1bd18 Levenshtein: -8.75]
+[Individual 931c6781-ed68-4079-84ac-f8a385e1bd18 CMU: 0.03]
+[Individual 931c6781-ed68-4079-84ac-f8a385e1bd18 ALINE: -0.26]
+[Individual 931c6781-ed68-4079-84ac-f8a385e1bd18 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual da37056d-f6fe-4dcc-bfc9-c3e09e62d7d7 Fitness: -11.77]
+[Individual da37056d-f6fe-4dcc-bfc9-c3e09e62d7d7 Levenshtein: -11.82]
+[Individual da37056d-f6fe-4dcc-bfc9-c3e09e62d7d7 CMU: 0.03]
+[Individual da37056d-f6fe-4dcc-bfc9-c3e09e62d7d7 ALINE: -0.21]
+[Individual da37056d-f6fe-4dcc-bfc9-c3e09e62d7d7 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual b158f4d6-9d37-48b9-95d0-23b73f86eee9 Fitness: -11.77]
+[Individual b158f4d6-9d37-48b9-95d0-23b73f86eee9 Levenshtein: -11.82]
+[Individual b158f4d6-9d37-48b9-95d0-23b73f86eee9 CMU: 0.03]
+[Individual b158f4d6-9d37-48b9-95d0-23b73f86eee9 ALINE: -0.21]
+[Individual b158f4d6-9d37-48b9-95d0-23b73f86eee9 NISQA: 0.23]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual 5fc4e622-b087-4fd8-9552-36c2504bf59d Fitness: -1000.86]
+[Individual 5fc4e622-b087-4fd8-9552-36c2504bf59d Levenshtein: -1000.00]
+[Individual 5fc4e622-b087-4fd8-9552-36c2504bf59d CMU: 0.00]
+[Individual 5fc4e622-b087-4fd8-9552-36c2504bf59d ALINE: -1.00]
+[Individual 5fc4e622-b087-4fd8-9552-36c2504bf59d NISQA: 0.14]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual bb180644-f339-41be-a4c9-262161bd0493 Fitness: -1000.80]
+[Individual bb180644-f339-41be-a4c9-262161bd0493 Levenshtein: -1000.00]
+[Individual bb180644-f339-41be-a4c9-262161bd0493 CMU: 0.00]
+[Individual bb180644-f339-41be-a4c9-262161bd0493 ALINE: -1.00]
+[Individual bb180644-f339-41be-a4c9-262161bd0493 NISQA: 0.20]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual f2d60c1f-15c4-4ed3-98d9-f3453313f68f Fitness: -11.78]
+[Individual f2d60c1f-15c4-4ed3-98d9-f3453313f68f Levenshtein: -11.82]
+[Individual f2d60c1f-15c4-4ed3-98d9-f3453313f68f CMU: 0.03]
+[Individual f2d60c1f-15c4-4ed3-98d9-f3453313f68f ALINE: -0.21]
+[Individual f2d60c1f-15c4-4ed3-98d9-f3453313f68f NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual f4af3bdf-2b50-4752-a1b7-3253ac6a3c14 Fitness: -11.78]
+[Individual f4af3bdf-2b50-4752-a1b7-3253ac6a3c14 Levenshtein: -11.82]
+[Individual f4af3bdf-2b50-4752-a1b7-3253ac6a3c14 CMU: 0.03]
+[Individual f4af3bdf-2b50-4752-a1b7-3253ac6a3c14 ALINE: -0.21]
+[Individual f4af3bdf-2b50-4752-a1b7-3253ac6a3c14 NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY AND
+[Individual 09c06d7e-2e4d-4eef-b106-772f5d97f368 Fitness: -8.74]
+[Individual 09c06d7e-2e4d-4eef-b106-772f5d97f368 Levenshtein: -8.75]
+[Individual 09c06d7e-2e4d-4eef-b106-772f5d97f368 CMU: 0.03]
+[Individual 09c06d7e-2e4d-4eef-b106-772f5d97f368 ALINE: -0.19]
+[Individual 09c06d7e-2e4d-4eef-b106-772f5d97f368 NISQA: 0.17]
+
+
+Google ASR Result after 0 retries: HAVE YOU GOTTEN
+[Individual b43fc124-7e52-4fea-a7d6-8b0ccecc2379 Fitness: -11.05]
+[Individual b43fc124-7e52-4fea-a7d6-8b0ccecc2379 Levenshtein: -10.91]
+[Individual b43fc124-7e52-4fea-a7d6-8b0ccecc2379 CMU: 0.01]
+[Individual b43fc124-7e52-4fea-a7d6-8b0ccecc2379 ALINE: -0.33]
+[Individual b43fc124-7e52-4fea-a7d6-8b0ccecc2379 NISQA: 0.18]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANG
+[Individual 5b5d6248-58b9-4779-ad45-8f116e4f09e7 Fitness: -11.05]
+[Individual 5b5d6248-58b9-4779-ad45-8f116e4f09e7 Levenshtein: -11.00]
+[Individual 5b5d6248-58b9-4779-ad45-8f116e4f09e7 CMU: 0.03]
+[Individual 5b5d6248-58b9-4779-ad45-8f116e4f09e7 ALINE: -0.30]
+[Individual 5b5d6248-58b9-4779-ad45-8f116e4f09e7 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 4de113bd-a5a6-4615-8e3c-745e1f7508da Fitness: -11.77]
+[Individual 4de113bd-a5a6-4615-8e3c-745e1f7508da Levenshtein: -11.82]
+[Individual 4de113bd-a5a6-4615-8e3c-745e1f7508da CMU: 0.03]
+[Individual 4de113bd-a5a6-4615-8e3c-745e1f7508da ALINE: -0.21]
+[Individual 4de113bd-a5a6-4615-8e3c-745e1f7508da NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual af24f18c-6370-4dfd-b837-300de3ebb562 Fitness: -11.76]
+[Individual af24f18c-6370-4dfd-b837-300de3ebb562 Levenshtein: -11.82]
+[Individual af24f18c-6370-4dfd-b837-300de3ebb562 CMU: 0.03]
+[Individual af24f18c-6370-4dfd-b837-300de3ebb562 ALINE: -0.21]
+[Individual af24f18c-6370-4dfd-b837-300de3ebb562 NISQA: 0.23]
+
+
+Google ASR Result after 0 retries: SAMMY GOT
+[Individual 771738ab-b996-4ccd-9df7-c0e0f073bbe3 Fitness: -8.76]
+[Individual 771738ab-b996-4ccd-9df7-c0e0f073bbe3 Levenshtein: -8.75]
+[Individual 771738ab-b996-4ccd-9df7-c0e0f073bbe3 CMU: 0.03]
+[Individual 771738ab-b996-4ccd-9df7-c0e0f073bbe3 ALINE: -0.26]
+[Individual 771738ab-b996-4ccd-9df7-c0e0f073bbe3 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: 70 GOT ANGRY
+[Individual 3fbe9a14-5bb7-4567-ac3e-76f588760843 Fitness: -11.50]
+[Individual 3fbe9a14-5bb7-4567-ac3e-76f588760843 Levenshtein: -11.58]
+[Individual 3fbe9a14-5bb7-4567-ac3e-76f588760843 CMU: 0.06]
+[Individual 3fbe9a14-5bb7-4567-ac3e-76f588760843 ALINE: -0.21]
+[Individual 3fbe9a14-5bb7-4567-ac3e-76f588760843 NISQA: 0.23]
+
+
+[Epoch 7 Closest Candidate: '[ 0.00584563  0.02975902 -0.00571523 ... -0.00117013  0.00301425
+  0.00180048]', Fitness: -8.74] 
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 09c06d7e-2e4d-4eef-b106-772f5d97f368 Fitness: -11.78]
+[Individual 09c06d7e-2e4d-4eef-b106-772f5d97f368 Levenshtein: -11.82]
+[Individual 09c06d7e-2e4d-4eef-b106-772f5d97f368 CMU: 0.03]
+[Individual 09c06d7e-2e4d-4eef-b106-772f5d97f368 ALINE: -0.21]
+[Individual 09c06d7e-2e4d-4eef-b106-772f5d97f368 NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT
+[Individual 931c6781-ed68-4079-84ac-f8a385e1bd18 Fitness: -8.77]
+[Individual 931c6781-ed68-4079-84ac-f8a385e1bd18 Levenshtein: -8.75]
+[Individual 931c6781-ed68-4079-84ac-f8a385e1bd18 CMU: 0.03]
+[Individual 931c6781-ed68-4079-84ac-f8a385e1bd18 ALINE: -0.26]
+[Individual 931c6781-ed68-4079-84ac-f8a385e1bd18 NISQA: 0.21]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual e137bf62-7e07-4d27-810d-3dd40c069a02 Fitness: -1000.85]
+[Individual e137bf62-7e07-4d27-810d-3dd40c069a02 Levenshtein: -1000.00]
+[Individual e137bf62-7e07-4d27-810d-3dd40c069a02 CMU: 0.00]
+[Individual e137bf62-7e07-4d27-810d-3dd40c069a02 ALINE: -1.00]
+[Individual e137bf62-7e07-4d27-810d-3dd40c069a02 NISQA: 0.15]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual b2ad4afb-bb7c-421c-b6a0-e2a4972bb087 Fitness: -11.78]
+[Individual b2ad4afb-bb7c-421c-b6a0-e2a4972bb087 Levenshtein: -11.82]
+[Individual b2ad4afb-bb7c-421c-b6a0-e2a4972bb087 CMU: 0.03]
+[Individual b2ad4afb-bb7c-421c-b6a0-e2a4972bb087 ALINE: -0.21]
+[Individual b2ad4afb-bb7c-421c-b6a0-e2a4972bb087 NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual fe51403f-dd3c-4a46-a7f7-560411fb1089 Fitness: -11.79]
+[Individual fe51403f-dd3c-4a46-a7f7-560411fb1089 Levenshtein: -11.82]
+[Individual fe51403f-dd3c-4a46-a7f7-560411fb1089 CMU: 0.03]
+[Individual fe51403f-dd3c-4a46-a7f7-560411fb1089 ALINE: -0.21]
+[Individual fe51403f-dd3c-4a46-a7f7-560411fb1089 NISQA: 0.20]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual f1c6d99f-21f5-477f-bf8c-2789a310024c Fitness: -1000.80]
+[Individual f1c6d99f-21f5-477f-bf8c-2789a310024c Levenshtein: -1000.00]
+[Individual f1c6d99f-21f5-477f-bf8c-2789a310024c CMU: 0.00]
+[Individual f1c6d99f-21f5-477f-bf8c-2789a310024c ALINE: -1.00]
+[Individual f1c6d99f-21f5-477f-bf8c-2789a310024c NISQA: 0.20]
+
+
+Google ASR Result after 0 retries: I SENT ME
+[Individual cde68168-081a-48bd-89e4-fea5f6619a18 Fitness: -3.48]
+[Individual cde68168-081a-48bd-89e4-fea5f6619a18 Levenshtein: -3.75]
+[Individual cde68168-081a-48bd-89e4-fea5f6619a18 CMU: 0.09]
+[Individual cde68168-081a-48bd-89e4-fea5f6619a18 ALINE: -0.00]
+[Individual cde68168-081a-48bd-89e4-fea5f6619a18 NISQA: 0.19]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 7af71326-a68c-4182-b9b6-4c51ba942185 Fitness: -11.79]
+[Individual 7af71326-a68c-4182-b9b6-4c51ba942185 Levenshtein: -11.82]
+[Individual 7af71326-a68c-4182-b9b6-4c51ba942185 CMU: 0.03]
+[Individual 7af71326-a68c-4182-b9b6-4c51ba942185 ALINE: -0.21]
+[Individual 7af71326-a68c-4182-b9b6-4c51ba942185 NISQA: 0.20]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual 46cd6526-9874-4127-950a-7dcd9ed8f4a7 Fitness: -1000.81]
+[Individual 46cd6526-9874-4127-950a-7dcd9ed8f4a7 Levenshtein: -1000.00]
+[Individual 46cd6526-9874-4127-950a-7dcd9ed8f4a7 CMU: 0.00]
+[Individual 46cd6526-9874-4127-950a-7dcd9ed8f4a7 ALINE: -1.00]
+[Individual 46cd6526-9874-4127-950a-7dcd9ed8f4a7 NISQA: 0.19]
+
+
+Google ASR Result after 0 retries: SAMMY GOT
+[Individual 903a4650-3bc5-4c86-9261-1530d0a02d2f Fitness: -8.80]
+[Individual 903a4650-3bc5-4c86-9261-1530d0a02d2f Levenshtein: -8.75]
+[Individual 903a4650-3bc5-4c86-9261-1530d0a02d2f CMU: 0.03]
+[Individual 903a4650-3bc5-4c86-9261-1530d0a02d2f ALINE: -0.26]
+[Individual 903a4650-3bc5-4c86-9261-1530d0a02d2f NISQA: 0.18]
+
+
+Google ASR Result after 0 retries: SAMMY GOT
+[Individual cbf192af-070a-425c-bd54-d68abb8a447e Fitness: -8.77]
+[Individual cbf192af-070a-425c-bd54-d68abb8a447e Levenshtein: -8.75]
+[Individual cbf192af-070a-425c-bd54-d68abb8a447e CMU: 0.03]
+[Individual cbf192af-070a-425c-bd54-d68abb8a447e ALINE: -0.26]
+[Individual cbf192af-070a-425c-bd54-d68abb8a447e NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SEND ME
+[Individual b3624bd6-509b-4333-8b5a-29d2944819c6 Fitness: 0.31]
+[Individual b3624bd6-509b-4333-8b5a-29d2944819c6 Levenshtein: -0.00]
+[Individual b3624bd6-509b-4333-8b5a-29d2944819c6 CMU: 0.10]
+[Individual b3624bd6-509b-4333-8b5a-29d2944819c6 ALINE: -0.00]
+[Individual b3624bd6-509b-4333-8b5a-29d2944819c6 NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual c15697fc-ecf0-46e9-ae03-cff9344e9d15 Fitness: -11.78]
+[Individual c15697fc-ecf0-46e9-ae03-cff9344e9d15 Levenshtein: -11.82]
+[Individual c15697fc-ecf0-46e9-ae03-cff9344e9d15 CMU: 0.03]
+[Individual c15697fc-ecf0-46e9-ae03-cff9344e9d15 ALINE: -0.21]
+[Individual c15697fc-ecf0-46e9-ae03-cff9344e9d15 NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: GOOD MORNING
+[Individual ae40cd5d-8aa5-416a-a3f6-6f31a61390d3 Fitness: -9.52]
+[Individual ae40cd5d-8aa5-416a-a3f6-6f31a61390d3 Levenshtein: -9.47]
+[Individual ae40cd5d-8aa5-416a-a3f6-6f31a61390d3 CMU: 0.04]
+[Individual ae40cd5d-8aa5-416a-a3f6-6f31a61390d3 ALINE: -0.23]
+[Individual ae40cd5d-8aa5-416a-a3f6-6f31a61390d3 NISQA: 0.14]
+
+
+Google ASR Result after 0 retries: NOT
+[Individual 6cd70885-843a-40f3-a471-ad43ce89c2de Fitness: -12.11]
+[Individual 6cd70885-843a-40f3-a471-ad43ce89c2de Levenshtein: -12.00]
+[Individual 6cd70885-843a-40f3-a471-ad43ce89c2de CMU: 0.03]
+[Individual 6cd70885-843a-40f3-a471-ad43ce89c2de ALINE: -0.29]
+[Individual 6cd70885-843a-40f3-a471-ad43ce89c2de NISQA: 0.15]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual ed2d30e8-7eaa-407c-87d8-f66dbb5c40da Fitness: -1000.85]
+[Individual ed2d30e8-7eaa-407c-87d8-f66dbb5c40da Levenshtein: -1000.00]
+[Individual ed2d30e8-7eaa-407c-87d8-f66dbb5c40da CMU: 0.00]
+[Individual ed2d30e8-7eaa-407c-87d8-f66dbb5c40da ALINE: -1.00]
+[Individual ed2d30e8-7eaa-407c-87d8-f66dbb5c40da NISQA: 0.15]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual a14da158-8cbd-464b-805f-743c61b1c3be Fitness: -1000.86]
+[Individual a14da158-8cbd-464b-805f-743c61b1c3be Levenshtein: -1000.00]
+[Individual a14da158-8cbd-464b-805f-743c61b1c3be CMU: 0.00]
+[Individual a14da158-8cbd-464b-805f-743c61b1c3be ALINE: -1.00]
+[Individual a14da158-8cbd-464b-805f-743c61b1c3be NISQA: 0.14]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANG
+[Individual 77874d89-2881-4b17-9897-79054d537e82 Fitness: -11.08]
+[Individual 77874d89-2881-4b17-9897-79054d537e82 Levenshtein: -11.00]
+[Individual 77874d89-2881-4b17-9897-79054d537e82 CMU: 0.03]
+[Individual 77874d89-2881-4b17-9897-79054d537e82 ALINE: -0.30]
+[Individual 77874d89-2881-4b17-9897-79054d537e82 NISQA: 0.19]
+
+
+Google ASR Result after 0 retries: FEELING
+[Individual 97b2099e-20c4-4839-abb7-2f61c79d1839 Fitness: -8.79]
+[Individual 97b2099e-20c4-4839-abb7-2f61c79d1839 Levenshtein: -8.57]
+[Individual 97b2099e-20c4-4839-abb7-2f61c79d1839 CMU: 0.00]
+[Individual 97b2099e-20c4-4839-abb7-2f61c79d1839 ALINE: -0.37]
+[Individual 97b2099e-20c4-4839-abb7-2f61c79d1839 NISQA: 0.15]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual d9d285e0-1a4e-43a5-bfa9-55e356be67d6 Fitness: -1000.83]
+[Individual d9d285e0-1a4e-43a5-bfa9-55e356be67d6 Levenshtein: -1000.00]
+[Individual d9d285e0-1a4e-43a5-bfa9-55e356be67d6 CMU: 0.00]
+[Individual d9d285e0-1a4e-43a5-bfa9-55e356be67d6 ALINE: -1.00]
+[Individual d9d285e0-1a4e-43a5-bfa9-55e356be67d6 NISQA: 0.17]
+
+
+[Epoch 8 Closest Candidate: '[-0.00119727  0.01296664 -0.00406396 ... -0.00117013 -0.01081274
+  0.0012856 ]', Fitness: 0.31] 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual b3624bd6-509b-4333-8b5a-29d2944819c6 Fitness: -1000.83]
+[Individual b3624bd6-509b-4333-8b5a-29d2944819c6 Levenshtein: -1000.00]
+[Individual b3624bd6-509b-4333-8b5a-29d2944819c6 CMU: 0.00]
+[Individual b3624bd6-509b-4333-8b5a-29d2944819c6 ALINE: -1.00]
+[Individual b3624bd6-509b-4333-8b5a-29d2944819c6 NISQA: 0.17]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual cde68168-081a-48bd-89e4-fea5f6619a18 Fitness: -1000.78]
+[Individual cde68168-081a-48bd-89e4-fea5f6619a18 Levenshtein: -1000.00]
+[Individual cde68168-081a-48bd-89e4-fea5f6619a18 CMU: 0.00]
+[Individual cde68168-081a-48bd-89e4-fea5f6619a18 ALINE: -1.00]
+[Individual cde68168-081a-48bd-89e4-fea5f6619a18 NISQA: 0.22]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual d9c3e4af-a235-45ab-b3da-dff017e1deb0 Fitness: -1000.79]
+[Individual d9c3e4af-a235-45ab-b3da-dff017e1deb0 Levenshtein: -1000.00]
+[Individual d9c3e4af-a235-45ab-b3da-dff017e1deb0 CMU: 0.00]
+[Individual d9c3e4af-a235-45ab-b3da-dff017e1deb0 ALINE: -1.00]
+[Individual d9c3e4af-a235-45ab-b3da-dff017e1deb0 NISQA: 0.21]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual c1f74626-73c4-40d9-9cc1-7be71347000c Fitness: -1000.85]
+[Individual c1f74626-73c4-40d9-9cc1-7be71347000c Levenshtein: -1000.00]
+[Individual c1f74626-73c4-40d9-9cc1-7be71347000c CMU: 0.00]
+[Individual c1f74626-73c4-40d9-9cc1-7be71347000c ALINE: -1.00]
+[Individual c1f74626-73c4-40d9-9cc1-7be71347000c NISQA: 0.15]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual 6b8eca03-403e-476b-89f9-8708c2a8d588 Fitness: -1000.84]
+[Individual 6b8eca03-403e-476b-89f9-8708c2a8d588 Levenshtein: -1000.00]
+[Individual 6b8eca03-403e-476b-89f9-8708c2a8d588 CMU: 0.00]
+[Individual 6b8eca03-403e-476b-89f9-8708c2a8d588 ALINE: -1.00]
+[Individual 6b8eca03-403e-476b-89f9-8708c2a8d588 NISQA: 0.16]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual ece50460-4208-40f8-a80c-81c39b779aba Fitness: -1000.83]
+[Individual ece50460-4208-40f8-a80c-81c39b779aba Levenshtein: -1000.00]
+[Individual ece50460-4208-40f8-a80c-81c39b779aba CMU: 0.00]
+[Individual ece50460-4208-40f8-a80c-81c39b779aba ALINE: -1.00]
+[Individual ece50460-4208-40f8-a80c-81c39b779aba NISQA: 0.17]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual 0923a483-851d-431a-a8f6-6874336b4b37 Fitness: -1000.83]
+[Individual 0923a483-851d-431a-a8f6-6874336b4b37 Levenshtein: -1000.00]
+[Individual 0923a483-851d-431a-a8f6-6874336b4b37 CMU: 0.00]
+[Individual 0923a483-851d-431a-a8f6-6874336b4b37 ALINE: -1.00]
+[Individual 0923a483-851d-431a-a8f6-6874336b4b37 NISQA: 0.17]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual b9d13302-c5e8-4e3d-b490-ccb5906b65da Fitness: -11.78]
+[Individual b9d13302-c5e8-4e3d-b490-ccb5906b65da Levenshtein: -11.82]
+[Individual b9d13302-c5e8-4e3d-b490-ccb5906b65da CMU: 0.03]
+[Individual b9d13302-c5e8-4e3d-b490-ccb5906b65da ALINE: -0.21]
+[Individual b9d13302-c5e8-4e3d-b490-ccb5906b65da NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: SUNNY
+[Individual fb83fc44-e14e-409f-8735-b656b360fc89 Fitness: -8.14]
+[Individual fb83fc44-e14e-409f-8735-b656b360fc89 Levenshtein: -8.33]
+[Individual fb83fc44-e14e-409f-8735-b656b360fc89 CMU: 0.05]
+[Individual fb83fc44-e14e-409f-8735-b656b360fc89 ALINE: -0.01]
+[Individual fb83fc44-e14e-409f-8735-b656b360fc89 NISQA: 0.15]
+
+
+Google ASR Result after 0 retries: 10
+[Individual 9e416671-1d62-4b15-8bc1-5e593befca6c Fitness: -15.31]
+[Individual 9e416671-1d62-4b15-8bc1-5e593befca6c Levenshtein: -15.56]
+[Individual 9e416671-1d62-4b15-8bc1-5e593befca6c CMU: 0.07]
+[Individual 9e416671-1d62-4b15-8bc1-5e593befca6c ALINE: -0.00]
+[Individual 9e416671-1d62-4b15-8bc1-5e593befca6c NISQA: 0.18]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual 7524701a-479f-490f-b7a1-3152ba7f28fc Fitness: -11.78]
+[Individual 7524701a-479f-490f-b7a1-3152ba7f28fc Levenshtein: -11.82]
+[Individual 7524701a-479f-490f-b7a1-3152ba7f28fc CMU: 0.03]
+[Individual 7524701a-479f-490f-b7a1-3152ba7f28fc ALINE: -0.21]
+[Individual 7524701a-479f-490f-b7a1-3152ba7f28fc NISQA: 0.22]
+
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+[Individual bf12f09a-7edc-451e-972d-d775f8144233 Fitness: -11.82]
+[Individual bf12f09a-7edc-451e-972d-d775f8144233 Levenshtein: -11.82]
+[Individual bf12f09a-7edc-451e-972d-d775f8144233 CMU: 0.03]
+[Individual bf12f09a-7edc-451e-972d-d775f8144233 ALINE: -0.21]
+[Individual bf12f09a-7edc-451e-972d-d775f8144233 NISQA: 0.17]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual b7255683-e4df-410c-9918-935ddff6a58c Fitness: -1000.84]
+[Individual b7255683-e4df-410c-9918-935ddff6a58c Levenshtein: -1000.00]
+[Individual b7255683-e4df-410c-9918-935ddff6a58c CMU: 0.00]
+[Individual b7255683-e4df-410c-9918-935ddff6a58c ALINE: -1.00]
+[Individual b7255683-e4df-410c-9918-935ddff6a58c NISQA: 0.16]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual 1c0d39a8-1264-4ab5-8d5c-372b5e326797 Fitness: -1000.85]
+[Individual 1c0d39a8-1264-4ab5-8d5c-372b5e326797 Levenshtein: -1000.00]
+[Individual 1c0d39a8-1264-4ab5-8d5c-372b5e326797 CMU: 0.00]
+[Individual 1c0d39a8-1264-4ab5-8d5c-372b5e326797 ALINE: -1.00]
+[Individual 1c0d39a8-1264-4ab5-8d5c-372b5e326797 NISQA: 0.15]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual 28d5ef4b-8c45-4bc7-aea1-19a3f60981d6 Fitness: -1000.82]
+[Individual 28d5ef4b-8c45-4bc7-aea1-19a3f60981d6 Levenshtein: -1000.00]
+[Individual 28d5ef4b-8c45-4bc7-aea1-19a3f60981d6 CMU: 0.00]
+[Individual 28d5ef4b-8c45-4bc7-aea1-19a3f60981d6 ALINE: -1.00]
+[Individual 28d5ef4b-8c45-4bc7-aea1-19a3f60981d6 NISQA: 0.18]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual 0040161e-2b7c-4078-9179-632b85c7322d Fitness: -1000.79]
+[Individual 0040161e-2b7c-4078-9179-632b85c7322d Levenshtein: -1000.00]
+[Individual 0040161e-2b7c-4078-9179-632b85c7322d CMU: 0.00]
+[Individual 0040161e-2b7c-4078-9179-632b85c7322d ALINE: -1.00]
+[Individual 0040161e-2b7c-4078-9179-632b85c7322d NISQA: 0.21]
+
+
+Google ASR Result after 0 retries: FAMILY GUY JUST SEND ME SEND ME SEND ME SEND ME DUMMY GUMMY GUMMY GUMMY GUMMY GUMMY GUMMY GUMMY
+[Individual 4f9e6db9-b5f6-4603-a945-a6c762901165 Fitness: -17.00]
+[Individual 4f9e6db9-b5f6-4603-a945-a6c762901165 Levenshtein: -17.25]
+[Individual 4f9e6db9-b5f6-4603-a945-a6c762901165 CMU: 0.10]
+[Individual 4f9e6db9-b5f6-4603-a945-a6c762901165 ALINE: -0.00]
+[Individual 4f9e6db9-b5f6-4603-a945-a6c762901165 NISQA: 0.15]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual 73f52f59-dc94-406e-9519-48e2c49b7d6b Fitness: -1000.85]
+[Individual 73f52f59-dc94-406e-9519-48e2c49b7d6b Levenshtein: -1000.00]
+[Individual 73f52f59-dc94-406e-9519-48e2c49b7d6b CMU: 0.00]
+[Individual 73f52f59-dc94-406e-9519-48e2c49b7d6b ALINE: -1.00]
+[Individual 73f52f59-dc94-406e-9519-48e2c49b7d6b NISQA: 0.15]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual f4afb31d-e382-4ba2-ba2c-b38aa6d7274a Fitness: -1000.85]
+[Individual f4afb31d-e382-4ba2-ba2c-b38aa6d7274a Levenshtein: -1000.00]
+[Individual f4afb31d-e382-4ba2-ba2c-b38aa6d7274a CMU: 0.00]
+[Individual f4afb31d-e382-4ba2-ba2c-b38aa6d7274a ALINE: -1.00]
+[Individual f4afb31d-e382-4ba2-ba2c-b38aa6d7274a NISQA: 0.15]
+
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+[Individual bdcf4c93-8923-4a66-b406-86d9d8778a4f Fitness: -1000.80]
+[Individual bdcf4c93-8923-4a66-b406-86d9d8778a4f Levenshtein: -1000.00]
+[Individual bdcf4c93-8923-4a66-b406-86d9d8778a4f CMU: 0.00]
+[Individual bdcf4c93-8923-4a66-b406-86d9d8778a4f ALINE: -1.00]
+[Individual bdcf4c93-8923-4a66-b406-86d9d8778a4f NISQA: 0.20]
+
+
+[Epoch 9 Closest Candidate: '[-3.78933323e-05  3.62927353e-03  1.03428986e-02 ...  2.41457331e-03
+  4.40495591e-04  1.27144224e-02]', Fitness: -8.14] 
+
+[Final Epoch 9 Answer: '[-3.78933323e-05  3.62927353e-03  1.03428986e-02 ...  2.41457331e-03
+  4.40495591e-04  1.27144224e-02]'] 
+
+The adapted genetic algorithm finished. Now launching the gradient estimation. 
+
+Google ASR Result after 0 retries: SAMMY
+loss:8.084103552979833, loss_levenshtein: 8.333333333333334, loss_CMU: -0.05026831976313842, loss_ALINE: 0.0, audio_quality: -0.19896146059036257 
+
+Google ASR Result after 0 retries: SHUT UP
+loss:7.324907718339517, loss_levenshtein: 7.142857142857143, loss_CMU: -0.016699586642260213, loss_ALINE: 0.4, audio_quality: -0.2012498378753662 
+
+Google ASR Result after 0 retries: SAMMY GOD
+loss:8.808728356425574, loss_levenshtein: 8.75, loss_CMU: -0.02880509846944654, loss_ALINE: 0.26125000000000004, audio_quality: -0.17371654510498047 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.795070719719, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.2049292802810669 
+
+Google ASR Result after 0 retries: GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD GOOD
+loss:17.830559719352795, loss_levenshtein: 17.63157894736842, loss_CMU: -0.02857142857142857, loss_ALINE: 0.3075, audio_quality: -0.07994779944419861 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.796583533287, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.20341646671295166 
+
+Google ASR Result after 0 retries: THINK ABOUT
+loss:9.992894595055768, loss_levenshtein: 10.0, loss_CMU: -0.014394594282917393, loss_ALINE: 0.194, audio_quality: -0.18671081066131592 
+
+Google ASR Result after 0 retries: SENDING A GOD
+loss:7.907873883519855, loss_levenshtein: 8.0, loss_CMU: -0.07142857142857144, loss_ALINE: 0.1463125, audio_quality: -0.1670100450515747 
+
+Google ASR Result after 0 retries: BUT I'M REALLY
+loss:11.40176170851212, loss_levenshtein: 11.428571428571427, loss_CMU: -0.028738874455363397, loss_ALINE: 0.17750000000000002, audio_quality: -0.17557084560394287 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.9376936912537, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.06230630874633789 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.8097236275673, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.19027637243270876 
+
+Google ASR Result after 0 retries: SATURDAY
+loss:9.329779277244848, loss_levenshtein: 9.333333333333334, loss_CMU: -0.03351490264882672, loss_ALINE: 0.1942857142857143, audio_quality: -0.16432486772537233 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.8506359219551, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.14936407804489135 
+
+Google ASR Result after 0 retries: SHOULD I GET
+loss:8.516077805367368, loss_levenshtein: 8.421052631578947, loss_CMU: -0.028585525388367308, loss_ALINE: 0.3125, audio_quality: -0.18888930082321168 
+
+Google ASR Result after 0 retries: SANDY GARDEN
+loss:7.314843200763443, loss_levenshtein: 7.368421052631579, loss_CMU: -0.05737738952682756, loss_ALINE: 0.2211875, audio_quality: -0.2173879623413086 
+
+Google ASR Result after 0 retries: GOT ANGRY
+loss:11.286011230108212, loss_levenshtein: 11.25, loss_CMU: -0.01445316016964911, loss_ALINE: 0.2063125, audio_quality: -0.15584810972213747 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.9049896478652, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.0950103521347046 
+
+Google ASR Result after 0 retries: SAMURAI AND RING RING RING RING RING RING RING SEND SEND SEND SEND SEND SEND SEND SEND SEND SEND SEND SEND SEND SEND SEND SEND SEND SEND SEND
+loss:18.017841086866426, loss_levenshtein: 18.243243243243242, loss_CMU: -0.07143259670732198, loss_ALINE: 0.07125000000000001, audio_quality: -0.22521955966949464 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.7914458274842, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.20855417251586916 
+
+Google ASR Result after 0 retries: SALAD
+loss:10.000620209376018, loss_levenshtein: 10.0, loss_CMU: -0.04000000000000001, loss_ALINE: 0.22666666666666666, audio_quality: -0.18604645729064942 
+
+Google ASR Result after 0 retries: EVERY AREA
+loss:8.309041118629956, loss_levenshtein: 8.235294117647058, loss_CMU: -0.028605978200298685, loss_ALINE: 0.215, audio_quality: -0.11264702081680299 
+
+Google ASR Result after 0 retries: SAMMY THE
+loss:7.417528391986522, loss_levenshtein: 7.5, loss_CMU: -0.028839648098316656, loss_ALINE: 0.1624375, audio_quality: -0.21606945991516113 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.903823941946, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.09617605805397034 
+
+Google ASR Result after 0 retries: SHOW ME GOD
+loss:7.657552088933654, loss_levenshtein: 7.777777777777778, loss_CMU: -0.04285939541379466, loss_ALINE: 0.11775000000000001, audio_quality: -0.19511629343032838 
+
+Google ASR Result after 0 retries: 59
+loss:15.329574685832078, loss_levenshtein: 15.555555555555555, loss_CMU: -6.190730252598067e-06, loss_ALINE: 0.0, audio_quality: -0.2259746789932251 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.8332686305046, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.16673136949539186 
+
+Google ASR Result after 0 retries: THAT DOESN'T
+loss:10.55639295319691, loss_levenshtein: 10.526315789473683, loss_CMU: -0.014297186347727645, loss_ALINE: 0.2300625, audio_quality: -0.18568814992904664 
+
+Google ASR Result after 0 retries: ANGRY
+loss:10.056720747218613, loss_levenshtein: 10.0, loss_CMU: -0.0002146558105107328, loss_ALINE: 0.2034166666666667, audio_quality: -0.14648126363754274 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.7656230449677, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.23437695503234865 
+
+Google ASR Result after 0 retries: SEND ME
+loss:-0.3116102933883667, loss_levenshtein: 0.0, loss_CMU: -0.1, loss_ALINE: 0.0, audio_quality: -0.2116102933883667 
+
+Google ASR Result after 0 retries: THAT I LOVE YOU
+loss:11.874854150723946, loss_levenshtein: 11.818181818181818, loss_CMU: -0.01429617617827065, loss_ALINE: 0.2625, audio_quality: -0.19153149127960206 
+
+Google ASR Result after 0 retries: SHOW ME YOUR NUMBER
+loss:10.800733724139386, loss_levenshtein: 10.769230769230768, loss_CMU: -0.02857414965986395, loss_ALINE: 0.2225, audio_quality: -0.16242289543151855 
+
+Google ASR Result after 0 retries: FAMILY
+loss:10.772332363068125, loss_levenshtein: 10.769230769230768, loss_CMU: -0.00018409251932330318, loss_ALINE: 0.24721428571428575, audio_quality: -0.243928599357605 
+
+Google ASR Result after 0 retries: A SATURDAY THAT
+loss:11.011254393023462, loss_levenshtein: 10.909090909090908, loss_CMU: -0.0428594481200581, loss_ALINE: 0.3113125, audio_quality: -0.1662895679473877 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.778527712822, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.22147228717803957 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.9272193431855, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.0727806568145752 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.8644239902496, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.1355760097503662 
+
+Google ASR Result after 0 retries: SAMMY
+loss:8.109056787175543, loss_levenshtein: 8.333333333333334, loss_CMU: -0.05026831976313842, loss_ALINE: 0.0, audio_quality: -0.17400822639465333 
+
+Google ASR Result after 0 retries: DON'T NEED ANYTHING
+loss:12.113261478235435, loss_levenshtein: 12.307692307692308, loss_CMU: -0.04285714285714286, loss_ALINE: 0.0325, audio_quality: -0.18407368659973145 
+
+Google ASR Result after 0 retries: PEPPA PIG
+loss:8.785802596091822, loss_levenshtein: 8.75, loss_CMU: -0.028622147083685545, loss_ALINE: 0.252, audio_quality: -0.1875752568244934 
+
+Google ASR Result after 0 retries: LET ME GET ANGRY
+loss:11.042614350252565, loss_levenshtein: 11.304347826086955, loss_CMU: -0.0571578895154217, loss_ALINE: 0.025, audio_quality: -0.22957558631896974 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.864198744297, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.1358012557029724 
+
+Google ASR Result after 0 retries: SAMMY GOT
+loss:8.794042010371497, loss_levenshtein: 8.75, loss_CMU: -0.02880509846944654, loss_ALINE: 0.26125000000000004, audio_quality: -0.18840289115905762 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.844617497921, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.15538250207901003 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.8326493740082, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.1673506259918213 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.9153442919254, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.08465570807456971 
+
+Google ASR Result after 0 retries: FAMILY
+loss:10.820312743126415, loss_levenshtein: 10.769230769230768, loss_CMU: -0.00018409251932330318, loss_ALINE: 0.24721428571428575, audio_quality: -0.1959482192993164 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.8319714784623, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.16802852153778078 
+
+Google ASR Result after 0 retries: CERTAINLY GOT TIME
+loss:10.18547307060617, loss_levenshtein: 10.4, loss_CMU: -0.057251591220917844, loss_ALINE: 0.005, audio_quality: -0.16227533817291262 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.89712485075, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.10287514925003052 
+
+Google ASR Result after 0 retries: SANDY GOT
+loss:6.166405045120506, loss_levenshtein: 6.25, loss_CMU: -0.05737250176212455, loss_ALINE: 0.19, audio_quality: -0.21622245311737062 
+
+Google ASR Result after 0 retries: GETTING
+loss:8.751444689864337, loss_levenshtein: 8.571428571428571, loss_CMU: -0.02000182415176943, loss_ALINE: 0.27666666666666667, audio_quality: -0.07664872407913209 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.8379726529122, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.16202734708786012 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.8261488556861, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.17385114431381227 
+
+Google ASR Result after 0 retries: TELL ME ABOUT
+loss:8.822083600929805, loss_levenshtein: 9.0, loss_CMU: -0.05714285714285714, loss_ALINE: 0.075, audio_quality: -0.19577354192733765 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.9171316921711, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.0828683078289032 
+
+Google ASR Result after 0 retries: SEND
+loss:5.180950026078658, loss_levenshtein: 5.454545454545454, loss_CMU: -0.1, loss_ALINE: 0.0, audio_quality: -0.17359542846679688 
+
+Google ASR Result after 0 retries: CINDY
+loss:8.065992519548047, loss_levenshtein: 8.333333333333334, loss_CMU: -0.060335765987129746, loss_ALINE: 0.0, audio_quality: -0.20700504779815676 
+
+Google ASR Result after 0 retries: CINDY GOT
+loss:7.3626439933609555, loss_levenshtein: 7.5, loss_CMU: -0.05722936441187072, loss_ALINE: 0.1463125, audio_quality: -0.22643914222717287 
+
+Google ASR Result after 0 retries: SEND ME A PICTURE
+loss:7.997432955106101, loss_levenshtein: 8.333333333333334, loss_CMU: -0.1, loss_ALINE: 0.0, audio_quality: -0.2359003782272339 
+
+Google ASR Result after 0 retries: SAN DIEGO
+loss:7.3728003265715945, loss_levenshtein: 7.5, loss_CMU: -0.04308678747641027, loss_ALINE: 0.06368750000000001, audio_quality: -0.14780038595199585 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.8436635613441, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.15633643865585328 
+
+Google ASR Result after 0 retries: JAMAICA VERY
+loss:10.57847759177263, loss_levenshtein: 10.526315789473683, loss_CMU: -0.014567237846925757, loss_ALINE: 0.21375000000000002, audio_quality: -0.14702095985412597 
+
+Google ASR Result after 0 retries: SAN DIEGO
+loss:7.306659400687348, loss_levenshtein: 7.5, loss_CMU: -0.04308678747641027, loss_ALINE: 0.06368750000000001, audio_quality: -0.21394131183624268 
+
+Google ASR Result after 0 retries: HAPPY BIRTHDAY
+loss:12.369599748404799, loss_levenshtein: 12.380952380952381, loss_CMU: -0.014519826914036863, loss_ALINE: 0.20493750000000002, audio_quality: -0.20177030563354492 
+
+Google ASR Result after 0 retries: HEY GOOGLE
+loss:9.509655752243384, loss_levenshtein: 9.411764705882353, loss_CMU: -1.4165087637406271e-05, loss_ALINE: 0.33, audio_quality: -0.2320947885513306 
+
+Google ASR Result after 0 retries: HAD A TATTOO
+loss:11.552305238165198, loss_levenshtein: 11.578947368421053, loss_CMU: -0.028581890463984932, loss_ALINE: 0.1938125, audio_quality: -0.19187273979187014 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.894240963459, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.10575903654098512 
+
+Google ASR Result after 0 retries: 1033
+loss:12.55376912912765, loss_levenshtein: 12.727272727272727, loss_CMU: -0.04285714285714286, loss_ALINE: 0.0, audio_quality: -0.13064645528793337 
+
+Google ASR Result after 0 retries: TODAY
+loss:10.125910847732358, loss_levenshtein: 10.0, loss_CMU: -0.025401237896151868, loss_ALINE: 0.28400000000000003, audio_quality: -0.1326879143714905 
+
+Google ASR Result after 0 retries: SO DID YOU
+loss:8.286798394382345, loss_levenshtein: 8.235294117647058, loss_CMU: -0.04286760474969922, loss_ALINE: 0.24000000000000002, audio_quality: -0.14562811851501464 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.8361995220184, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.16380047798156738 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.9098299384117, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.09017006158828736 
+
+Google ASR Result after 0 retries: THAT
+loss:12.86715093304894, loss_levenshtein: 12.727272727272727, loss_CMU: -0.0, loss_ALINE: 0.282625, audio_quality: -0.14274679422378542 
+
+Google ASR Result after 0 retries: HEY R
+loss:8.561344105974888, loss_levenshtein: 8.333333333333334, loss_CMU: -0.020002144082332765, loss_ALINE: 0.3734166666666667, audio_quality: -0.12540374994277956 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.7779566526413, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.22204334735870362 
+
+Google ASR Result after 0 retries: DOT DOT
+loss:10.09272250523015, loss_levenshtein: 10.0, loss_CMU: -0.014299834590712874, loss_ALINE: 0.29762500000000003, audio_quality: -0.19060266017913818 
+
+Google ASR Result after 0 retries: SHOW ME BACK
+loss:8.280721759610282, loss_levenshtein: 8.421052631578947, loss_CMU: -0.04285939541379466, loss_ALINE: 0.11775000000000001, audio_quality: -0.21522147655487062 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.8849638223649, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.11503617763519287 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.8594131469727, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.14058685302734375 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.861365377903, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.13863462209701538 
+
+Google ASR Result after 0 retries: SATURDAY
+loss:9.284186027447028, loss_levenshtein: 9.333333333333334, loss_CMU: -0.03351490264882672, loss_ALINE: 0.1942857142857143, audio_quality: -0.20991811752319336 
+
+Google ASR Result after 0 retries: SUNDAY
+loss:5.883850358099139, loss_levenshtein: 6.153846153846154, loss_CMU: -0.06002226179875334, loss_ALINE: 0.016666666666666666, audio_quality: -0.2266402006149292 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.8072335720062, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.19276642799377441 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.9336036920547, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.06639630794525146 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.7914912700653, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.20850872993469238 
+
+Google ASR Result after 0 retries: LET ME GET ANG
+loss:10.294096208672888, loss_levenshtein: 10.476190476190476, loss_CMU: -0.0571578895154217, loss_ALINE: 0.025, audio_quality: -0.14993637800216675 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.8023437976838, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.1976562023162842 
+
+Google ASR Result after 0 retries: SLEEPING
+loss:8.170030068745799, loss_levenshtein: 8.0, loss_CMU: -0.01666818679314119, loss_ALINE: 0.31, audio_quality: -0.12330174446105957 
+
+Google ASR Result after 0 retries: CELICA
+loss:9.101196274600682, loss_levenshtein: 9.230769230769232, loss_CMU: -0.0333736412336818, loss_ALINE: 0.1142857142857143, audio_quality: -0.21048502922058107 
+
+Google ASR Result after 0 retries: WWE
+loss:11.84735734462738, loss_levenshtein: 12.0, loss_CMU: -0.05, loss_ALINE: 0.0, audio_quality: -0.10264265537261963 
+
+Google ASR Result after 0 retries: SAMMY GREGORY
+loss:9.99628356985573, loss_levenshtein: 10.0, loss_CMU: -0.028958424048382777, loss_ALINE: 0.2161875, audio_quality: -0.19094550609588623 
+
+Google ASR Result after 0 retries: SAMMY GOT ANGRY
+loss:11.777165923272047, loss_levenshtein: 11.818181818181818, loss_CMU: -0.028738874455363397, loss_ALINE: 0.2063125, audio_quality: -0.21858952045440674 
+
+Google ASR Result after 0 retries: SENECA
+loss:5.9882988665484405, loss_levenshtein: 6.153846153846154, loss_CMU: -0.05004030790034847, loss_ALINE: 0.05714285714285715, audio_quality: -0.17264983654022217 
+
+Google ASR Result after 0 retries: SEND ME PICTURES
+loss:7.568821448346843, loss_levenshtein: 7.826086956521739, loss_CMU: -0.1, loss_ALINE: 0.0, audio_quality: -0.15726550817489626 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.7866823196412, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.21331768035888674 
+
+Google ASR Result after 0 retries: SAMMY KATE
+loss:8.2982035291416, loss_levenshtein: 8.235294117647058, loss_CMU: -0.02880509846944654, loss_ALINE: 0.2699375, audio_quality: -0.17822299003601075 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.930444520712, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.0695554792881012 
+
+No recognition result from Google ASR (attempt 1)
+No recognition result from Google ASR (attempt 2)
+No recognition result from Google ASR (attempt 3)
+No recognition result from Google ASR (attempt 4)
+No recognition result from Google ASR (attempt 5)
+Google ASR Result after 5 retries: NA
+loss:1000.8810408949852, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.11895910501480103 
+
+Google ASR Result after 0 retries: SOMEBODY TOGETHER
+loss:9.95523844843235, loss_levenshtein: 10.0, loss_CMU: -0.04285986394557823, loss_ALINE: 0.2063125, audio_quality: -0.20821418762207033 
+
+The adapted gradient estimation finished. Time elapsed: 0 hours, 42 minutes, and 49.76 seconds

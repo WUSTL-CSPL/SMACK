@@ -1,0 +1,1934 @@
+_IncompatibleKeys(missing_keys=['tgt_mask', 'pos_txt.p', 'pos_mel.p'], unexpected_keys=[])
+iflytek ASR Result after 4 connection retries: THEY DENY THE LIGHT
+[Individual 00481d2d-ee53-4947-b8cc-f43d068f80c3 Fitness: -4.29]
+[Individual 00481d2d-ee53-4947-b8cc-f43d068f80c3 Levenshtein: -4.55]
+[Individual 00481d2d-ee53-4947-b8cc-f43d068f80c3 CMU: 0.08]
+[Individual 00481d2d-ee53-4947-b8cc-f43d068f80c3 ALINE: -0.04]
+[Individual 00481d2d-ee53-4947-b8cc-f43d068f80c3 NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual a893eef5-e9df-4b9d-8e64-8b7da0daa3f7 Fitness: -5.68]
+[Individual a893eef5-e9df-4b9d-8e64-8b7da0daa3f7 Levenshtein: -5.91]
+[Individual a893eef5-e9df-4b9d-8e64-8b7da0daa3f7 CMU: 0.06]
+[Individual a893eef5-e9df-4b9d-8e64-8b7da0daa3f7 ALINE: -0.05]
+[Individual a893eef5-e9df-4b9d-8e64-8b7da0daa3f7 NISQA: 0.22]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 6620d2ac-58d0-402e-bf02-57d80b420dda Fitness: -5.70]
+[Individual 6620d2ac-58d0-402e-bf02-57d80b420dda Levenshtein: -5.91]
+[Individual 6620d2ac-58d0-402e-bf02-57d80b420dda CMU: 0.06]
+[Individual 6620d2ac-58d0-402e-bf02-57d80b420dda ALINE: -0.05]
+[Individual 6620d2ac-58d0-402e-bf02-57d80b420dda NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 4a88f419-4912-4121-966b-fad827573a53 Fitness: -5.69]
+[Individual 4a88f419-4912-4121-966b-fad827573a53 Levenshtein: -5.91]
+[Individual 4a88f419-4912-4121-966b-fad827573a53 CMU: 0.06]
+[Individual 4a88f419-4912-4121-966b-fad827573a53 ALINE: -0.05]
+[Individual 4a88f419-4912-4121-966b-fad827573a53 NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual ebd32140-8a15-42a7-930c-d2ad2f683d75 Fitness: -5.69]
+[Individual ebd32140-8a15-42a7-930c-d2ad2f683d75 Levenshtein: -5.91]
+[Individual ebd32140-8a15-42a7-930c-d2ad2f683d75 CMU: 0.06]
+[Individual ebd32140-8a15-42a7-930c-d2ad2f683d75 ALINE: -0.05]
+[Individual ebd32140-8a15-42a7-930c-d2ad2f683d75 NISQA: 0.20]
+
+
+iflytek ASR Result after 4 connection retries: THEY DENY THEY LIED
+[Individual 8040de79-139c-4a50-b080-ba8134bbca06 Fitness: -5.72]
+[Individual 8040de79-139c-4a50-b080-ba8134bbca06 Levenshtein: -5.91]
+[Individual 8040de79-139c-4a50-b080-ba8134bbca06 CMU: 0.06]
+[Individual 8040de79-139c-4a50-b080-ba8134bbca06 ALINE: -0.05]
+[Individual 8040de79-139c-4a50-b080-ba8134bbca06 NISQA: 0.17]
+
+
+iflytek ASR Result after 5 connection retries: NA
+[Individual d22c4bcf-2f4e-481f-8e19-811b9ffd2aea Fitness: -1000.81]
+[Individual d22c4bcf-2f4e-481f-8e19-811b9ffd2aea Levenshtein: -1000.00]
+[Individual d22c4bcf-2f4e-481f-8e19-811b9ffd2aea CMU: 0.00]
+[Individual d22c4bcf-2f4e-481f-8e19-811b9ffd2aea ALINE: -1.00]
+[Individual d22c4bcf-2f4e-481f-8e19-811b9ffd2aea NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 9b1d431d-be7d-4e9a-b971-4ba38cf7304d Fitness: -5.72]
+[Individual 9b1d431d-be7d-4e9a-b971-4ba38cf7304d Levenshtein: -5.91]
+[Individual 9b1d431d-be7d-4e9a-b971-4ba38cf7304d CMU: 0.06]
+[Individual 9b1d431d-be7d-4e9a-b971-4ba38cf7304d ALINE: -0.05]
+[Individual 9b1d431d-be7d-4e9a-b971-4ba38cf7304d NISQA: 0.17]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual d60cb3b9-f314-43ca-8881-b9779d5d9beb Fitness: -5.70]
+[Individual d60cb3b9-f314-43ca-8881-b9779d5d9beb Levenshtein: -5.91]
+[Individual d60cb3b9-f314-43ca-8881-b9779d5d9beb CMU: 0.06]
+[Individual d60cb3b9-f314-43ca-8881-b9779d5d9beb ALINE: -0.05]
+[Individual d60cb3b9-f314-43ca-8881-b9779d5d9beb NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 3e888bdf-447d-45a3-ac8a-1ed77ad5688e Fitness: -5.72]
+[Individual 3e888bdf-447d-45a3-ac8a-1ed77ad5688e Levenshtein: -5.91]
+[Individual 3e888bdf-447d-45a3-ac8a-1ed77ad5688e CMU: 0.06]
+[Individual 3e888bdf-447d-45a3-ac8a-1ed77ad5688e ALINE: -0.05]
+[Individual 3e888bdf-447d-45a3-ac8a-1ed77ad5688e NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual a1cd7b14-d716-4617-808e-1bbb99c6ac40 Fitness: -5.70]
+[Individual a1cd7b14-d716-4617-808e-1bbb99c6ac40 Levenshtein: -5.91]
+[Individual a1cd7b14-d716-4617-808e-1bbb99c6ac40 CMU: 0.06]
+[Individual a1cd7b14-d716-4617-808e-1bbb99c6ac40 ALINE: -0.05]
+[Individual a1cd7b14-d716-4617-808e-1bbb99c6ac40 NISQA: 0.19]
+
+
+iflytek ASR Result after 2 connection retries: THEY DENY THEY LIED
+[Individual ad6595c7-b2e1-4105-b847-abf25969e35e Fitness: -5.71]
+[Individual ad6595c7-b2e1-4105-b847-abf25969e35e Levenshtein: -5.91]
+[Individual ad6595c7-b2e1-4105-b847-abf25969e35e CMU: 0.06]
+[Individual ad6595c7-b2e1-4105-b847-abf25969e35e ALINE: -0.05]
+[Individual ad6595c7-b2e1-4105-b847-abf25969e35e NISQA: 0.19]
+
+
+iflytek ASR Result after 5 connection retries: NA
+[Individual 1827fcd4-fc86-49f7-8470-e72142a42f1b Fitness: -1000.82]
+[Individual 1827fcd4-fc86-49f7-8470-e72142a42f1b Levenshtein: -1000.00]
+[Individual 1827fcd4-fc86-49f7-8470-e72142a42f1b CMU: 0.00]
+[Individual 1827fcd4-fc86-49f7-8470-e72142a42f1b ALINE: -1.00]
+[Individual 1827fcd4-fc86-49f7-8470-e72142a42f1b NISQA: 0.18]
+
+
+iflytek ASR Result after 2 connection retries: THEY DENY THEY LIED
+[Individual c604b2ce-65a5-48aa-9498-61ef31df4ec7 Fitness: -5.71]
+[Individual c604b2ce-65a5-48aa-9498-61ef31df4ec7 Levenshtein: -5.91]
+[Individual c604b2ce-65a5-48aa-9498-61ef31df4ec7 CMU: 0.06]
+[Individual c604b2ce-65a5-48aa-9498-61ef31df4ec7 ALINE: -0.05]
+[Individual c604b2ce-65a5-48aa-9498-61ef31df4ec7 NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual ec61205e-a527-4a22-a27f-bc9a17f3ab29 Fitness: -5.68]
+[Individual ec61205e-a527-4a22-a27f-bc9a17f3ab29 Levenshtein: -5.91]
+[Individual ec61205e-a527-4a22-a27f-bc9a17f3ab29 CMU: 0.06]
+[Individual ec61205e-a527-4a22-a27f-bc9a17f3ab29 ALINE: -0.05]
+[Individual ec61205e-a527-4a22-a27f-bc9a17f3ab29 NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 23e6b787-57b0-42b1-9966-afe0ac6c8259 Fitness: -5.73]
+[Individual 23e6b787-57b0-42b1-9966-afe0ac6c8259 Levenshtein: -5.91]
+[Individual 23e6b787-57b0-42b1-9966-afe0ac6c8259 CMU: 0.06]
+[Individual 23e6b787-57b0-42b1-9966-afe0ac6c8259 ALINE: -0.05]
+[Individual 23e6b787-57b0-42b1-9966-afe0ac6c8259 NISQA: 0.16]
+
+
+iflytek ASR Result after 5 connection retries: NA
+[Individual b8357fea-3d98-4b62-8db7-be22b3630d35 Fitness: -1000.80]
+[Individual b8357fea-3d98-4b62-8db7-be22b3630d35 Levenshtein: -1000.00]
+[Individual b8357fea-3d98-4b62-8db7-be22b3630d35 CMU: 0.00]
+[Individual b8357fea-3d98-4b62-8db7-be22b3630d35 ALINE: -1.00]
+[Individual b8357fea-3d98-4b62-8db7-be22b3630d35 NISQA: 0.20]
+
+
+iflytek ASR Result after 1 connection retries: THEY DENY THEY LIED
+[Individual a59d324f-f453-4475-9480-4bfa8cace6c2 Fitness: -5.68]
+[Individual a59d324f-f453-4475-9480-4bfa8cace6c2 Levenshtein: -5.91]
+[Individual a59d324f-f453-4475-9480-4bfa8cace6c2 CMU: 0.06]
+[Individual a59d324f-f453-4475-9480-4bfa8cace6c2 ALINE: -0.05]
+[Individual a59d324f-f453-4475-9480-4bfa8cace6c2 NISQA: 0.22]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 095ab1dc-66c9-415b-be8e-b21dc87c6384 Fitness: -5.70]
+[Individual 095ab1dc-66c9-415b-be8e-b21dc87c6384 Levenshtein: -5.91]
+[Individual 095ab1dc-66c9-415b-be8e-b21dc87c6384 CMU: 0.06]
+[Individual 095ab1dc-66c9-415b-be8e-b21dc87c6384 ALINE: -0.05]
+[Individual 095ab1dc-66c9-415b-be8e-b21dc87c6384 NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 02b97168-8a0b-4ff5-8520-faa5b70a0289 Fitness: -5.68]
+[Individual 02b97168-8a0b-4ff5-8520-faa5b70a0289 Levenshtein: -5.91]
+[Individual 02b97168-8a0b-4ff5-8520-faa5b70a0289 CMU: 0.06]
+[Individual 02b97168-8a0b-4ff5-8520-faa5b70a0289 ALINE: -0.05]
+[Individual 02b97168-8a0b-4ff5-8520-faa5b70a0289 NISQA: 0.21]
+
+
+[Epoch 0 Closest Candidate: '[ 0.01061889  0.0088703   0.00160199 ... -0.00031336  0.02379152
+  0.05865643]', Fitness: -4.29] 
+
+iflytek ASR Result after 1 connection retries: THEY DENY THEY LIED
+[Individual 00481d2d-ee53-4947-b8cc-f43d068f80c3 Fitness: -5.70]
+[Individual 00481d2d-ee53-4947-b8cc-f43d068f80c3 Levenshtein: -5.91]
+[Individual 00481d2d-ee53-4947-b8cc-f43d068f80c3 CMU: 0.06]
+[Individual 00481d2d-ee53-4947-b8cc-f43d068f80c3 ALINE: -0.05]
+[Individual 00481d2d-ee53-4947-b8cc-f43d068f80c3 NISQA: 0.19]
+
+
+iflytek ASR Result after 3 connection retries: THEY DENY THEY LIED
+[Individual a893eef5-e9df-4b9d-8e64-8b7da0daa3f7 Fitness: -5.71]
+[Individual a893eef5-e9df-4b9d-8e64-8b7da0daa3f7 Levenshtein: -5.91]
+[Individual a893eef5-e9df-4b9d-8e64-8b7da0daa3f7 CMU: 0.06]
+[Individual a893eef5-e9df-4b9d-8e64-8b7da0daa3f7 ALINE: -0.05]
+[Individual a893eef5-e9df-4b9d-8e64-8b7da0daa3f7 NISQA: 0.19]
+
+
+iflytek ASR Result after 5 connection retries: NA
+[Individual b4845cc1-f72a-40d9-b2fa-ba8ca1f7c18f Fitness: -1000.82]
+[Individual b4845cc1-f72a-40d9-b2fa-ba8ca1f7c18f Levenshtein: -1000.00]
+[Individual b4845cc1-f72a-40d9-b2fa-ba8ca1f7c18f CMU: 0.00]
+[Individual b4845cc1-f72a-40d9-b2fa-ba8ca1f7c18f ALINE: -1.00]
+[Individual b4845cc1-f72a-40d9-b2fa-ba8ca1f7c18f NISQA: 0.18]
+
+
+iflytek ASR Result after 2 connection retries: THEY DENY THEY LIED
+[Individual 013c50b0-ee6f-491e-9e0c-768668299e5d Fitness: -5.71]
+[Individual 013c50b0-ee6f-491e-9e0c-768668299e5d Levenshtein: -5.91]
+[Individual 013c50b0-ee6f-491e-9e0c-768668299e5d CMU: 0.06]
+[Individual 013c50b0-ee6f-491e-9e0c-768668299e5d ALINE: -0.05]
+[Individual 013c50b0-ee6f-491e-9e0c-768668299e5d NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 0c73d8d5-1207-4dc8-a690-d2bb6ef568ea Fitness: -5.72]
+[Individual 0c73d8d5-1207-4dc8-a690-d2bb6ef568ea Levenshtein: -5.91]
+[Individual 0c73d8d5-1207-4dc8-a690-d2bb6ef568ea CMU: 0.06]
+[Individual 0c73d8d5-1207-4dc8-a690-d2bb6ef568ea ALINE: -0.05]
+[Individual 0c73d8d5-1207-4dc8-a690-d2bb6ef568ea NISQA: 0.17]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 1d4f3dd6-1644-4a6d-9d5a-e2b4732d2d44 Fitness: -5.74]
+[Individual 1d4f3dd6-1644-4a6d-9d5a-e2b4732d2d44 Levenshtein: -5.91]
+[Individual 1d4f3dd6-1644-4a6d-9d5a-e2b4732d2d44 CMU: 0.06]
+[Individual 1d4f3dd6-1644-4a6d-9d5a-e2b4732d2d44 ALINE: -0.05]
+[Individual 1d4f3dd6-1644-4a6d-9d5a-e2b4732d2d44 NISQA: 0.16]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual d4f0c341-1dc6-4c34-bd68-f81249c076f9 Fitness: -5.71]
+[Individual d4f0c341-1dc6-4c34-bd68-f81249c076f9 Levenshtein: -5.91]
+[Individual d4f0c341-1dc6-4c34-bd68-f81249c076f9 CMU: 0.06]
+[Individual d4f0c341-1dc6-4c34-bd68-f81249c076f9 ALINE: -0.05]
+[Individual d4f0c341-1dc6-4c34-bd68-f81249c076f9 NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 1144d7ff-e00f-43bf-9083-21069f50594f Fitness: -5.72]
+[Individual 1144d7ff-e00f-43bf-9083-21069f50594f Levenshtein: -5.91]
+[Individual 1144d7ff-e00f-43bf-9083-21069f50594f CMU: 0.06]
+[Individual 1144d7ff-e00f-43bf-9083-21069f50594f ALINE: -0.05]
+[Individual 1144d7ff-e00f-43bf-9083-21069f50594f NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual a8e27839-6f19-4757-8184-3e3b86e516c2 Fitness: -5.74]
+[Individual a8e27839-6f19-4757-8184-3e3b86e516c2 Levenshtein: -5.91]
+[Individual a8e27839-6f19-4757-8184-3e3b86e516c2 CMU: 0.06]
+[Individual a8e27839-6f19-4757-8184-3e3b86e516c2 ALINE: -0.05]
+[Individual a8e27839-6f19-4757-8184-3e3b86e516c2 NISQA: 0.16]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual efa4e770-bbc3-45e6-af6b-fac89c81a568 Fitness: -5.70]
+[Individual efa4e770-bbc3-45e6-af6b-fac89c81a568 Levenshtein: -5.91]
+[Individual efa4e770-bbc3-45e6-af6b-fac89c81a568 CMU: 0.06]
+[Individual efa4e770-bbc3-45e6-af6b-fac89c81a568 ALINE: -0.05]
+[Individual efa4e770-bbc3-45e6-af6b-fac89c81a568 NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 7d1a6b78-51d2-46cb-bfad-2cace9665cab Fitness: -5.74]
+[Individual 7d1a6b78-51d2-46cb-bfad-2cace9665cab Levenshtein: -5.91]
+[Individual 7d1a6b78-51d2-46cb-bfad-2cace9665cab CMU: 0.06]
+[Individual 7d1a6b78-51d2-46cb-bfad-2cace9665cab ALINE: -0.05]
+[Individual 7d1a6b78-51d2-46cb-bfad-2cace9665cab NISQA: 0.15]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 9bb36454-0efb-4624-b9b8-0d493f74cf25 Fitness: -5.69]
+[Individual 9bb36454-0efb-4624-b9b8-0d493f74cf25 Levenshtein: -5.91]
+[Individual 9bb36454-0efb-4624-b9b8-0d493f74cf25 CMU: 0.06]
+[Individual 9bb36454-0efb-4624-b9b8-0d493f74cf25 ALINE: -0.05]
+[Individual 9bb36454-0efb-4624-b9b8-0d493f74cf25 NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual b825cb2f-39fd-4712-aa13-6d8b4c89238a Fitness: -5.70]
+[Individual b825cb2f-39fd-4712-aa13-6d8b4c89238a Levenshtein: -5.91]
+[Individual b825cb2f-39fd-4712-aa13-6d8b4c89238a CMU: 0.06]
+[Individual b825cb2f-39fd-4712-aa13-6d8b4c89238a ALINE: -0.05]
+[Individual b825cb2f-39fd-4712-aa13-6d8b4c89238a NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DID NOT HAVE A LINE
+[Individual 3450bed6-369e-4707-acb4-41a6d0d4ad04 Fitness: -0.92]
+[Individual 3450bed6-369e-4707-acb4-41a6d0d4ad04 Levenshtein: -1.22]
+[Individual 3450bed6-369e-4707-acb4-41a6d0d4ad04 CMU: 0.10]
+[Individual 3450bed6-369e-4707-acb4-41a6d0d4ad04 ALINE: -0.00]
+[Individual 3450bed6-369e-4707-acb4-41a6d0d4ad04 NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 07c9508f-3eee-4d42-86d8-6a61ace4440f Fitness: -5.74]
+[Individual 07c9508f-3eee-4d42-86d8-6a61ace4440f Levenshtein: -5.91]
+[Individual 07c9508f-3eee-4d42-86d8-6a61ace4440f CMU: 0.06]
+[Individual 07c9508f-3eee-4d42-86d8-6a61ace4440f ALINE: -0.05]
+[Individual 07c9508f-3eee-4d42-86d8-6a61ace4440f NISQA: 0.15]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual a326aa37-94d7-42fd-854c-c6abab1a0213 Fitness: -5.70]
+[Individual a326aa37-94d7-42fd-854c-c6abab1a0213 Levenshtein: -5.91]
+[Individual a326aa37-94d7-42fd-854c-c6abab1a0213 CMU: 0.06]
+[Individual a326aa37-94d7-42fd-854c-c6abab1a0213 ALINE: -0.05]
+[Individual a326aa37-94d7-42fd-854c-c6abab1a0213 NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 037d4ff5-a36f-4fc5-8c30-6a2013fce45e Fitness: -5.68]
+[Individual 037d4ff5-a36f-4fc5-8c30-6a2013fce45e Levenshtein: -5.91]
+[Individual 037d4ff5-a36f-4fc5-8c30-6a2013fce45e CMU: 0.06]
+[Individual 037d4ff5-a36f-4fc5-8c30-6a2013fce45e ALINE: -0.05]
+[Individual 037d4ff5-a36f-4fc5-8c30-6a2013fce45e NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 5990a958-2d36-42ea-a1db-b50f5fc95475 Fitness: -5.73]
+[Individual 5990a958-2d36-42ea-a1db-b50f5fc95475 Levenshtein: -5.91]
+[Individual 5990a958-2d36-42ea-a1db-b50f5fc95475 CMU: 0.06]
+[Individual 5990a958-2d36-42ea-a1db-b50f5fc95475 ALINE: -0.05]
+[Individual 5990a958-2d36-42ea-a1db-b50f5fc95475 NISQA: 0.16]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual d7fb321e-b02b-432b-b48c-b46d232497eb Fitness: -5.69]
+[Individual d7fb321e-b02b-432b-b48c-b46d232497eb Levenshtein: -5.91]
+[Individual d7fb321e-b02b-432b-b48c-b46d232497eb CMU: 0.06]
+[Individual d7fb321e-b02b-432b-b48c-b46d232497eb ALINE: -0.05]
+[Individual d7fb321e-b02b-432b-b48c-b46d232497eb NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 273f9742-0a03-4676-9c20-9a872999dff0 Fitness: -5.69]
+[Individual 273f9742-0a03-4676-9c20-9a872999dff0 Levenshtein: -5.91]
+[Individual 273f9742-0a03-4676-9c20-9a872999dff0 CMU: 0.06]
+[Individual 273f9742-0a03-4676-9c20-9a872999dff0 ALINE: -0.05]
+[Individual 273f9742-0a03-4676-9c20-9a872999dff0 NISQA: 0.21]
+
+
+[Epoch 1 Closest Candidate: '[ 0.00108336 -0.00651972  0.0097049  ...  0.00257013  0.00222381
+  0.00327582]', Fitness: -0.92] 
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 3450bed6-369e-4707-acb4-41a6d0d4ad04 Fitness: -5.76]
+[Individual 3450bed6-369e-4707-acb4-41a6d0d4ad04 Levenshtein: -5.91]
+[Individual 3450bed6-369e-4707-acb4-41a6d0d4ad04 CMU: 0.06]
+[Individual 3450bed6-369e-4707-acb4-41a6d0d4ad04 ALINE: -0.05]
+[Individual 3450bed6-369e-4707-acb4-41a6d0d4ad04 NISQA: 0.14]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 037d4ff5-a36f-4fc5-8c30-6a2013fce45e Fitness: -5.67]
+[Individual 037d4ff5-a36f-4fc5-8c30-6a2013fce45e Levenshtein: -5.91]
+[Individual 037d4ff5-a36f-4fc5-8c30-6a2013fce45e CMU: 0.06]
+[Individual 037d4ff5-a36f-4fc5-8c30-6a2013fce45e ALINE: -0.05]
+[Individual 037d4ff5-a36f-4fc5-8c30-6a2013fce45e NISQA: 0.23]
+
+
+iflytek ASR Result after 0 connection retries: THEY DID NOT HAVE A LIGHT
+[Individual c2f7f50b-2c67-4ef9-8800-027f2938ef45 Fitness: 0.29]
+[Individual c2f7f50b-2c67-4ef9-8800-027f2938ef45 Levenshtein: -0.00]
+[Individual c2f7f50b-2c67-4ef9-8800-027f2938ef45 CMU: 0.10]
+[Individual c2f7f50b-2c67-4ef9-8800-027f2938ef45 ALINE: -0.00]
+[Individual c2f7f50b-2c67-4ef9-8800-027f2938ef45 NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 249cd96d-b521-41b0-81be-aa50df36b8c5 Fitness: -5.71]
+[Individual 249cd96d-b521-41b0-81be-aa50df36b8c5 Levenshtein: -5.91]
+[Individual 249cd96d-b521-41b0-81be-aa50df36b8c5 CMU: 0.06]
+[Individual 249cd96d-b521-41b0-81be-aa50df36b8c5 ALINE: -0.05]
+[Individual 249cd96d-b521-41b0-81be-aa50df36b8c5 NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THE LIGHT
+[Individual 90753419-c01f-4a22-b6d8-ecfc8b8846c8 Fitness: -4.35]
+[Individual 90753419-c01f-4a22-b6d8-ecfc8b8846c8 Levenshtein: -4.55]
+[Individual 90753419-c01f-4a22-b6d8-ecfc8b8846c8 CMU: 0.08]
+[Individual 90753419-c01f-4a22-b6d8-ecfc8b8846c8 ALINE: -0.04]
+[Individual 90753419-c01f-4a22-b6d8-ecfc8b8846c8 NISQA: 0.15]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 0ed0c4aa-f2a3-48c6-b5b0-1098220879e2 Fitness: -5.69]
+[Individual 0ed0c4aa-f2a3-48c6-b5b0-1098220879e2 Levenshtein: -5.91]
+[Individual 0ed0c4aa-f2a3-48c6-b5b0-1098220879e2 CMU: 0.06]
+[Individual 0ed0c4aa-f2a3-48c6-b5b0-1098220879e2 ALINE: -0.05]
+[Individual 0ed0c4aa-f2a3-48c6-b5b0-1098220879e2 NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 4a308fcd-cb5a-460f-9080-8ff146391e1d Fitness: -5.69]
+[Individual 4a308fcd-cb5a-460f-9080-8ff146391e1d Levenshtein: -5.91]
+[Individual 4a308fcd-cb5a-460f-9080-8ff146391e1d CMU: 0.06]
+[Individual 4a308fcd-cb5a-460f-9080-8ff146391e1d ALINE: -0.05]
+[Individual 4a308fcd-cb5a-460f-9080-8ff146391e1d NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 38adebfa-408b-443c-9499-184b24265eda Fitness: -5.70]
+[Individual 38adebfa-408b-443c-9499-184b24265eda Levenshtein: -5.91]
+[Individual 38adebfa-408b-443c-9499-184b24265eda CMU: 0.06]
+[Individual 38adebfa-408b-443c-9499-184b24265eda ALINE: -0.05]
+[Individual 38adebfa-408b-443c-9499-184b24265eda NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual b70704fa-b2c8-46c4-9cf9-920e0e3ac8fb Fitness: -5.67]
+[Individual b70704fa-b2c8-46c4-9cf9-920e0e3ac8fb Levenshtein: -5.91]
+[Individual b70704fa-b2c8-46c4-9cf9-920e0e3ac8fb CMU: 0.06]
+[Individual b70704fa-b2c8-46c4-9cf9-920e0e3ac8fb ALINE: -0.05]
+[Individual b70704fa-b2c8-46c4-9cf9-920e0e3ac8fb NISQA: 0.22]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 3711fad3-4653-40e5-9922-7655a98bbfe5 Fitness: -5.68]
+[Individual 3711fad3-4653-40e5-9922-7655a98bbfe5 Levenshtein: -5.91]
+[Individual 3711fad3-4653-40e5-9922-7655a98bbfe5 CMU: 0.06]
+[Individual 3711fad3-4653-40e5-9922-7655a98bbfe5 ALINE: -0.05]
+[Individual 3711fad3-4653-40e5-9922-7655a98bbfe5 NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 4eca3344-92c7-47e0-870a-14754723b7b6 Fitness: -5.69]
+[Individual 4eca3344-92c7-47e0-870a-14754723b7b6 Levenshtein: -5.91]
+[Individual 4eca3344-92c7-47e0-870a-14754723b7b6 CMU: 0.06]
+[Individual 4eca3344-92c7-47e0-870a-14754723b7b6 ALINE: -0.05]
+[Individual 4eca3344-92c7-47e0-870a-14754723b7b6 NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 2ef0d11b-6c8d-4f5b-80ee-ccd5bb975915 Fitness: -5.68]
+[Individual 2ef0d11b-6c8d-4f5b-80ee-ccd5bb975915 Levenshtein: -5.91]
+[Individual 2ef0d11b-6c8d-4f5b-80ee-ccd5bb975915 CMU: 0.06]
+[Individual 2ef0d11b-6c8d-4f5b-80ee-ccd5bb975915 ALINE: -0.05]
+[Individual 2ef0d11b-6c8d-4f5b-80ee-ccd5bb975915 NISQA: 0.22]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 9bceb9ad-5f27-4821-be64-60df89b7e74f Fitness: -5.72]
+[Individual 9bceb9ad-5f27-4821-be64-60df89b7e74f Levenshtein: -5.91]
+[Individual 9bceb9ad-5f27-4821-be64-60df89b7e74f CMU: 0.06]
+[Individual 9bceb9ad-5f27-4821-be64-60df89b7e74f ALINE: -0.05]
+[Individual 9bceb9ad-5f27-4821-be64-60df89b7e74f NISQA: 0.17]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual d74a308c-2c70-48e0-bb22-5595ad2b0ee0 Fitness: -5.69]
+[Individual d74a308c-2c70-48e0-bb22-5595ad2b0ee0 Levenshtein: -5.91]
+[Individual d74a308c-2c70-48e0-bb22-5595ad2b0ee0 CMU: 0.06]
+[Individual d74a308c-2c70-48e0-bb22-5595ad2b0ee0 ALINE: -0.05]
+[Individual d74a308c-2c70-48e0-bb22-5595ad2b0ee0 NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENIED THEY LIED
+[Individual 398feef0-2ef2-46bf-8513-1a7baa11c37b Fitness: -5.41]
+[Individual 398feef0-2ef2-46bf-8513-1a7baa11c37b Levenshtein: -5.65]
+[Individual 398feef0-2ef2-46bf-8513-1a7baa11c37b CMU: 0.06]
+[Individual 398feef0-2ef2-46bf-8513-1a7baa11c37b ALINE: -0.03]
+[Individual 398feef0-2ef2-46bf-8513-1a7baa11c37b NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 6da10267-ed63-4463-9c47-6225211496bb Fitness: -5.73]
+[Individual 6da10267-ed63-4463-9c47-6225211496bb Levenshtein: -5.91]
+[Individual 6da10267-ed63-4463-9c47-6225211496bb CMU: 0.06]
+[Individual 6da10267-ed63-4463-9c47-6225211496bb ALINE: -0.05]
+[Individual 6da10267-ed63-4463-9c47-6225211496bb NISQA: 0.16]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual fe6ae9c4-90b0-4f9b-9a48-1335e2405264 Fitness: -5.67]
+[Individual fe6ae9c4-90b0-4f9b-9a48-1335e2405264 Levenshtein: -5.91]
+[Individual fe6ae9c4-90b0-4f9b-9a48-1335e2405264 CMU: 0.06]
+[Individual fe6ae9c4-90b0-4f9b-9a48-1335e2405264 ALINE: -0.05]
+[Individual fe6ae9c4-90b0-4f9b-9a48-1335e2405264 NISQA: 0.22]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 6f4b95cb-9588-4208-a9cb-e09c2635c0ae Fitness: -5.70]
+[Individual 6f4b95cb-9588-4208-a9cb-e09c2635c0ae Levenshtein: -5.91]
+[Individual 6f4b95cb-9588-4208-a9cb-e09c2635c0ae CMU: 0.06]
+[Individual 6f4b95cb-9588-4208-a9cb-e09c2635c0ae ALINE: -0.05]
+[Individual 6f4b95cb-9588-4208-a9cb-e09c2635c0ae NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual d3c2a65a-ec43-4761-8c50-d0c7a592a947 Fitness: -5.73]
+[Individual d3c2a65a-ec43-4761-8c50-d0c7a592a947 Levenshtein: -5.91]
+[Individual d3c2a65a-ec43-4761-8c50-d0c7a592a947 CMU: 0.06]
+[Individual d3c2a65a-ec43-4761-8c50-d0c7a592a947 ALINE: -0.05]
+[Individual d3c2a65a-ec43-4761-8c50-d0c7a592a947 NISQA: 0.16]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 18b3b9bd-28db-4714-b7a9-b08264d324a9 Fitness: -5.74]
+[Individual 18b3b9bd-28db-4714-b7a9-b08264d324a9 Levenshtein: -5.91]
+[Individual 18b3b9bd-28db-4714-b7a9-b08264d324a9 CMU: 0.06]
+[Individual 18b3b9bd-28db-4714-b7a9-b08264d324a9 ALINE: -0.05]
+[Individual 18b3b9bd-28db-4714-b7a9-b08264d324a9 NISQA: 0.15]
+
+
+[Epoch 2 Closest Candidate: '[-0.00210817 -0.00150029  0.00377404 ...  0.00679042  0.00196868
+  0.00071935]', Fitness: 0.29] 
+
+iflytek ASR Result after 0 connection retries: THEY DENY THE LIGHT
+[Individual c2f7f50b-2c67-4ef9-8800-027f2938ef45 Fitness: -4.30]
+[Individual c2f7f50b-2c67-4ef9-8800-027f2938ef45 Levenshtein: -4.55]
+[Individual c2f7f50b-2c67-4ef9-8800-027f2938ef45 CMU: 0.08]
+[Individual c2f7f50b-2c67-4ef9-8800-027f2938ef45 ALINE: -0.04]
+[Individual c2f7f50b-2c67-4ef9-8800-027f2938ef45 NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 90753419-c01f-4a22-b6d8-ecfc8b8846c8 Fitness: -5.70]
+[Individual 90753419-c01f-4a22-b6d8-ecfc8b8846c8 Levenshtein: -5.91]
+[Individual 90753419-c01f-4a22-b6d8-ecfc8b8846c8 CMU: 0.06]
+[Individual 90753419-c01f-4a22-b6d8-ecfc8b8846c8 ALINE: -0.05]
+[Individual 90753419-c01f-4a22-b6d8-ecfc8b8846c8 NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 704845b5-3ead-4726-bff6-882e070ea799 Fitness: -5.70]
+[Individual 704845b5-3ead-4726-bff6-882e070ea799 Levenshtein: -5.91]
+[Individual 704845b5-3ead-4726-bff6-882e070ea799 CMU: 0.06]
+[Individual 704845b5-3ead-4726-bff6-882e070ea799 ALINE: -0.05]
+[Individual 704845b5-3ead-4726-bff6-882e070ea799 NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 5675ab36-98f0-4dc7-915c-a8b5d556fadc Fitness: -5.70]
+[Individual 5675ab36-98f0-4dc7-915c-a8b5d556fadc Levenshtein: -5.91]
+[Individual 5675ab36-98f0-4dc7-915c-a8b5d556fadc CMU: 0.06]
+[Individual 5675ab36-98f0-4dc7-915c-a8b5d556fadc ALINE: -0.05]
+[Individual 5675ab36-98f0-4dc7-915c-a8b5d556fadc NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual cd99c4c5-3448-4c32-9d83-32de2ba43e69 Fitness: -5.67]
+[Individual cd99c4c5-3448-4c32-9d83-32de2ba43e69 Levenshtein: -5.91]
+[Individual cd99c4c5-3448-4c32-9d83-32de2ba43e69 CMU: 0.06]
+[Individual cd99c4c5-3448-4c32-9d83-32de2ba43e69 ALINE: -0.05]
+[Individual cd99c4c5-3448-4c32-9d83-32de2ba43e69 NISQA: 0.22]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 06c92fe4-99f1-4075-8c07-b66c7f25fd18 Fitness: -5.70]
+[Individual 06c92fe4-99f1-4075-8c07-b66c7f25fd18 Levenshtein: -5.91]
+[Individual 06c92fe4-99f1-4075-8c07-b66c7f25fd18 CMU: 0.06]
+[Individual 06c92fe4-99f1-4075-8c07-b66c7f25fd18 ALINE: -0.05]
+[Individual 06c92fe4-99f1-4075-8c07-b66c7f25fd18 NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual dfc0ece4-20df-4030-bc8d-581d29a0fef2 Fitness: -5.74]
+[Individual dfc0ece4-20df-4030-bc8d-581d29a0fef2 Levenshtein: -5.91]
+[Individual dfc0ece4-20df-4030-bc8d-581d29a0fef2 CMU: 0.06]
+[Individual dfc0ece4-20df-4030-bc8d-581d29a0fef2 ALINE: -0.05]
+[Individual dfc0ece4-20df-4030-bc8d-581d29a0fef2 NISQA: 0.15]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual ee7e8ec1-c90e-486c-bc80-e4b188124dc4 Fitness: -5.76]
+[Individual ee7e8ec1-c90e-486c-bc80-e4b188124dc4 Levenshtein: -5.91]
+[Individual ee7e8ec1-c90e-486c-bc80-e4b188124dc4 CMU: 0.06]
+[Individual ee7e8ec1-c90e-486c-bc80-e4b188124dc4 ALINE: -0.05]
+[Individual ee7e8ec1-c90e-486c-bc80-e4b188124dc4 NISQA: 0.14]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 6ef4e367-5fd9-4099-9a00-01fef033a0c2 Fitness: -5.74]
+[Individual 6ef4e367-5fd9-4099-9a00-01fef033a0c2 Levenshtein: -5.91]
+[Individual 6ef4e367-5fd9-4099-9a00-01fef033a0c2 CMU: 0.06]
+[Individual 6ef4e367-5fd9-4099-9a00-01fef033a0c2 ALINE: -0.05]
+[Individual 6ef4e367-5fd9-4099-9a00-01fef033a0c2 NISQA: 0.15]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 5f9115ba-3f2b-43a4-bb79-685fdf05fcd7 Fitness: -5.68]
+[Individual 5f9115ba-3f2b-43a4-bb79-685fdf05fcd7 Levenshtein: -5.91]
+[Individual 5f9115ba-3f2b-43a4-bb79-685fdf05fcd7 CMU: 0.06]
+[Individual 5f9115ba-3f2b-43a4-bb79-685fdf05fcd7 ALINE: -0.05]
+[Individual 5f9115ba-3f2b-43a4-bb79-685fdf05fcd7 NISQA: 0.21]
+
+
+iflytek ASR Result after 1 connection retries: THEY DENIED THEY LIED
+[Individual a9e8af7d-7378-4a6e-bc61-ee897418c24b Fitness: -5.45]
+[Individual a9e8af7d-7378-4a6e-bc61-ee897418c24b Levenshtein: -5.65]
+[Individual a9e8af7d-7378-4a6e-bc61-ee897418c24b CMU: 0.06]
+[Individual a9e8af7d-7378-4a6e-bc61-ee897418c24b ALINE: -0.03]
+[Individual a9e8af7d-7378-4a6e-bc61-ee897418c24b NISQA: 0.17]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 40f6d0da-e66a-493f-81c1-eea81fb1c0b0 Fitness: -5.73]
+[Individual 40f6d0da-e66a-493f-81c1-eea81fb1c0b0 Levenshtein: -5.91]
+[Individual 40f6d0da-e66a-493f-81c1-eea81fb1c0b0 CMU: 0.06]
+[Individual 40f6d0da-e66a-493f-81c1-eea81fb1c0b0 ALINE: -0.05]
+[Individual 40f6d0da-e66a-493f-81c1-eea81fb1c0b0 NISQA: 0.17]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual b8cd0987-bce0-4003-b76e-f0e3c8a75679 Fitness: -5.70]
+[Individual b8cd0987-bce0-4003-b76e-f0e3c8a75679 Levenshtein: -5.91]
+[Individual b8cd0987-bce0-4003-b76e-f0e3c8a75679 CMU: 0.06]
+[Individual b8cd0987-bce0-4003-b76e-f0e3c8a75679 ALINE: -0.05]
+[Individual b8cd0987-bce0-4003-b76e-f0e3c8a75679 NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual cb9490ff-ccad-4049-a141-165af5a173a2 Fitness: -5.70]
+[Individual cb9490ff-ccad-4049-a141-165af5a173a2 Levenshtein: -5.91]
+[Individual cb9490ff-ccad-4049-a141-165af5a173a2 CMU: 0.06]
+[Individual cb9490ff-ccad-4049-a141-165af5a173a2 ALINE: -0.05]
+[Individual cb9490ff-ccad-4049-a141-165af5a173a2 NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual a9263e4d-1418-4d85-a34f-891b0a251093 Fitness: -5.68]
+[Individual a9263e4d-1418-4d85-a34f-891b0a251093 Levenshtein: -5.91]
+[Individual a9263e4d-1418-4d85-a34f-891b0a251093 CMU: 0.06]
+[Individual a9263e4d-1418-4d85-a34f-891b0a251093 ALINE: -0.05]
+[Individual a9263e4d-1418-4d85-a34f-891b0a251093 NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENIED THEY LIED
+[Individual e89f1f95-ecd6-4d42-b55c-4175c7eb431b Fitness: -5.40]
+[Individual e89f1f95-ecd6-4d42-b55c-4175c7eb431b Levenshtein: -5.65]
+[Individual e89f1f95-ecd6-4d42-b55c-4175c7eb431b CMU: 0.06]
+[Individual e89f1f95-ecd6-4d42-b55c-4175c7eb431b ALINE: -0.03]
+[Individual e89f1f95-ecd6-4d42-b55c-4175c7eb431b NISQA: 0.22]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 3d5aa574-7afa-481c-a04c-a5819f434af8 Fitness: -5.74]
+[Individual 3d5aa574-7afa-481c-a04c-a5819f434af8 Levenshtein: -5.91]
+[Individual 3d5aa574-7afa-481c-a04c-a5819f434af8 CMU: 0.06]
+[Individual 3d5aa574-7afa-481c-a04c-a5819f434af8 ALINE: -0.05]
+[Individual 3d5aa574-7afa-481c-a04c-a5819f434af8 NISQA: 0.16]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 1f1b93c9-4240-4705-a7d4-0b93a05c7b0a Fitness: -5.75]
+[Individual 1f1b93c9-4240-4705-a7d4-0b93a05c7b0a Levenshtein: -5.91]
+[Individual 1f1b93c9-4240-4705-a7d4-0b93a05c7b0a CMU: 0.06]
+[Individual 1f1b93c9-4240-4705-a7d4-0b93a05c7b0a ALINE: -0.05]
+[Individual 1f1b93c9-4240-4705-a7d4-0b93a05c7b0a NISQA: 0.15]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 355b3038-fc14-495b-9a8a-13f28bc025b8 Fitness: -5.66]
+[Individual 355b3038-fc14-495b-9a8a-13f28bc025b8 Levenshtein: -5.91]
+[Individual 355b3038-fc14-495b-9a8a-13f28bc025b8 CMU: 0.06]
+[Individual 355b3038-fc14-495b-9a8a-13f28bc025b8 ALINE: -0.05]
+[Individual 355b3038-fc14-495b-9a8a-13f28bc025b8 NISQA: 0.24]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 7dc486f8-cb46-4861-a2cf-df8bac9b62a0 Fitness: -5.70]
+[Individual 7dc486f8-cb46-4861-a2cf-df8bac9b62a0 Levenshtein: -5.91]
+[Individual 7dc486f8-cb46-4861-a2cf-df8bac9b62a0 CMU: 0.06]
+[Individual 7dc486f8-cb46-4861-a2cf-df8bac9b62a0 ALINE: -0.05]
+[Individual 7dc486f8-cb46-4861-a2cf-df8bac9b62a0 NISQA: 0.19]
+
+
+[Epoch 3 Closest Candidate: '[0.0020289  0.00632494 0.01480473 ... 0.0029879  0.00165657 0.00258055]', Fitness: -4.30] 
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual c2f7f50b-2c67-4ef9-8800-027f2938ef45 Fitness: -5.69]
+[Individual c2f7f50b-2c67-4ef9-8800-027f2938ef45 Levenshtein: -5.91]
+[Individual c2f7f50b-2c67-4ef9-8800-027f2938ef45 CMU: 0.06]
+[Individual c2f7f50b-2c67-4ef9-8800-027f2938ef45 ALINE: -0.05]
+[Individual c2f7f50b-2c67-4ef9-8800-027f2938ef45 NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENIED THEY LIED
+[Individual e89f1f95-ecd6-4d42-b55c-4175c7eb431b Fitness: -5.44]
+[Individual e89f1f95-ecd6-4d42-b55c-4175c7eb431b Levenshtein: -5.65]
+[Individual e89f1f95-ecd6-4d42-b55c-4175c7eb431b CMU: 0.06]
+[Individual e89f1f95-ecd6-4d42-b55c-4175c7eb431b ALINE: -0.03]
+[Individual e89f1f95-ecd6-4d42-b55c-4175c7eb431b NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENIED THE LINE
+[Individual 3c6183d8-010e-433d-89a1-df9678368dbc Fitness: -5.53]
+[Individual 3c6183d8-010e-433d-89a1-df9678368dbc Levenshtein: -5.78]
+[Individual 3c6183d8-010e-433d-89a1-df9678368dbc CMU: 0.07]
+[Individual 3c6183d8-010e-433d-89a1-df9678368dbc ALINE: -0.03]
+[Individual 3c6183d8-010e-433d-89a1-df9678368dbc NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENIED THEY LIED
+[Individual fd80f686-5f42-46f1-9c6b-dca2ecdf8273 Fitness: -5.41]
+[Individual fd80f686-5f42-46f1-9c6b-dca2ecdf8273 Levenshtein: -5.65]
+[Individual fd80f686-5f42-46f1-9c6b-dca2ecdf8273 CMU: 0.06]
+[Individual fd80f686-5f42-46f1-9c6b-dca2ecdf8273 ALINE: -0.03]
+[Individual fd80f686-5f42-46f1-9c6b-dca2ecdf8273 NISQA: 0.21]
+
+
+iflytek ASR Result after 1 connection retries: THEY DENIED THEY LIED
+[Individual 57e9dbb2-a62a-4658-b33a-fafbdcb312f9 Fitness: -5.40]
+[Individual 57e9dbb2-a62a-4658-b33a-fafbdcb312f9 Levenshtein: -5.65]
+[Individual 57e9dbb2-a62a-4658-b33a-fafbdcb312f9 CMU: 0.06]
+[Individual 57e9dbb2-a62a-4658-b33a-fafbdcb312f9 ALINE: -0.03]
+[Individual 57e9dbb2-a62a-4658-b33a-fafbdcb312f9 NISQA: 0.22]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 78225fcf-cc59-4f3f-af70-8ea01331bd8a Fitness: -5.69]
+[Individual 78225fcf-cc59-4f3f-af70-8ea01331bd8a Levenshtein: -5.91]
+[Individual 78225fcf-cc59-4f3f-af70-8ea01331bd8a CMU: 0.06]
+[Individual 78225fcf-cc59-4f3f-af70-8ea01331bd8a ALINE: -0.05]
+[Individual 78225fcf-cc59-4f3f-af70-8ea01331bd8a NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 94cf53a3-9bf9-4b4a-8df7-cbe81453c84b Fitness: -5.68]
+[Individual 94cf53a3-9bf9-4b4a-8df7-cbe81453c84b Levenshtein: -5.91]
+[Individual 94cf53a3-9bf9-4b4a-8df7-cbe81453c84b CMU: 0.06]
+[Individual 94cf53a3-9bf9-4b4a-8df7-cbe81453c84b ALINE: -0.05]
+[Individual 94cf53a3-9bf9-4b4a-8df7-cbe81453c84b NISQA: 0.21]
+
+
+iflytek ASR Result after 1 connection retries: THEY DENY THE WIND
+[Individual 64878990-9af2-4d07-a872-af1c05ba2cb8 Fitness: -6.36]
+[Individual 64878990-9af2-4d07-a872-af1c05ba2cb8 Levenshtein: -6.51]
+[Individual 64878990-9af2-4d07-a872-af1c05ba2cb8 CMU: 0.06]
+[Individual 64878990-9af2-4d07-a872-af1c05ba2cb8 ALINE: -0.05]
+[Individual 64878990-9af2-4d07-a872-af1c05ba2cb8 NISQA: 0.14]
+
+
+iflytek ASR Result after 2 connection retries: THEY DENY THEY LIED
+[Individual b986b90d-251a-4bad-9ac7-7b87e474aeee Fitness: -5.71]
+[Individual b986b90d-251a-4bad-9ac7-7b87e474aeee Levenshtein: -5.91]
+[Individual b986b90d-251a-4bad-9ac7-7b87e474aeee CMU: 0.06]
+[Individual b986b90d-251a-4bad-9ac7-7b87e474aeee ALINE: -0.05]
+[Individual b986b90d-251a-4bad-9ac7-7b87e474aeee NISQA: 0.19]
+
+
+iflytek ASR Result after 5 connection retries: NA
+[Individual 9d2c6e93-d6eb-4118-8db9-d1caad8d2cda Fitness: -1000.79]
+[Individual 9d2c6e93-d6eb-4118-8db9-d1caad8d2cda Levenshtein: -1000.00]
+[Individual 9d2c6e93-d6eb-4118-8db9-d1caad8d2cda CMU: 0.00]
+[Individual 9d2c6e93-d6eb-4118-8db9-d1caad8d2cda ALINE: -1.00]
+[Individual 9d2c6e93-d6eb-4118-8db9-d1caad8d2cda NISQA: 0.21]
+
+
+iflytek ASR Result after 4 connection retries: THEY DENY THEY LIGHT
+[Individual 6804b290-2f77-4566-a8ec-bccba6faf6b6 Fitness: -4.23]
+[Individual 6804b290-2f77-4566-a8ec-bccba6faf6b6 Levenshtein: -4.44]
+[Individual 6804b290-2f77-4566-a8ec-bccba6faf6b6 CMU: 0.07]
+[Individual 6804b290-2f77-4566-a8ec-bccba6faf6b6 ALINE: -0.05]
+[Individual 6804b290-2f77-4566-a8ec-bccba6faf6b6 NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENIED THEY LIED
+[Individual 488e239f-f285-40c9-be71-b1c34a41f78b Fitness: -5.44]
+[Individual 488e239f-f285-40c9-be71-b1c34a41f78b Levenshtein: -5.65]
+[Individual 488e239f-f285-40c9-be71-b1c34a41f78b CMU: 0.06]
+[Individual 488e239f-f285-40c9-be71-b1c34a41f78b ALINE: -0.03]
+[Individual 488e239f-f285-40c9-be71-b1c34a41f78b NISQA: 0.18]
+
+
+iflytek ASR Result after 2 connection retries: THEY DENY THEY LIED
+[Individual 51606e72-bf08-4bf8-b75b-ab5afb29e4a4 Fitness: -5.69]
+[Individual 51606e72-bf08-4bf8-b75b-ab5afb29e4a4 Levenshtein: -5.91]
+[Individual 51606e72-bf08-4bf8-b75b-ab5afb29e4a4 CMU: 0.06]
+[Individual 51606e72-bf08-4bf8-b75b-ab5afb29e4a4 ALINE: -0.05]
+[Individual 51606e72-bf08-4bf8-b75b-ab5afb29e4a4 NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 0441a7f9-d3be-4a29-9095-6257ad71216e Fitness: -5.69]
+[Individual 0441a7f9-d3be-4a29-9095-6257ad71216e Levenshtein: -5.91]
+[Individual 0441a7f9-d3be-4a29-9095-6257ad71216e CMU: 0.06]
+[Individual 0441a7f9-d3be-4a29-9095-6257ad71216e ALINE: -0.05]
+[Individual 0441a7f9-d3be-4a29-9095-6257ad71216e NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 844f58aa-e58f-440e-91b4-941f2e2a294f Fitness: -5.70]
+[Individual 844f58aa-e58f-440e-91b4-941f2e2a294f Levenshtein: -5.91]
+[Individual 844f58aa-e58f-440e-91b4-941f2e2a294f CMU: 0.06]
+[Individual 844f58aa-e58f-440e-91b4-941f2e2a294f ALINE: -0.05]
+[Individual 844f58aa-e58f-440e-91b4-941f2e2a294f NISQA: 0.19]
+
+
+iflytek ASR Result after 5 connection retries: NA
+[Individual 6e9c9177-52de-4da0-a2f2-85a005e8e112 Fitness: -1000.85]
+[Individual 6e9c9177-52de-4da0-a2f2-85a005e8e112 Levenshtein: -1000.00]
+[Individual 6e9c9177-52de-4da0-a2f2-85a005e8e112 CMU: 0.00]
+[Individual 6e9c9177-52de-4da0-a2f2-85a005e8e112 ALINE: -1.00]
+[Individual 6e9c9177-52de-4da0-a2f2-85a005e8e112 NISQA: 0.15]
+
+
+iflytek ASR Result after 3 connection retries: THEY DENY THEY LIED
+[Individual 1e2b2eec-a67b-42e7-ba2f-9475de59da64 Fitness: -5.73]
+[Individual 1e2b2eec-a67b-42e7-ba2f-9475de59da64 Levenshtein: -5.91]
+[Individual 1e2b2eec-a67b-42e7-ba2f-9475de59da64 CMU: 0.06]
+[Individual 1e2b2eec-a67b-42e7-ba2f-9475de59da64 ALINE: -0.05]
+[Individual 1e2b2eec-a67b-42e7-ba2f-9475de59da64 NISQA: 0.17]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual db5264ad-8c40-4962-b3ad-41f117518bc7 Fitness: -5.70]
+[Individual db5264ad-8c40-4962-b3ad-41f117518bc7 Levenshtein: -5.91]
+[Individual db5264ad-8c40-4962-b3ad-41f117518bc7 CMU: 0.06]
+[Individual db5264ad-8c40-4962-b3ad-41f117518bc7 ALINE: -0.05]
+[Individual db5264ad-8c40-4962-b3ad-41f117518bc7 NISQA: 0.19]
+
+
+iflytek ASR Result after 1 connection retries: THEY DENY THEY LIED
+[Individual a582809a-2982-4361-9990-3fcc45445970 Fitness: -5.68]
+[Individual a582809a-2982-4361-9990-3fcc45445970 Levenshtein: -5.91]
+[Individual a582809a-2982-4361-9990-3fcc45445970 CMU: 0.06]
+[Individual a582809a-2982-4361-9990-3fcc45445970 ALINE: -0.05]
+[Individual a582809a-2982-4361-9990-3fcc45445970 NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 02cf16c6-714d-4e5e-9caa-9adb0b4a8544 Fitness: -5.67]
+[Individual 02cf16c6-714d-4e5e-9caa-9adb0b4a8544 Levenshtein: -5.91]
+[Individual 02cf16c6-714d-4e5e-9caa-9adb0b4a8544 CMU: 0.06]
+[Individual 02cf16c6-714d-4e5e-9caa-9adb0b4a8544 ALINE: -0.05]
+[Individual 02cf16c6-714d-4e5e-9caa-9adb0b4a8544 NISQA: 0.22]
+
+
+[Epoch 4 Closest Candidate: '[0.00081582 0.03140388 0.00184178 ... 0.00353545 0.00160973 0.00743834]', Fitness: -4.23] 
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 6804b290-2f77-4566-a8ec-bccba6faf6b6 Fitness: -5.69]
+[Individual 6804b290-2f77-4566-a8ec-bccba6faf6b6 Levenshtein: -5.91]
+[Individual 6804b290-2f77-4566-a8ec-bccba6faf6b6 CMU: 0.06]
+[Individual 6804b290-2f77-4566-a8ec-bccba6faf6b6 ALINE: -0.05]
+[Individual 6804b290-2f77-4566-a8ec-bccba6faf6b6 NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 57e9dbb2-a62a-4658-b33a-fafbdcb312f9 Fitness: -5.69]
+[Individual 57e9dbb2-a62a-4658-b33a-fafbdcb312f9 Levenshtein: -5.91]
+[Individual 57e9dbb2-a62a-4658-b33a-fafbdcb312f9 CMU: 0.06]
+[Individual 57e9dbb2-a62a-4658-b33a-fafbdcb312f9 ALINE: -0.05]
+[Individual 57e9dbb2-a62a-4658-b33a-fafbdcb312f9 NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 1b29425e-1d71-469f-9cad-15602df5ff70 Fitness: -5.65]
+[Individual 1b29425e-1d71-469f-9cad-15602df5ff70 Levenshtein: -5.91]
+[Individual 1b29425e-1d71-469f-9cad-15602df5ff70 CMU: 0.06]
+[Individual 1b29425e-1d71-469f-9cad-15602df5ff70 ALINE: -0.05]
+[Individual 1b29425e-1d71-469f-9cad-15602df5ff70 NISQA: 0.24]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENIED THEY LIED
+[Individual d964e766-2bbc-448f-8c1e-413106674628 Fitness: -5.44]
+[Individual d964e766-2bbc-448f-8c1e-413106674628 Levenshtein: -5.65]
+[Individual d964e766-2bbc-448f-8c1e-413106674628 CMU: 0.06]
+[Individual d964e766-2bbc-448f-8c1e-413106674628 ALINE: -0.03]
+[Individual d964e766-2bbc-448f-8c1e-413106674628 NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIE
+[Individual c8dcf5bc-4e90-470f-92b4-3f83913b710f Fitness: -5.87]
+[Individual c8dcf5bc-4e90-470f-92b4-3f83913b710f Levenshtein: -6.05]
+[Individual c8dcf5bc-4e90-470f-92b4-3f83913b710f CMU: 0.07]
+[Individual c8dcf5bc-4e90-470f-92b4-3f83913b710f ALINE: -0.05]
+[Individual c8dcf5bc-4e90-470f-92b4-3f83913b710f NISQA: 0.16]
+
+
+iflytek ASR Result after 0 connection retries: HE DENIED THE LINE
+[Individual 33dca20c-e3dd-4a31-81fe-eb651cbf4339 Fitness: -6.82]
+[Individual 33dca20c-e3dd-4a31-81fe-eb651cbf4339 Levenshtein: -6.98]
+[Individual 33dca20c-e3dd-4a31-81fe-eb651cbf4339 CMU: 0.05]
+[Individual 33dca20c-e3dd-4a31-81fe-eb651cbf4339 ALINE: -0.06]
+[Individual 33dca20c-e3dd-4a31-81fe-eb651cbf4339 NISQA: 0.16]
+
+
+iflytek ASR Result after 0 connection retries: THEY DID NOT HAVE A LINE
+[Individual 7e1ea621-71ea-413a-86d8-884fb966189a Fitness: -0.92]
+[Individual 7e1ea621-71ea-413a-86d8-884fb966189a Levenshtein: -1.22]
+[Individual 7e1ea621-71ea-413a-86d8-884fb966189a CMU: 0.10]
+[Individual 7e1ea621-71ea-413a-86d8-884fb966189a ALINE: -0.00]
+[Individual 7e1ea621-71ea-413a-86d8-884fb966189a NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 228128be-b9fb-4964-b32c-a3015f659c07 Fitness: -5.74]
+[Individual 228128be-b9fb-4964-b32c-a3015f659c07 Levenshtein: -5.91]
+[Individual 228128be-b9fb-4964-b32c-a3015f659c07 CMU: 0.06]
+[Individual 228128be-b9fb-4964-b32c-a3015f659c07 ALINE: -0.05]
+[Individual 228128be-b9fb-4964-b32c-a3015f659c07 NISQA: 0.15]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THE MIND
+[Individual 8f8bbdeb-ccc9-439b-b143-f85938a07536 Fitness: -6.38]
+[Individual 8f8bbdeb-ccc9-439b-b143-f85938a07536 Levenshtein: -6.51]
+[Individual 8f8bbdeb-ccc9-439b-b143-f85938a07536 CMU: 0.06]
+[Individual 8f8bbdeb-ccc9-439b-b143-f85938a07536 ALINE: -0.06]
+[Individual 8f8bbdeb-ccc9-439b-b143-f85938a07536 NISQA: 0.13]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual ef9c8f07-a865-4a34-ab27-5984f50afcec Fitness: -5.75]
+[Individual ef9c8f07-a865-4a34-ab27-5984f50afcec Levenshtein: -5.91]
+[Individual ef9c8f07-a865-4a34-ab27-5984f50afcec CMU: 0.06]
+[Individual ef9c8f07-a865-4a34-ab27-5984f50afcec ALINE: -0.05]
+[Individual ef9c8f07-a865-4a34-ab27-5984f50afcec NISQA: 0.15]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 877b347b-ec48-4ee3-bf60-f332fa25979b Fitness: -5.67]
+[Individual 877b347b-ec48-4ee3-bf60-f332fa25979b Levenshtein: -5.91]
+[Individual 877b347b-ec48-4ee3-bf60-f332fa25979b CMU: 0.06]
+[Individual 877b347b-ec48-4ee3-bf60-f332fa25979b ALINE: -0.05]
+[Individual 877b347b-ec48-4ee3-bf60-f332fa25979b NISQA: 0.22]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 201cb4aa-092e-4963-89f3-e7e7e8fd3809 Fitness: -5.69]
+[Individual 201cb4aa-092e-4963-89f3-e7e7e8fd3809 Levenshtein: -5.91]
+[Individual 201cb4aa-092e-4963-89f3-e7e7e8fd3809 CMU: 0.06]
+[Individual 201cb4aa-092e-4963-89f3-e7e7e8fd3809 ALINE: -0.05]
+[Individual 201cb4aa-092e-4963-89f3-e7e7e8fd3809 NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DO NOT BEHAVE LIKE
+[Individual e7bfffca-062e-4552-9258-f98547d272e1 Fitness: -3.55]
+[Individual e7bfffca-062e-4552-9258-f98547d272e1 Levenshtein: -3.75]
+[Individual e7bfffca-062e-4552-9258-f98547d272e1 CMU: 0.07]
+[Individual e7bfffca-062e-4552-9258-f98547d272e1 ALINE: -0.05]
+[Individual e7bfffca-062e-4552-9258-f98547d272e1 NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: THEY DO NOT THEY LIED
+[Individual 01e77b9a-e78d-4361-82b3-132d42d08837 Fitness: -4.13]
+[Individual 01e77b9a-e78d-4361-82b3-132d42d08837 Levenshtein: -4.35]
+[Individual 01e77b9a-e78d-4361-82b3-132d42d08837 CMU: 0.08]
+[Individual 01e77b9a-e78d-4361-82b3-132d42d08837 ALINE: -0.04]
+[Individual 01e77b9a-e78d-4361-82b3-132d42d08837 NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual b6892035-ad9d-44d6-9ed4-86be2584eba0 Fitness: -5.71]
+[Individual b6892035-ad9d-44d6-9ed4-86be2584eba0 Levenshtein: -5.91]
+[Individual b6892035-ad9d-44d6-9ed4-86be2584eba0 CMU: 0.06]
+[Individual b6892035-ad9d-44d6-9ed4-86be2584eba0 ALINE: -0.05]
+[Individual b6892035-ad9d-44d6-9ed4-86be2584eba0 NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 529fe66d-c795-49c8-8cbb-0a2b014109f0 Fitness: -5.70]
+[Individual 529fe66d-c795-49c8-8cbb-0a2b014109f0 Levenshtein: -5.91]
+[Individual 529fe66d-c795-49c8-8cbb-0a2b014109f0 CMU: 0.06]
+[Individual 529fe66d-c795-49c8-8cbb-0a2b014109f0 ALINE: -0.05]
+[Individual 529fe66d-c795-49c8-8cbb-0a2b014109f0 NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 55c72aae-21a2-41fb-a0b2-d79ff5a2fb08 Fitness: -5.75]
+[Individual 55c72aae-21a2-41fb-a0b2-d79ff5a2fb08 Levenshtein: -5.91]
+[Individual 55c72aae-21a2-41fb-a0b2-d79ff5a2fb08 CMU: 0.06]
+[Individual 55c72aae-21a2-41fb-a0b2-d79ff5a2fb08 ALINE: -0.05]
+[Individual 55c72aae-21a2-41fb-a0b2-d79ff5a2fb08 NISQA: 0.14]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 4369cde1-3fd3-49eb-93a6-3a7518fed651 Fitness: -5.66]
+[Individual 4369cde1-3fd3-49eb-93a6-3a7518fed651 Levenshtein: -5.91]
+[Individual 4369cde1-3fd3-49eb-93a6-3a7518fed651 CMU: 0.06]
+[Individual 4369cde1-3fd3-49eb-93a6-3a7518fed651 ALINE: -0.05]
+[Individual 4369cde1-3fd3-49eb-93a6-3a7518fed651 NISQA: 0.23]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 5c505272-c779-46d6-af0b-cc404a685a8e Fitness: -5.69]
+[Individual 5c505272-c779-46d6-af0b-cc404a685a8e Levenshtein: -5.91]
+[Individual 5c505272-c779-46d6-af0b-cc404a685a8e CMU: 0.06]
+[Individual 5c505272-c779-46d6-af0b-cc404a685a8e ALINE: -0.05]
+[Individual 5c505272-c779-46d6-af0b-cc404a685a8e NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENIED THEY LIED
+[Individual 7f2e7161-1cb3-4a56-8546-0bef8cb329f2 Fitness: -5.46]
+[Individual 7f2e7161-1cb3-4a56-8546-0bef8cb329f2 Levenshtein: -5.65]
+[Individual 7f2e7161-1cb3-4a56-8546-0bef8cb329f2 CMU: 0.06]
+[Individual 7f2e7161-1cb3-4a56-8546-0bef8cb329f2 ALINE: -0.03]
+[Individual 7f2e7161-1cb3-4a56-8546-0bef8cb329f2 NISQA: 0.16]
+
+
+[Epoch 5 Closest Candidate: '[ 0.00060931  0.02102193 -0.00547896 ...  0.00062553  0.00763133
+  0.01525021]', Fitness: -0.92] 
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 7e1ea621-71ea-413a-86d8-884fb966189a Fitness: -5.72]
+[Individual 7e1ea621-71ea-413a-86d8-884fb966189a Levenshtein: -5.91]
+[Individual 7e1ea621-71ea-413a-86d8-884fb966189a CMU: 0.06]
+[Individual 7e1ea621-71ea-413a-86d8-884fb966189a ALINE: -0.05]
+[Individual 7e1ea621-71ea-413a-86d8-884fb966189a NISQA: 0.17]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual e7bfffca-062e-4552-9258-f98547d272e1 Fitness: -5.71]
+[Individual e7bfffca-062e-4552-9258-f98547d272e1 Levenshtein: -5.91]
+[Individual e7bfffca-062e-4552-9258-f98547d272e1 CMU: 0.06]
+[Individual e7bfffca-062e-4552-9258-f98547d272e1 ALINE: -0.05]
+[Individual e7bfffca-062e-4552-9258-f98547d272e1 NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: WE DENY THE WIND
+[Individual 10bf98c1-7a4c-4b5d-9d1f-11700c508518 Fitness: -8.14]
+[Individual 10bf98c1-7a4c-4b5d-9d1f-11700c508518 Levenshtein: -8.29]
+[Individual 10bf98c1-7a4c-4b5d-9d1f-11700c508518 CMU: 0.05]
+[Individual 10bf98c1-7a4c-4b5d-9d1f-11700c508518 ALINE: -0.07]
+[Individual 10bf98c1-7a4c-4b5d-9d1f-11700c508518 NISQA: 0.17]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 462dc3de-e985-495a-8670-0ce7670e4879 Fitness: -5.71]
+[Individual 462dc3de-e985-495a-8670-0ce7670e4879 Levenshtein: -5.91]
+[Individual 462dc3de-e985-495a-8670-0ce7670e4879 CMU: 0.06]
+[Individual 462dc3de-e985-495a-8670-0ce7670e4879 ALINE: -0.05]
+[Individual 462dc3de-e985-495a-8670-0ce7670e4879 NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENIED THEY LIED
+[Individual 4b391bb2-3b23-463b-bce5-97851109f760 Fitness: -5.46]
+[Individual 4b391bb2-3b23-463b-bce5-97851109f760 Levenshtein: -5.65]
+[Individual 4b391bb2-3b23-463b-bce5-97851109f760 CMU: 0.06]
+[Individual 4b391bb2-3b23-463b-bce5-97851109f760 ALINE: -0.03]
+[Individual 4b391bb2-3b23-463b-bce5-97851109f760 NISQA: 0.16]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual f31b4401-370b-4530-89dd-f402b12ab55a Fitness: -5.69]
+[Individual f31b4401-370b-4530-89dd-f402b12ab55a Levenshtein: -5.91]
+[Individual f31b4401-370b-4530-89dd-f402b12ab55a CMU: 0.06]
+[Individual f31b4401-370b-4530-89dd-f402b12ab55a ALINE: -0.05]
+[Individual f31b4401-370b-4530-89dd-f402b12ab55a NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual e18ac569-1b63-4074-b98a-e8d6f92b2805 Fitness: -5.69]
+[Individual e18ac569-1b63-4074-b98a-e8d6f92b2805 Levenshtein: -5.91]
+[Individual e18ac569-1b63-4074-b98a-e8d6f92b2805 CMU: 0.06]
+[Individual e18ac569-1b63-4074-b98a-e8d6f92b2805 ALINE: -0.05]
+[Individual e18ac569-1b63-4074-b98a-e8d6f92b2805 NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENIED THEY THEY LIED
+[Individual 0429c7b4-7f8c-4733-ad76-a29af05ec660 Fitness: -5.72]
+[Individual 0429c7b4-7f8c-4733-ad76-a29af05ec660 Levenshtein: -5.88]
+[Individual 0429c7b4-7f8c-4733-ad76-a29af05ec660 CMU: 0.06]
+[Individual 0429c7b4-7f8c-4733-ad76-a29af05ec660 ALINE: -0.08]
+[Individual 0429c7b4-7f8c-4733-ad76-a29af05ec660 NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 9e2d3afa-5583-427d-b262-13cb98cc67e5 Fitness: -5.71]
+[Individual 9e2d3afa-5583-427d-b262-13cb98cc67e5 Levenshtein: -5.91]
+[Individual 9e2d3afa-5583-427d-b262-13cb98cc67e5 CMU: 0.06]
+[Individual 9e2d3afa-5583-427d-b262-13cb98cc67e5 ALINE: -0.05]
+[Individual 9e2d3afa-5583-427d-b262-13cb98cc67e5 NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIKE
+[Individual 69c79fd7-c009-4263-9c7a-9daa6467fe5f Fitness: -5.70]
+[Individual 69c79fd7-c009-4263-9c7a-9daa6467fe5f Levenshtein: -5.91]
+[Individual 69c79fd7-c009-4263-9c7a-9daa6467fe5f CMU: 0.06]
+[Individual 69c79fd7-c009-4263-9c7a-9daa6467fe5f ALINE: -0.05]
+[Individual 69c79fd7-c009-4263-9c7a-9daa6467fe5f NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 531ca5cf-73dd-4ad1-988c-47b258b33145 Fitness: -5.73]
+[Individual 531ca5cf-73dd-4ad1-988c-47b258b33145 Levenshtein: -5.91]
+[Individual 531ca5cf-73dd-4ad1-988c-47b258b33145 CMU: 0.06]
+[Individual 531ca5cf-73dd-4ad1-988c-47b258b33145 ALINE: -0.05]
+[Individual 531ca5cf-73dd-4ad1-988c-47b258b33145 NISQA: 0.16]
+
+
+iflytek ASR Result after 0 connection retries: THEY DO NOT BELONG
+[Individual 66027812-a6e6-4102-9947-8e72e492f159 Fitness: -5.42]
+[Individual 66027812-a6e6-4102-9947-8e72e492f159 Levenshtein: -5.58]
+[Individual 66027812-a6e6-4102-9947-8e72e492f159 CMU: 0.07]
+[Individual 66027812-a6e6-4102-9947-8e72e492f159 ALINE: -0.10]
+[Individual 66027812-a6e6-4102-9947-8e72e492f159 NISQA: 0.19]
+
+
+iflytek ASR Result after 1 connection retries: THEY DENIED THAT THEY LIED
+[Individual 88bc2493-8058-4e79-8ed4-1eaff105180a Fitness: -5.29]
+[Individual 88bc2493-8058-4e79-8ed4-1eaff105180a Levenshtein: -5.49]
+[Individual 88bc2493-8058-4e79-8ed4-1eaff105180a CMU: 0.06]
+[Individual 88bc2493-8058-4e79-8ed4-1eaff105180a ALINE: -0.05]
+[Individual 88bc2493-8058-4e79-8ed4-1eaff105180a NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DO NOT BE LYING
+[Individual 89f71582-53dd-4036-9e86-88430c1a9e3f Fitness: -4.69]
+[Individual 89f71582-53dd-4036-9e86-88430c1a9e3f Levenshtein: -4.89]
+[Individual 89f71582-53dd-4036-9e86-88430c1a9e3f CMU: 0.07]
+[Individual 89f71582-53dd-4036-9e86-88430c1a9e3f ALINE: -0.05]
+[Individual 89f71582-53dd-4036-9e86-88430c1a9e3f NISQA: 0.17]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 6ff6ec54-5783-410a-963a-3990ea4e0370 Fitness: -5.72]
+[Individual 6ff6ec54-5783-410a-963a-3990ea4e0370 Levenshtein: -5.91]
+[Individual 6ff6ec54-5783-410a-963a-3990ea4e0370 CMU: 0.06]
+[Individual 6ff6ec54-5783-410a-963a-3990ea4e0370 ALINE: -0.05]
+[Individual 6ff6ec54-5783-410a-963a-3990ea4e0370 NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: GOOD NIGHT BYE BYE BYE
+[Individual 1d49799e-0f56-453e-b511-1e57407e6016 Fitness: -7.99]
+[Individual 1d49799e-0f56-453e-b511-1e57407e6016 Levenshtein: -8.09]
+[Individual 1d49799e-0f56-453e-b511-1e57407e6016 CMU: 0.05]
+[Individual 1d49799e-0f56-453e-b511-1e57407e6016 ALINE: -0.14]
+[Individual 1d49799e-0f56-453e-b511-1e57407e6016 NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 3f959c03-69be-4fb2-9145-3e81ac06d368 Fitness: -5.71]
+[Individual 3f959c03-69be-4fb2-9145-3e81ac06d368 Levenshtein: -5.91]
+[Individual 3f959c03-69be-4fb2-9145-3e81ac06d368 CMU: 0.06]
+[Individual 3f959c03-69be-4fb2-9145-3e81ac06d368 ALINE: -0.05]
+[Individual 3f959c03-69be-4fb2-9145-3e81ac06d368 NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY THEY LIED
+[Individual 02b960a6-7fb5-4d3f-8620-4fe05d06b823 Fitness: -5.95]
+[Individual 02b960a6-7fb5-4d3f-8620-4fe05d06b823 Levenshtein: -6.12]
+[Individual 02b960a6-7fb5-4d3f-8620-4fe05d06b823 CMU: 0.06]
+[Individual 02b960a6-7fb5-4d3f-8620-4fe05d06b823 ALINE: -0.10]
+[Individual 02b960a6-7fb5-4d3f-8620-4fe05d06b823 NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual f6f0326d-982b-4dc6-a776-760a109071af Fitness: -5.68]
+[Individual f6f0326d-982b-4dc6-a776-760a109071af Levenshtein: -5.91]
+[Individual f6f0326d-982b-4dc6-a776-760a109071af CMU: 0.06]
+[Individual f6f0326d-982b-4dc6-a776-760a109071af ALINE: -0.05]
+[Individual f6f0326d-982b-4dc6-a776-760a109071af NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 21905e27-b7ab-4546-9890-2ed56d902340 Fitness: -5.69]
+[Individual 21905e27-b7ab-4546-9890-2ed56d902340 Levenshtein: -5.91]
+[Individual 21905e27-b7ab-4546-9890-2ed56d902340 CMU: 0.06]
+[Individual 21905e27-b7ab-4546-9890-2ed56d902340 ALINE: -0.05]
+[Individual 21905e27-b7ab-4546-9890-2ed56d902340 NISQA: 0.20]
+
+
+[Epoch 6 Closest Candidate: '[ 0.00014382 -0.03344141 -0.00588381 ...  0.00419899 -0.00148884
+  0.01096443]', Fitness: -4.69] 
+
+iflytek ASR Result after 0 connection retries: HE DENIED THE BIBLE A LIE
+[Individual 89f71582-53dd-4036-9e86-88430c1a9e3f Fitness: -5.93]
+[Individual 89f71582-53dd-4036-9e86-88430c1a9e3f Levenshtein: -6.00]
+[Individual 89f71582-53dd-4036-9e86-88430c1a9e3f CMU: 0.05]
+[Individual 89f71582-53dd-4036-9e86-88430c1a9e3f ALINE: -0.14]
+[Individual 89f71582-53dd-4036-9e86-88430c1a9e3f NISQA: 0.17]
+
+
+iflytek ASR Result after 0 connection retries: THEY DO NOT THEY LIED
+[Individual 88bc2493-8058-4e79-8ed4-1eaff105180a Fitness: -4.11]
+[Individual 88bc2493-8058-4e79-8ed4-1eaff105180a Levenshtein: -4.35]
+[Individual 88bc2493-8058-4e79-8ed4-1eaff105180a CMU: 0.08]
+[Individual 88bc2493-8058-4e79-8ed4-1eaff105180a ALINE: -0.04]
+[Individual 88bc2493-8058-4e79-8ed4-1eaff105180a NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual c66dcaa8-4235-4bb9-9d02-9aeb5dae22ce Fitness: -5.73]
+[Individual c66dcaa8-4235-4bb9-9d02-9aeb5dae22ce Levenshtein: -5.91]
+[Individual c66dcaa8-4235-4bb9-9d02-9aeb5dae22ce CMU: 0.06]
+[Individual c66dcaa8-4235-4bb9-9d02-9aeb5dae22ce ALINE: -0.05]
+[Individual c66dcaa8-4235-4bb9-9d02-9aeb5dae22ce NISQA: 0.16]
+
+
+iflytek ASR Result after 0 connection retries: THEY DID NOT HAVE BEEN LIED
+[Individual 5833c70a-c2a2-4fdf-9e6b-abc28ab71637 Fitness: -2.46]
+[Individual 5833c70a-c2a2-4fdf-9e6b-abc28ab71637 Levenshtein: -2.69]
+[Individual 5833c70a-c2a2-4fdf-9e6b-abc28ab71637 CMU: 0.09]
+[Individual 5833c70a-c2a2-4fdf-9e6b-abc28ab71637 ALINE: -0.04]
+[Individual 5833c70a-c2a2-4fdf-9e6b-abc28ab71637 NISQA: 0.17]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual d8672bc6-3371-441f-bfbc-18930c77a5a2 Fitness: -5.71]
+[Individual d8672bc6-3371-441f-bfbc-18930c77a5a2 Levenshtein: -5.91]
+[Individual d8672bc6-3371-441f-bfbc-18930c77a5a2 CMU: 0.06]
+[Individual d8672bc6-3371-441f-bfbc-18930c77a5a2 ALINE: -0.05]
+[Individual d8672bc6-3371-441f-bfbc-18930c77a5a2 NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 34cb927d-a061-4ae1-962b-396f9b53176b Fitness: -5.68]
+[Individual 34cb927d-a061-4ae1-962b-396f9b53176b Levenshtein: -5.91]
+[Individual 34cb927d-a061-4ae1-962b-396f9b53176b CMU: 0.06]
+[Individual 34cb927d-a061-4ae1-962b-396f9b53176b ALINE: -0.05]
+[Individual 34cb927d-a061-4ae1-962b-396f9b53176b NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: THEY DIDNT WANT
+[Individual 525f87c6-f0b4-478f-ba32-f26866148cb3 Fitness: -5.92]
+[Individual 525f87c6-f0b4-478f-ba32-f26866148cb3 Levenshtein: -6.00]
+[Individual 525f87c6-f0b4-478f-ba32-f26866148cb3 CMU: 0.07]
+[Individual 525f87c6-f0b4-478f-ba32-f26866148cb3 ALINE: -0.13]
+[Individual 525f87c6-f0b4-478f-ba32-f26866148cb3 NISQA: 0.14]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual f1dd7264-5378-416f-84b6-5bbf65355331 Fitness: -5.74]
+[Individual f1dd7264-5378-416f-84b6-5bbf65355331 Levenshtein: -5.91]
+[Individual f1dd7264-5378-416f-84b6-5bbf65355331 CMU: 0.06]
+[Individual f1dd7264-5378-416f-84b6-5bbf65355331 ALINE: -0.05]
+[Individual f1dd7264-5378-416f-84b6-5bbf65355331 NISQA: 0.16]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THE LIGHT
+[Individual 5290365a-b6a5-4a8a-ac00-2b707bacde55 Fitness: -4.30]
+[Individual 5290365a-b6a5-4a8a-ac00-2b707bacde55 Levenshtein: -4.55]
+[Individual 5290365a-b6a5-4a8a-ac00-2b707bacde55 CMU: 0.08]
+[Individual 5290365a-b6a5-4a8a-ac00-2b707bacde55 ALINE: -0.04]
+[Individual 5290365a-b6a5-4a8a-ac00-2b707bacde55 NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: THEY DID NOT THEY LIED
+[Individual a6d34a3a-8048-4f0c-926c-f9f31d5a5fd5 Fitness: -3.13]
+[Individual a6d34a3a-8048-4f0c-926c-f9f31d5a5fd5 Levenshtein: -3.40]
+[Individual a6d34a3a-8048-4f0c-926c-f9f31d5a5fd5 CMU: 0.08]
+[Individual a6d34a3a-8048-4f0c-926c-f9f31d5a5fd5 ALINE: -0.00]
+[Individual a6d34a3a-8048-4f0c-926c-f9f31d5a5fd5 NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual bbd9d57b-a5a7-489b-8b26-8a7424801857 Fitness: -5.69]
+[Individual bbd9d57b-a5a7-489b-8b26-8a7424801857 Levenshtein: -5.91]
+[Individual bbd9d57b-a5a7-489b-8b26-8a7424801857 CMU: 0.06]
+[Individual bbd9d57b-a5a7-489b-8b26-8a7424801857 ALINE: -0.05]
+[Individual bbd9d57b-a5a7-489b-8b26-8a7424801857 NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIKE
+[Individual f21d2958-b9ee-48e3-ba36-a129df5ff5aa Fitness: -5.71]
+[Individual f21d2958-b9ee-48e3-ba36-a129df5ff5aa Levenshtein: -5.91]
+[Individual f21d2958-b9ee-48e3-ba36-a129df5ff5aa CMU: 0.06]
+[Individual f21d2958-b9ee-48e3-ba36-a129df5ff5aa ALINE: -0.05]
+[Individual f21d2958-b9ee-48e3-ba36-a129df5ff5aa NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DO NOT HAVE A LIE
+[Individual ca55a825-9112-431b-abde-8b41a47b4dfa Fitness: -1.87]
+[Individual ca55a825-9112-431b-abde-8b41a47b4dfa Levenshtein: -2.13]
+[Individual ca55a825-9112-431b-abde-8b41a47b4dfa CMU: 0.09]
+[Individual ca55a825-9112-431b-abde-8b41a47b4dfa ALINE: -0.03]
+[Individual ca55a825-9112-431b-abde-8b41a47b4dfa NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENIED A LIGHT LIGHT
+[Individual aff93f67-21c1-47e2-b6df-657f836c6ec7 Fitness: -4.68]
+[Individual aff93f67-21c1-47e2-b6df-657f836c6ec7 Levenshtein: -4.80]
+[Individual aff93f67-21c1-47e2-b6df-657f836c6ec7 CMU: 0.06]
+[Individual aff93f67-21c1-47e2-b6df-657f836c6ec7 ALINE: -0.11]
+[Individual aff93f67-21c1-47e2-b6df-657f836c6ec7 NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: EIGHTY 911 Y
+[Individual 54de096b-d0e8-4371-8c25-0069c5ca2a31 Fitness: -11.18]
+[Individual 54de096b-d0e8-4371-8c25-0069c5ca2a31 Levenshtein: -11.35]
+[Individual 54de096b-d0e8-4371-8c25-0069c5ca2a31 CMU: 0.05]
+[Individual 54de096b-d0e8-4371-8c25-0069c5ca2a31 ALINE: -0.07]
+[Individual 54de096b-d0e8-4371-8c25-0069c5ca2a31 NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIKE
+[Individual caaef627-1288-4a5b-8191-fb0cfc72e158 Fitness: -5.71]
+[Individual caaef627-1288-4a5b-8191-fb0cfc72e158 Levenshtein: -5.91]
+[Individual caaef627-1288-4a5b-8191-fb0cfc72e158 CMU: 0.06]
+[Individual caaef627-1288-4a5b-8191-fb0cfc72e158 ALINE: -0.05]
+[Individual caaef627-1288-4a5b-8191-fb0cfc72e158 NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 83323090-3f03-46d8-93b1-92c541e00496 Fitness: -5.71]
+[Individual 83323090-3f03-46d8-93b1-92c541e00496 Levenshtein: -5.91]
+[Individual 83323090-3f03-46d8-93b1-92c541e00496 CMU: 0.06]
+[Individual 83323090-3f03-46d8-93b1-92c541e00496 ALINE: -0.05]
+[Individual 83323090-3f03-46d8-93b1-92c541e00496 NISQA: 0.18]
+
+
+iflytek ASR Result after 1 connection retries: THEY DENY THEY LIED
+[Individual eff7c0f7-8e84-44b2-82ed-933e5016ac5f Fitness: -5.72]
+[Individual eff7c0f7-8e84-44b2-82ed-933e5016ac5f Levenshtein: -5.91]
+[Individual eff7c0f7-8e84-44b2-82ed-933e5016ac5f CMU: 0.06]
+[Individual eff7c0f7-8e84-44b2-82ed-933e5016ac5f ALINE: -0.05]
+[Individual eff7c0f7-8e84-44b2-82ed-933e5016ac5f NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual abedf133-83c3-4f81-8ba9-0dbb196df70c Fitness: -5.69]
+[Individual abedf133-83c3-4f81-8ba9-0dbb196df70c Levenshtein: -5.91]
+[Individual abedf133-83c3-4f81-8ba9-0dbb196df70c CMU: 0.06]
+[Individual abedf133-83c3-4f81-8ba9-0dbb196df70c ALINE: -0.05]
+[Individual abedf133-83c3-4f81-8ba9-0dbb196df70c NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIE
+[Individual 6dfcd026-d713-4ad7-8ee3-11fa9507d6d2 Fitness: -5.80]
+[Individual 6dfcd026-d713-4ad7-8ee3-11fa9507d6d2 Levenshtein: -6.05]
+[Individual 6dfcd026-d713-4ad7-8ee3-11fa9507d6d2 CMU: 0.07]
+[Individual 6dfcd026-d713-4ad7-8ee3-11fa9507d6d2 ALINE: -0.05]
+[Individual 6dfcd026-d713-4ad7-8ee3-11fa9507d6d2 NISQA: 0.23]
+
+
+[Epoch 7 Closest Candidate: '[0.00160092 0.11854164 0.0009752  ... 0.01002326 0.00077004 0.00254996]', Fitness: -1.87] 
+
+iflytek ASR Result after 0 connection retries: NO THEY THEY LIED
+[Individual ca55a825-9112-431b-abde-8b41a47b4dfa Fitness: -7.96]
+[Individual ca55a825-9112-431b-abde-8b41a47b4dfa Levenshtein: -8.10]
+[Individual ca55a825-9112-431b-abde-8b41a47b4dfa CMU: 0.05]
+[Individual ca55a825-9112-431b-abde-8b41a47b4dfa ALINE: -0.14]
+[Individual ca55a825-9112-431b-abde-8b41a47b4dfa NISQA: 0.22]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 5833c70a-c2a2-4fdf-9e6b-abc28ab71637 Fitness: -5.69]
+[Individual 5833c70a-c2a2-4fdf-9e6b-abc28ab71637 Levenshtein: -5.91]
+[Individual 5833c70a-c2a2-4fdf-9e6b-abc28ab71637 CMU: 0.06]
+[Individual 5833c70a-c2a2-4fdf-9e6b-abc28ab71637 ALINE: -0.05]
+[Individual 5833c70a-c2a2-4fdf-9e6b-abc28ab71637 NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: HE DENIED THE LIMELIGHT
+[Individual f86a1835-85da-43da-9ad9-60744ee89d0b Fitness: -5.70]
+[Individual f86a1835-85da-43da-9ad9-60744ee89d0b Levenshtein: -5.83]
+[Individual f86a1835-85da-43da-9ad9-60744ee89d0b CMU: 0.05]
+[Individual f86a1835-85da-43da-9ad9-60744ee89d0b ALINE: -0.11]
+[Individual f86a1835-85da-43da-9ad9-60744ee89d0b NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIVE
+[Individual f814f8bf-4427-4089-880b-8ab64da5f77b Fitness: -5.72]
+[Individual f814f8bf-4427-4089-880b-8ab64da5f77b Levenshtein: -5.91]
+[Individual f814f8bf-4427-4089-880b-8ab64da5f77b CMU: 0.06]
+[Individual f814f8bf-4427-4089-880b-8ab64da5f77b ALINE: -0.06]
+[Individual f814f8bf-4427-4089-880b-8ab64da5f77b NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual bc987b58-98c0-40c8-bae4-bf039062c2b2 Fitness: -5.72]
+[Individual bc987b58-98c0-40c8-bae4-bf039062c2b2 Levenshtein: -5.91]
+[Individual bc987b58-98c0-40c8-bae4-bf039062c2b2 CMU: 0.06]
+[Individual bc987b58-98c0-40c8-bae4-bf039062c2b2 ALINE: -0.05]
+[Individual bc987b58-98c0-40c8-bae4-bf039062c2b2 NISQA: 0.17]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual f9c6ea0a-e9df-42dc-ac04-5b8f87d4132c Fitness: -5.71]
+[Individual f9c6ea0a-e9df-42dc-ac04-5b8f87d4132c Levenshtein: -5.91]
+[Individual f9c6ea0a-e9df-42dc-ac04-5b8f87d4132c CMU: 0.06]
+[Individual f9c6ea0a-e9df-42dc-ac04-5b8f87d4132c ALINE: -0.05]
+[Individual f9c6ea0a-e9df-42dc-ac04-5b8f87d4132c NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: HE DID NOT BELIEVE THEY LIED
+[Individual 9fce5bdc-c998-4a25-9e1d-f49296590033 Fitness: -5.09]
+[Individual 9fce5bdc-c998-4a25-9e1d-f49296590033 Levenshtein: -5.28]
+[Individual 9fce5bdc-c998-4a25-9e1d-f49296590033 CMU: 0.07]
+[Individual 9fce5bdc-c998-4a25-9e1d-f49296590033 ALINE: -0.07]
+[Individual 9fce5bdc-c998-4a25-9e1d-f49296590033 NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: HE DENIED THE LORD
+[Individual f62363b4-4e47-43db-b976-9a9bd7e92f08 Fitness: -7.26]
+[Individual f62363b4-4e47-43db-b976-9a9bd7e92f08 Levenshtein: -7.44]
+[Individual f62363b4-4e47-43db-b976-9a9bd7e92f08 CMU: 0.04]
+[Individual f62363b4-4e47-43db-b976-9a9bd7e92f08 ALINE: -0.08]
+[Individual f62363b4-4e47-43db-b976-9a9bd7e92f08 NISQA: 0.22]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEIR MIND WIDE
+[Individual c901de5f-a76c-4319-95c6-b72438c965c0 Fitness: -6.74]
+[Individual c901de5f-a76c-4319-95c6-b72438c965c0 Levenshtein: -6.80]
+[Individual c901de5f-a76c-4319-95c6-b72438c965c0 CMU: 0.04]
+[Individual c901de5f-a76c-4319-95c6-b72438c965c0 ALINE: -0.17]
+[Individual c901de5f-a76c-4319-95c6-b72438c965c0 NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: THEY DO NOT BE WHITE
+[Individual 335e67fb-c0eb-466c-9045-97ef3dcd0671 Fitness: -4.66]
+[Individual 335e67fb-c0eb-466c-9045-97ef3dcd0671 Levenshtein: -4.89]
+[Individual 335e67fb-c0eb-466c-9045-97ef3dcd0671 CMU: 0.08]
+[Individual 335e67fb-c0eb-466c-9045-97ef3dcd0671 ALINE: -0.05]
+[Individual 335e67fb-c0eb-466c-9045-97ef3dcd0671 NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: BE DENIED A LIGHT LIGHT
+[Individual aa9c6e9f-e8cd-44d2-b7b2-c7aabf20220c Fitness: -6.14]
+[Individual aa9c6e9f-e8cd-44d2-b7b2-c7aabf20220c Levenshtein: -6.25]
+[Individual aa9c6e9f-e8cd-44d2-b7b2-c7aabf20220c CMU: 0.04]
+[Individual aa9c6e9f-e8cd-44d2-b7b2-c7aabf20220c ALINE: -0.12]
+[Individual aa9c6e9f-e8cd-44d2-b7b2-c7aabf20220c NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: HE DENIED THE LINE
+[Individual df124f8c-fc18-4ae5-bdac-b327d0e83fcc Fitness: -6.77]
+[Individual df124f8c-fc18-4ae5-bdac-b327d0e83fcc Levenshtein: -6.98]
+[Individual df124f8c-fc18-4ae5-bdac-b327d0e83fcc CMU: 0.05]
+[Individual df124f8c-fc18-4ae5-bdac-b327d0e83fcc ALINE: -0.06]
+[Individual df124f8c-fc18-4ae5-bdac-b327d0e83fcc NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIE
+[Individual f0a02be3-e6f2-4eef-8de8-fbb9e9d029b8 Fitness: -5.79]
+[Individual f0a02be3-e6f2-4eef-8de8-fbb9e9d029b8 Levenshtein: -6.05]
+[Individual f0a02be3-e6f2-4eef-8de8-fbb9e9d029b8 CMU: 0.07]
+[Individual f0a02be3-e6f2-4eef-8de8-fbb9e9d029b8 ALINE: -0.05]
+[Individual f0a02be3-e6f2-4eef-8de8-fbb9e9d029b8 NISQA: 0.24]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 0aa09388-9f16-41fa-8ead-a89c41c06247 Fitness: -5.69]
+[Individual 0aa09388-9f16-41fa-8ead-a89c41c06247 Levenshtein: -5.91]
+[Individual 0aa09388-9f16-41fa-8ead-a89c41c06247 CMU: 0.06]
+[Individual 0aa09388-9f16-41fa-8ead-a89c41c06247 ALINE: -0.05]
+[Individual 0aa09388-9f16-41fa-8ead-a89c41c06247 NISQA: 0.20]
+
+
+iflytek ASR Result after 1 connection retries: 89
+[Individual f6a333e9-198d-422a-88fa-229aeb9e472e Fitness: -18.32]
+[Individual f6a333e9-198d-422a-88fa-229aeb9e472e Levenshtein: -18.52]
+[Individual f6a333e9-198d-422a-88fa-229aeb9e472e CMU: 0.03]
+[Individual f6a333e9-198d-422a-88fa-229aeb9e472e ALINE: -0.00]
+[Individual f6a333e9-198d-422a-88fa-229aeb9e472e NISQA: 0.17]
+
+
+iflytek ASR Result after 0 connection retries: HE DENIED THEY LIED
+[Individual fa259b44-0ca5-483a-a793-f75114c71279 Fitness: -6.62]
+[Individual fa259b44-0ca5-483a-a793-f75114c71279 Levenshtein: -6.82]
+[Individual fa259b44-0ca5-483a-a793-f75114c71279 CMU: 0.05]
+[Individual fa259b44-0ca5-483a-a793-f75114c71279 ALINE: -0.06]
+[Individual fa259b44-0ca5-483a-a793-f75114c71279 NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENIED THEY LIED
+[Individual 8cd755e7-bfc7-4680-add0-7bbca2f09da7 Fitness: -5.42]
+[Individual 8cd755e7-bfc7-4680-add0-7bbca2f09da7 Levenshtein: -5.65]
+[Individual 8cd755e7-bfc7-4680-add0-7bbca2f09da7 CMU: 0.06]
+[Individual 8cd755e7-bfc7-4680-add0-7bbca2f09da7 ALINE: -0.03]
+[Individual 8cd755e7-bfc7-4680-add0-7bbca2f09da7 NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DID NOT HAVE A LIGHT
+[Individual 5313b0d0-19ad-4e36-9a60-48b2b80d952f Fitness: 0.22]
+[Individual 5313b0d0-19ad-4e36-9a60-48b2b80d952f Levenshtein: -0.00]
+[Individual 5313b0d0-19ad-4e36-9a60-48b2b80d952f CMU: 0.10]
+[Individual 5313b0d0-19ad-4e36-9a60-48b2b80d952f ALINE: -0.00]
+[Individual 5313b0d0-19ad-4e36-9a60-48b2b80d952f NISQA: 0.12]
+
+
+iflytek ASR Result after 0 connection retries: 89 WIDE
+[Individual 3c384191-3e63-4bb0-8659-6538e8ccd76d Fitness: -12.95]
+[Individual 3c384191-3e63-4bb0-8659-6538e8ccd76d Levenshtein: -13.12]
+[Individual 3c384191-3e63-4bb0-8659-6538e8ccd76d CMU: 0.04]
+[Individual 3c384191-3e63-4bb0-8659-6538e8ccd76d ALINE: -0.02]
+[Individual 3c384191-3e63-4bb0-8659-6538e8ccd76d NISQA: 0.16]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 31ce09cf-1981-44f7-b4cc-b81a70638aa3 Fitness: -5.74]
+[Individual 31ce09cf-1981-44f7-b4cc-b81a70638aa3 Levenshtein: -5.91]
+[Individual 31ce09cf-1981-44f7-b4cc-b81a70638aa3 CMU: 0.06]
+[Individual 31ce09cf-1981-44f7-b4cc-b81a70638aa3 ALINE: -0.05]
+[Individual 31ce09cf-1981-44f7-b4cc-b81a70638aa3 NISQA: 0.15]
+
+
+[Epoch 8 Closest Candidate: '[ 0.00060931 -0.00310396 -0.00943753 ...  0.00105164  0.00149073
+  0.03555182]', Fitness: 0.22] 
+
+iflytek ASR Result after 0 connection retries: THEY DID NOT BEAR IN MIND
+[Individual 5313b0d0-19ad-4e36-9a60-48b2b80d952f Fitness: -3.84]
+[Individual 5313b0d0-19ad-4e36-9a60-48b2b80d952f Levenshtein: -4.00]
+[Individual 5313b0d0-19ad-4e36-9a60-48b2b80d952f CMU: 0.07]
+[Individual 5313b0d0-19ad-4e36-9a60-48b2b80d952f ALINE: -0.11]
+[Individual 5313b0d0-19ad-4e36-9a60-48b2b80d952f NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 335e67fb-c0eb-466c-9045-97ef3dcd0671 Fitness: -5.74]
+[Individual 335e67fb-c0eb-466c-9045-97ef3dcd0671 Levenshtein: -5.91]
+[Individual 335e67fb-c0eb-466c-9045-97ef3dcd0671 CMU: 0.06]
+[Individual 335e67fb-c0eb-466c-9045-97ef3dcd0671 ALINE: -0.05]
+[Individual 335e67fb-c0eb-466c-9045-97ef3dcd0671 NISQA: 0.15]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 57916a98-e845-4de5-b557-ec66ca488083 Fitness: -5.65]
+[Individual 57916a98-e845-4de5-b557-ec66ca488083 Levenshtein: -5.91]
+[Individual 57916a98-e845-4de5-b557-ec66ca488083 CMU: 0.06]
+[Individual 57916a98-e845-4de5-b557-ec66ca488083 ALINE: -0.05]
+[Individual 57916a98-e845-4de5-b557-ec66ca488083 NISQA: 0.24]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIE
+[Individual 13d11bc3-3aba-493f-a50c-c8750164af0e Fitness: -5.85]
+[Individual 13d11bc3-3aba-493f-a50c-c8750164af0e Levenshtein: -6.05]
+[Individual 13d11bc3-3aba-493f-a50c-c8750164af0e CMU: 0.07]
+[Individual 13d11bc3-3aba-493f-a50c-c8750164af0e ALINE: -0.05]
+[Individual 13d11bc3-3aba-493f-a50c-c8750164af0e NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual a1a7da52-5f25-43c1-9379-99e56016e05c Fitness: -5.69]
+[Individual a1a7da52-5f25-43c1-9379-99e56016e05c Levenshtein: -5.91]
+[Individual a1a7da52-5f25-43c1-9379-99e56016e05c CMU: 0.06]
+[Individual a1a7da52-5f25-43c1-9379-99e56016e05c ALINE: -0.05]
+[Individual a1a7da52-5f25-43c1-9379-99e56016e05c NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual d54be5ed-7700-4c98-8407-221465204fd8 Fitness: -5.72]
+[Individual d54be5ed-7700-4c98-8407-221465204fd8 Levenshtein: -5.91]
+[Individual d54be5ed-7700-4c98-8407-221465204fd8 CMU: 0.06]
+[Individual d54be5ed-7700-4c98-8407-221465204fd8 ALINE: -0.05]
+[Individual d54be5ed-7700-4c98-8407-221465204fd8 NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: 89 THEY ARE INVITED
+[Individual 03210494-97c3-40f3-ba68-62d503101033 Fitness: -8.58]
+[Individual 03210494-97c3-40f3-ba68-62d503101033 Levenshtein: -8.64]
+[Individual 03210494-97c3-40f3-ba68-62d503101033 CMU: 0.03]
+[Individual 03210494-97c3-40f3-ba68-62d503101033 ALINE: -0.11]
+[Individual 03210494-97c3-40f3-ba68-62d503101033 NISQA: 0.14]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEIR MIND
+[Individual f79fd984-0cfc-4fc7-b937-a26ac4f567eb Fitness: -6.05]
+[Individual f79fd984-0cfc-4fc7-b937-a26ac4f567eb Levenshtein: -6.22]
+[Individual f79fd984-0cfc-4fc7-b937-a26ac4f567eb CMU: 0.05]
+[Individual f79fd984-0cfc-4fc7-b937-a26ac4f567eb ALINE: -0.09]
+[Individual f79fd984-0cfc-4fc7-b937-a26ac4f567eb NISQA: 0.21]
+
+
+iflytek ASR Result after 0 connection retries: 89
+[Individual 7ae70265-ed6d-48de-81fe-a652158d0664 Fitness: -18.37]
+[Individual 7ae70265-ed6d-48de-81fe-a652158d0664 Levenshtein: -18.52]
+[Individual 7ae70265-ed6d-48de-81fe-a652158d0664 CMU: 0.03]
+[Individual 7ae70265-ed6d-48de-81fe-a652158d0664 ALINE: -0.00]
+[Individual 7ae70265-ed6d-48de-81fe-a652158d0664 NISQA: 0.12]
+
+
+iflytek ASR Result after 0 connection retries: HE DENIED THEY LIED
+[Individual 30112c62-5a4a-4461-9d6e-5d37ad23f14f Fitness: -6.61]
+[Individual 30112c62-5a4a-4461-9d6e-5d37ad23f14f Levenshtein: -6.82]
+[Individual 30112c62-5a4a-4461-9d6e-5d37ad23f14f CMU: 0.05]
+[Individual 30112c62-5a4a-4461-9d6e-5d37ad23f14f ALINE: -0.06]
+[Individual 30112c62-5a4a-4461-9d6e-5d37ad23f14f NISQA: 0.22]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 860086d0-efd7-4b2c-bf28-061791a92428 Fitness: -5.73]
+[Individual 860086d0-efd7-4b2c-bf28-061791a92428 Levenshtein: -5.91]
+[Individual 860086d0-efd7-4b2c-bf28-061791a92428 CMU: 0.06]
+[Individual 860086d0-efd7-4b2c-bf28-061791a92428 ALINE: -0.05]
+[Individual 860086d0-efd7-4b2c-bf28-061791a92428 NISQA: 0.16]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 238ac825-51b3-4c6f-822a-44e78c4b08b7 Fitness: -5.73]
+[Individual 238ac825-51b3-4c6f-822a-44e78c4b08b7 Levenshtein: -5.91]
+[Individual 238ac825-51b3-4c6f-822a-44e78c4b08b7 CMU: 0.06]
+[Individual 238ac825-51b3-4c6f-822a-44e78c4b08b7 ALINE: -0.05]
+[Individual 238ac825-51b3-4c6f-822a-44e78c4b08b7 NISQA: 0.16]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual b22a3a9b-2d16-493d-8789-d0540f561438 Fitness: -5.69]
+[Individual b22a3a9b-2d16-493d-8789-d0540f561438 Levenshtein: -5.91]
+[Individual b22a3a9b-2d16-493d-8789-d0540f561438 CMU: 0.06]
+[Individual b22a3a9b-2d16-493d-8789-d0540f561438 ALINE: -0.05]
+[Individual b22a3a9b-2d16-493d-8789-d0540f561438 NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: 89 FIVE
+[Individual 68940907-c8fc-497c-a652-56d6ac91b6f0 Fitness: -12.96]
+[Individual 68940907-c8fc-497c-a652-56d6ac91b6f0 Levenshtein: -13.12]
+[Individual 68940907-c8fc-497c-a652-56d6ac91b6f0 CMU: 0.04]
+[Individual 68940907-c8fc-497c-a652-56d6ac91b6f0 ALINE: -0.08]
+[Individual 68940907-c8fc-497c-a652-56d6ac91b6f0 NISQA: 0.20]
+
+
+iflytek ASR Result after 0 connection retries: HE DENIED THEY LIED
+[Individual 4bec5ede-7052-477a-8f81-c16672f290a1 Fitness: -6.67]
+[Individual 4bec5ede-7052-477a-8f81-c16672f290a1 Levenshtein: -6.82]
+[Individual 4bec5ede-7052-477a-8f81-c16672f290a1 CMU: 0.05]
+[Individual 4bec5ede-7052-477a-8f81-c16672f290a1 ALINE: -0.06]
+[Individual 4bec5ede-7052-477a-8f81-c16672f290a1 NISQA: 0.16]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual 735e7158-f829-4aca-acb8-c876f62ba29c Fitness: -5.72]
+[Individual 735e7158-f829-4aca-acb8-c876f62ba29c Levenshtein: -5.91]
+[Individual 735e7158-f829-4aca-acb8-c876f62ba29c CMU: 0.06]
+[Individual 735e7158-f829-4aca-acb8-c876f62ba29c ALINE: -0.05]
+[Individual 735e7158-f829-4aca-acb8-c876f62ba29c NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: 99 THEY LIED
+[Individual 91df9db1-6c36-4bd5-940a-d4e8d17244c1 Fitness: -9.51]
+[Individual 91df9db1-6c36-4bd5-940a-d4e8d17244c1 Levenshtein: -9.73]
+[Individual 91df9db1-6c36-4bd5-940a-d4e8d17244c1 CMU: 0.04]
+[Individual 91df9db1-6c36-4bd5-940a-d4e8d17244c1 ALINE: -0.00]
+[Individual 91df9db1-6c36-4bd5-940a-d4e8d17244c1 NISQA: 0.18]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+[Individual cf1fa72c-4a05-4f9b-8ec5-8ef5405cd27a Fitness: -5.71]
+[Individual cf1fa72c-4a05-4f9b-8ec5-8ef5405cd27a Levenshtein: -5.91]
+[Individual cf1fa72c-4a05-4f9b-8ec5-8ef5405cd27a CMU: 0.06]
+[Individual cf1fa72c-4a05-4f9b-8ec5-8ef5405cd27a ALINE: -0.05]
+[Individual cf1fa72c-4a05-4f9b-8ec5-8ef5405cd27a NISQA: 0.19]
+
+
+iflytek ASR Result after 0 connection retries: EIGHTY 9999
+[Individual b2b00e35-5639-41f8-89aa-4f189f0b51e3 Fitness: -11.50]
+[Individual b2b00e35-5639-41f8-89aa-4f189f0b51e3 Levenshtein: -11.67]
+[Individual b2b00e35-5639-41f8-89aa-4f189f0b51e3 CMU: 0.06]
+[Individual b2b00e35-5639-41f8-89aa-4f189f0b51e3 ALINE: -0.03]
+[Individual b2b00e35-5639-41f8-89aa-4f189f0b51e3 NISQA: 0.14]
+
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY THEY LIED
+[Individual 0ed84850-9384-416a-9072-39f5618e0e1c Fitness: -5.97]
+[Individual 0ed84850-9384-416a-9072-39f5618e0e1c Levenshtein: -6.12]
+[Individual 0ed84850-9384-416a-9072-39f5618e0e1c CMU: 0.06]
+[Individual 0ed84850-9384-416a-9072-39f5618e0e1c ALINE: -0.10]
+[Individual 0ed84850-9384-416a-9072-39f5618e0e1c NISQA: 0.20]
+
+
+[Epoch 9 Closest Candidate: '[ 0.018137   -0.00697584  0.00012936 ... -0.00077526  0.00019711
+  0.00414583]', Fitness: -3.84] 
+
+[Final Epoch 9 Answer: '[ 0.018137   -0.00697584  0.00012936 ... -0.00077526  0.00019711
+  0.00414583]'] 
+
+The adapted genetic algorithm finished. Now launching the gradient estimation. 
+
+iflytek ASR Result after 0 connection retries: GOOD NIGHT LIGHT
+loss:7.094645622049154, loss_levenshtein: 7.317073170731707, loss_CMU: -0.07272988505747127, loss_ALINE: 0.05079166666666667, audio_quality: -0.20048933029174806 
+
+iflytek ASR Result after 0 connection retries: IT DIDNT DENY THAT I LIED
+loss:6.608701934370433, loss_levenshtein: 6.800000000000001, loss_CMU: -0.06002128971733226, loss_ALINE: 0.07210526315789474, audio_quality: -0.20338203907012942 
+
+iflytek ASR Result after 0 connection retries: INDEED INDEED WHY
+loss:9.40856817664851, loss_levenshtein: 9.523809523809524, loss_CMU: -0.04302599987097461, loss_ALINE: 0.07, audio_quality: -0.14221534729003907 
+
+iflytek ASR Result after 0 connection retries: HE DID NOT SAY THAT THATS WHY
+loss:5.757739356678731, loss_levenshtein: 5.925925925925926, loss_CMU: -0.06508020495159765, loss_ALINE: 0.055238095238095246, audio_quality: -0.15834445953369142 
+
+iflytek ASR Result after 0 connection retries: THEY DO NOT LIGHT
+loss:4.037751394968767, loss_levenshtein: 4.285714285714286, loss_CMU: -0.09230769230769231, loss_ALINE: 0.039285714285714285, audio_quality: -0.19494091272354128 
+
+iflytek ASR Result after 0 connection retries: FEATURED IN THE KNOWLEDGE THAT THEY MIGHT
+loss:8.104309556781633, loss_levenshtein: 8.181818181818182, loss_CMU: -0.05002217470499723, loss_ALINE: 0.1357142857142857, audio_quality: -0.1632007360458374 
+
+iflytek ASR Result after 0 connection retries: THEY DID NOT ME WHY
+loss:3.8727966054951, loss_levenshtein: 4.090909090909091, loss_CMU: -0.08126511546263068, loss_ALINE: 0.015294117647058824, audio_quality: -0.1521414875984192 
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIVE AND DIE
+loss:5.628232270055309, loss_levenshtein: 5.769230769230768, loss_CMU: -0.05500929186228483, loss_ALINE: 0.14523809523809525, audio_quality: -0.23122730255126955 
+
+iflytek ASR Result after 0 connection retries: HE DID NOT MIND IT
+loss:4.970218348830366, loss_levenshtein: 5.116279069767442, loss_CMU: -0.06135492158332539, loss_ALINE: 0.1231842105263158, audio_quality: -0.20789000988006592 
+
+iflytek ASR Result after 0 connection retries: THEY DO I LIED
+loss:6.98007473327135, loss_levenshtein: 7.17948717948718, loss_CMU: -0.07275027135519281, loss_ALINE: 0.04583333333333334, audio_quality: -0.17249550819396975 
+
+iflytek ASR Result after 0 connection retries: GREETED BY A WHITE WINE
+loss:7.924004957898829, loss_levenshtein: 7.916666666666666, loss_CMU: -0.026352139313643903, loss_ALINE: 0.200025, audio_quality: -0.16633456945419312 
+
+iflytek ASR Result after 0 connection retries: WHY WHY DID WHY DID HE
+loss:7.560288811740372, loss_levenshtein: 7.659574468085106, loss_CMU: -0.03690514734967842, loss_ALINE: 0.18102500000000002, audio_quality: -0.24340550899505617 
+
+iflytek ASR Result after 0 connection retries: WAY NINE HOUR FLIGHT
+loss:5.614787072243754, loss_levenshtein: 5.777777777777777, loss_CMU: -0.057147486476304216, loss_ALINE: 0.11073333333333334, audio_quality: -0.21657655239105225 
+
+iflytek ASR Result after 0 connection retries: HE DID NOT LIKE THEY THEY THEY THEY THEY THEY THEY THEY THEY DID IT
+loss:11.162082362160895, loss_levenshtein: 11.304347826086955, loss_CMU: -0.06024160412999008, loss_ALINE: 0.07954761904761905, audio_quality: -0.16157147884368897 
+
+iflytek ASR Result after 0 connection retries: THEY DID NOT BE BEING LIED
+loss:3.7846216112951443, loss_levenshtein: 3.9215686274509802, loss_CMU: -0.07500494210674952, loss_ALINE: 0.08669047619047619, audio_quality: -0.14863255023956298 
+
+iflytek ASR Result after 0 connection retries: HE DENIED THEY LIED
+loss:6.7189631695094665, loss_levenshtein: 6.8181818181818175, loss_CMU: -0.046817248583087306, loss_ALINE: 0.05809375, audio_quality: -0.11049515008926392 
+
+iflytek ASR Result after 0 connection retries: THEY DIDNT THEY DIDNT WANT
+loss:5.816423331690065, loss_levenshtein: 5.882352941176471, loss_CMU: -0.06500053050397879, loss_ALINE: 0.18623076923076926, audio_quality: -0.1871598482131958 
+
+iflytek ASR Result after 0 connection retries: THEY DID NOT THEY LIED YOU LIED
+loss:4.4311599968882005, loss_levenshtein: 4.642857142857143, loss_CMU: -0.07501476931172862, loss_ALINE: 0.05092857142857143, audio_quality: -0.18761094808578493 
+
+iflytek ASR Result after 0 connection retries: 89 I LIED LIED
+loss:9.17599781156491, loss_levenshtein: 9.230769230769232, loss_CMU: -0.03751235526687377, loss_ALINE: 0.14727272727272728, audio_quality: -0.16453179121017458 
+
+iflytek ASR Result after 0 connection retries: TRADE DEADLINE
+loss:9.052565122494535, loss_levenshtein: 9.230769230769232, loss_CMU: -0.04560609121791469, loss_ALINE: 0.02666666666666667, audio_quality: -0.1592646837234497 
+
+iflytek ASR Result after 0 connection retries: MAN
+loss:17.087732198806034, loss_levenshtein: 17.142857142857142, loss_CMU: -0.03333333333333333, loss_ALINE: 0.19, audio_quality: -0.21179161071777344 
+
+iflytek ASR Result after 0 connection retries: 899 WERE WHITE AND WHITE
+loss:8.111235027469851, loss_levenshtein: 8.16326530612245, loss_CMU: -0.06500834080546032, loss_ALINE: 0.20559375000000002, audio_quality: -0.19261568784713745 
+
+iflytek ASR Result after 0 connection retries: BIG BIG BIG BIG BIG WHY
+loss:7.865788181703049, loss_levenshtein: 7.916666666666666, loss_CMU: -0.03500526211299917, loss_ALINE: 0.17661904761904762, audio_quality: -0.19249227046966555 
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+loss:5.6853178539381695, loss_levenshtein: 5.909090909090909, loss_CMU: -0.06432588330571444, loss_ALINE: 0.04733333333333333, audio_quality: -0.2067805051803589 
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY LIED
+loss:5.701821152220793, loss_levenshtein: 5.909090909090909, loss_CMU: -0.06432588330571444, loss_ALINE: 0.04733333333333333, audio_quality: -0.1902772068977356 
+
+iflytek ASR Result after 0 connection retries: BYE BYE
+loss:13.63740476686312, loss_levenshtein: 13.75, loss_CMU: -0.04002421698417823, loss_ALINE: 0.08666666666666667, audio_quality: -0.15923768281936646 
+
+iflytek ASR Result after 0 connection retries: THEY DIDNT DO NOTHING WHY
+loss:5.451400131050614, loss_levenshtein: 5.6000000000000005, loss_CMU: -0.060001652892561985, loss_ALINE: 0.11434375000000001, audio_quality: -0.20294196605682374 
+
+iflytek ASR Result after 0 connection retries: FORTY NINE NINETY NINE
+loss:7.670764801287716, loss_levenshtein: 7.659574468085106, loss_CMU: -0.026344529983272136, loss_ALINE: 0.21045, audio_quality: -0.17291513681411744 
+
+iflytek ASR Result after 0 connection retries: THEY TAKE THE LOG
+loss:6.499533944260621, loss_levenshtein: 6.666666666666666, loss_CMU: -0.061802165740896586, loss_ALINE: 0.060678571428571436, audio_quality: -0.16600912809371948 
+
+iflytek ASR Result after 0 connection retries: THEY DIDNT THEY LIED
+loss:4.200652353766453, loss_levenshtein: 4.444444444444445, loss_CMU: -0.07503389601468341, loss_ALINE: 0.007272727272727274, audio_quality: -0.17603092193603517 
+
+iflytek ASR Result after 0 connection retries: DAVID AND I LOVE LOVE LOVE LOVE LOVE LOVE LOVE
+loss:9.726267150870235, loss_levenshtein: 9.859154929577464, loss_CMU: -0.0450192653955686, loss_ALINE: 0.08757142857142856, audio_quality: -0.17543994188308717 
+
+iflytek ASR Result after 0 connection retries: SEE YOU TONIGHT
+loss:8.438582211219105, loss_levenshtein: 8.5, loss_CMU: -0.05468989224947281, loss_ALINE: 0.12666666666666668, audio_quality: -0.1333945631980896 
+
+iflytek ASR Result after 1 connection retries: 999
+loss:17.69963856666098, loss_levenshtein: 17.857142857142858, loss_CMU: -0.03500520600922207, loss_ALINE: 0.0, audio_quality: -0.12249908447265626 
+
+iflytek ASR Result after 3 connection retries: HE DIED AT 85
+loss:8.795082686042564, loss_levenshtein: 8.947368421052632, loss_CMU: -0.04430591718613816, loss_ALINE: 0.10454545454545455, audio_quality: -0.2125252723693848 
+
+iflytek ASR Result after 0 connection retries: THEY DIDNT LIE
+loss:5.908125346134871, loss_levenshtein: 6.153846153846154, loss_CMU: -0.09166666666666667, loss_ALINE: 0.0, audio_quality: -0.1540541410446167 
+
+iflytek ASR Result after 3 connection retries: 99 BABY
+loss:14.490997554064885, loss_levenshtein: 14.375, loss_CMU: -0.023081654309138715, loss_ALINE: 0.29500000000000004, audio_quality: -0.15592079162597658 
+
+iflytek ASR Result after 4 connection retries: BE DELIGHTED BY
+loss:9.43089532552421, loss_levenshtein: 9.5, loss_CMU: -0.04627827310587575, loss_ALINE: 0.09496428571428571, audio_quality: -0.117790687084198 
+
+iflytek ASR Result after 0 connection retries: THEY DO NOT KNOW WHY THEY WHY
+loss:5.842258102627935, loss_levenshtein: 5.925925925925926, loss_CMU: -0.060022174704997225, loss_ALINE: 0.0885952380952381, audio_quality: -0.11224088668823243 
+
+iflytek ASR Result after 0 connection retries: THEY DID NOT
+loss:6.778199951068776, loss_levenshtein: 7.027027027027027, loss_CMU: -0.1, loss_ALINE: 0.0, audio_quality: -0.14882707595825195 
+
+iflytek ASR Result after 5 connection retries: NA
+loss:1000.7803413152694, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.2196586847305298 
+
+iflytek ASR Result after 0 connection retries: THE DENY FLIGHT
+loss:6.3114901830936, loss_levenshtein: 6.5, loss_CMU: -0.06670362450832872, loss_ALINE: 0.05, audio_quality: -0.1718061923980713 
+
+iflytek ASR Result after 4 connection retries: IN BUSINESS EDUCATION
+loss:9.074339181468677, loss_levenshtein: 9.130434782608695, loss_CMU: -0.027843420990335793, loss_ALINE: 0.14523684210526316, audio_quality: -0.17348902225494386 
+
+iflytek ASR Result after 0 connection retries: MADE IN THE MID 19
+loss:8.260336916561275, loss_levenshtein: 8.372093023255815, loss_CMU: -0.045000000000000005, loss_ALINE: 0.09866666666666667, audio_quality: -0.16542277336120606 
+
+iflytek ASR Result after 0 connection retries: THEY DENIED THEY LIED
+loss:5.438050310287952, loss_levenshtein: 5.652173913043478, loss_CMU: -0.06004466093347391, loss_ALINE: 0.02809375, audio_quality: -0.182172691822052 
+
+iflytek ASR Result after 0 connection retries: I DONT MIND A MOVIE
+loss:7.706929462251357, loss_levenshtein: 7.727272727272727, loss_CMU: -0.04450987608882346, loss_ALINE: 0.21336666666666665, audio_quality: -0.18920005559921266 
+
+iflytek ASR Result after 0 connection retries: WE DID NOT MAKE MY NAME MINDED
+loss:5.656748599165664, loss_levenshtein: 5.818181818181818, loss_CMU: -0.060084382843959554, loss_ALINE: 0.1266904761904762, audio_quality: -0.22803931236267092 
+
+iflytek ASR Result after 1 connection retries: BIG TIME BIG ON THE LINE
+loss:7.626607981748764, loss_levenshtein: 7.755102040816326, loss_CMU: -0.04036670835119851, loss_ALINE: 0.10902380952380952, audio_quality: -0.19715116024017335 
+
+iflytek ASR Result after 0 connection retries: THEY DID NOTHING ABOUT IT
+loss:3.7959514176578493, loss_levenshtein: 4.0, loss_CMU: -0.06014211070369793, loss_ALINE: 0.049023809523809525, audio_quality: -0.19293028116226196 
+
+iflytek ASR Result after 0 connection retries: THEY DIDNT LIE
+loss:5.875127094219892, loss_levenshtein: 6.153846153846154, loss_CMU: -0.09166666666666667, loss_ALINE: 0.0, audio_quality: -0.18705239295959475 
+
+iflytek ASR Result after 0 connection retries: I
+loss:18.18406957754722, loss_levenshtein: 18.461538461538463, loss_CMU: -0.1, loss_ALINE: 0.0, audio_quality: -0.17746888399124147 
+
+iflytek ASR Result after 0 connection retries: TO DO THAT
+loss:9.633332221006395, loss_levenshtein: 9.714285714285714, loss_CMU: -0.055559930008748905, loss_ALINE: 0.11900000000000001, audio_quality: -0.14439356327056885 
+
+iflytek ASR Result after 5 connection retries: NA
+loss:1000.8300830364227, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.1699169635772705 
+
+iflytek ASR Result after 5 connection retries: NA
+loss:1000.82911683321, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.17088316679000856 
+
+iflytek ASR Result after 0 connection retries: 899
+loss:17.627623762077064, loss_levenshtein: 17.857142857142858, loss_CMU: -0.04211074316760219, loss_ALINE: 0.0, audio_quality: -0.18740835189819338 
+
+iflytek ASR Result after 0 connection retries: WE DO NOT I
+loss:8.703567659618079, loss_levenshtein: 8.88888888888889, loss_CMU: -0.072871710431291, loss_ALINE: 0.07083333333333335, audio_quality: -0.18328285217285156 
+
+iflytek ASR Result after 5 connection retries: NA
+loss:1000.823153245449, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.17684675455093385 
+
+iflytek ASR Result after 0 connection retries: I DID ID
+loss:11.24947227545566, loss_levenshtein: 11.515151515151516, loss_CMU: -0.06300954818618355, loss_ALINE: 0.008888888888888889, audio_quality: -0.21155858039855957 
+
+iflytek ASR Result after 5 connection retries: NA
+loss:1000.8630319714546, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.13696802854537965 
+
+iflytek ASR Result after 0 connection retries: 1988
+loss:17.02922592422156, loss_levenshtein: 17.241379310344826, loss_CMU: -0.03637968207129722, loss_ALINE: 0.0, audio_quality: -0.17577370405197146 
+
+iflytek ASR Result after 1 connection retries: SO YOU
+loss:14.849923119799275, loss_levenshtein: 14.838709677419356, loss_CMU: -0.020099115953160714, loss_ALINE: 0.18466666666666667, audio_quality: -0.15335410833358765 
+
+iflytek ASR Result after 3 connection retries: 89 THEN
+loss:12.921975277829954, loss_levenshtein: 13.125, loss_CMU: -0.03000818498056067, loss_ALINE: 0.024, audio_quality: -0.19701653718948364 
+
+iflytek ASR Result after 5 connection retries: NA
+loss:1000.8299811124801, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.17001888751983643 
+
+iflytek ASR Result after 5 connection retries: NA
+loss:1000.8564450383186, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.14355496168136597 
+
+iflytek ASR Result after 1 connection retries: THE DD NINE VERY WIDE
+loss:5.454490353036998, loss_levenshtein: 5.652173913043478, loss_CMU: -0.05016536331148813, loss_ALINE: 0.047617647058823535, audio_quality: -0.1951358437538147 
+
+iflytek ASR Result after 0 connection retries: IN
+loss:16.772909663341665, loss_levenshtein: 17.037037037037038, loss_CMU: -0.05, loss_ALINE: 0.0, audio_quality: -0.21412737369537355 
+
+iflytek ASR Result after 0 connection retries: THE GENDER DIVIDE BY
+loss:7.965620339772486, loss_levenshtein: 8.0, loss_CMU: -0.041207673223764923, loss_ALINE: 0.1988888888888889, audio_quality: -0.19206087589263918 
+
+iflytek ASR Result after 0 connection retries: PLEASE DO NOT DOWNLOAD
+loss:7.500625944684711, loss_levenshtein: 7.659574468085106, loss_CMU: -0.04445210447254986, loss_ALINE: 0.08263157894736842, audio_quality: -0.19712799787521362 
+
+iflytek ASR Result after 0 connection retries: WE DO NOT HAVE A FLIGHT
+loss:2.300884611372281, loss_levenshtein: 2.5, loss_CMU: -0.08007944073721006, loss_ALINE: 0.04047619047619048, audio_quality: -0.15951213836669922 
+
+iflytek ASR Result after 0 connection retries: A GIVEN LINE LINE NINE
+loss:8.406463077941524, loss_levenshtein: 8.51063829787234, loss_CMU: -0.03686544705789182, loss_ALINE: 0.126975, audio_quality: -0.1942847728729248 
+
+iflytek ASR Result after 0 connection retries: BIG BIG BIG BIG WIDE
+loss:8.397015466439116, loss_levenshtein: 8.444444444444445, loss_CMU: -0.03159083856669841, loss_ALINE: 0.133975, audio_quality: -0.14981313943862914 
+
+iflytek ASR Result after 0 connection retries: THEY DID THE MAIN LINE RIGHT
+loss:4.063280503107848, loss_levenshtein: 4.150943396226415, loss_CMU: -0.060172498548989276, loss_ALINE: 0.1623809523809524, audio_quality: -0.189871346950531 
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY INVITED WIDE LINE LINE LINE LINE LINE LINE LINE LINE LINE LINE LINE BEAT BEAT BEAT BEAT AND THEY THEY THEY THEY
+loss:14.06038956268385, loss_levenshtein: 14.172185430463575, loss_CMU: -0.06514142546939199, loss_ALINE: 0.109, audio_quality: -0.15565444231033326 
+
+iflytek ASR Result after 0 connection retries: THEY DO NOT KNOW WHY BY DIED
+loss:5.903156590512763, loss_levenshtein: 6.037735849056603, loss_CMU: -0.060010996352794055, loss_ALINE: 0.10097619047619048, audio_quality: -0.17554445266723634 
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY ARE
+loss:6.881878441937651, loss_levenshtein: 6.976744186046512, loss_CMU: -0.053884019982861235, loss_ALINE: 0.0985357142857143, audio_quality: -0.13951743841171266 
+
+iflytek ASR Result after 0 connection retries: 39
+loss:18.292740447846448, loss_levenshtein: 18.51851851851852, loss_CMU: -0.02872306464485236, loss_ALINE: 0.0, audio_quality: -0.1970550060272217 
+
+iflytek ASR Result after 0 connection retries: HE DID NOT LIKE
+loss:5.7816989063075015, loss_levenshtein: 6.0, loss_CMU: -0.07868491533887151, loss_ALINE: 0.03866666666666667, audio_quality: -0.1782828450202942 
+
+iflytek ASR Result after 0 connection retries: THEY DENY THEY DIVIDE
+loss:6.463967948995985, loss_levenshtein: 6.521739130434783, loss_CMU: -0.0500074295112536, loss_ALINE: 0.15944117647058825, audio_quality: -0.16720492839813234 
+
+iflytek ASR Result after 0 connection retries: REGION OF THE LORD
+loss:8.269671085233018, loss_levenshtein: 8.372093023255815, loss_CMU: -0.04390083960540264, loss_ALINE: 0.08879411764705883, audio_quality: -0.14731521606445314 
+
+iflytek ASR Result after 0 connection retries: THEY DID NOT GET BIT BY BIT LIGHTER
+loss:4.793349976574411, loss_levenshtein: 5.0, loss_CMU: -0.08000075395828099, loss_ALINE: 0.0924047619047619, audio_quality: -0.21905403137207033 
+
+iflytek ASR Result after 0 connection retries: THEY DENIED A LIGHT LIGHT LIGHT THEY LIVE IN
+loss:7.961979771847951, loss_levenshtein: 8.115942028985508, loss_CMU: -0.06016360017438922, loss_ALINE: 0.08661904761904762, audio_quality: -0.18041770458221437 
+
+iflytek ASR Result after 0 connection retries: DENIED A LIGHT WIND
+loss:8.427510631795872, loss_levenshtein: 8.636363636363637, loss_CMU: -0.05, loss_ALINE: 0.02761764705882353, audio_quality: -0.18647065162658694 
+
+iflytek ASR Result after 3 connection retries: DIED
+loss:15.017437071581265, loss_levenshtein: 15.172413793103448, loss_CMU: -0.0666996140449967, loss_ALINE: 0.0, audio_quality: -0.08827710747718812 
+
+iflytek ASR Result after 0 connection retries: BE DENIED A VISA
+loss:8.260851952581929, loss_levenshtein: 8.292682926829269, loss_CMU: -0.040113246586207504, loss_ALINE: 0.14746875, audio_quality: -0.13918647766113282 
+
+iflytek ASR Result after 0 connection retries: THEY DID NOT DIVIDE
+loss:4.318720324894998, loss_levenshtein: 4.545454545454545, loss_CMU: -0.08125883015333078, loss_ALINE: 0.04997058823529412, audio_quality: -0.19544597864151003 
+
+iflytek ASR Result after 5 connection retries: NA
+loss:1000.8199930429458, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.1800069570541382 
+
+iflytek ASR Result after 0 connection retries: BE DENIED
+loss:11.559780711765802, loss_levenshtein: 11.764705882352942, loss_CMU: -0.05021095710989887, loss_ALINE: 0.022222222222222223, audio_quality: -0.1769364356994629 
+
+iflytek ASR Result after 0 connection retries: NA
+loss:1000.8219350457191, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.17806495428085328 
+
+iflytek ASR Result after 5 connection retries: NA
+loss:1000.8206261754036, loss_levenshtein: 1000, loss_CMU: -0.0, loss_ALINE: 1.0, audio_quality: -0.17937382459640505 
+
+iflytek ASR Result after 0 connection retries: THE LINE
+loss:10.682237036610061, loss_levenshtein: 10.909090909090908, loss_CMU: -0.08333333333333334, loss_ALINE: 0.014285714285714287, audio_quality: -0.15780625343322754 
+
+iflytek ASR Result after 0 connection retries: WE DO 99
+loss:11.973470155100173, loss_levenshtein: 12.121212121212121, loss_CMU: -0.042970629624585775, loss_ALINE: 0.05714285714285715, audio_quality: -0.16191419363021853 
+
+iflytek ASR Result after 0 connection retries: THE UNITED STATES
+loss:8.479311123049897, loss_levenshtein: 8.571428571428571, loss_CMU: -0.03766699669608009, loss_ALINE: 0.10582352941176472, audio_quality: -0.16027398109436036 
+
+iflytek ASR Result after 0 connection retries: BABY BABY BABY BABY
+loss:9.225393017989441, loss_levenshtein: 9.09090909090909, loss_CMU: -0.021053703286928377, loss_ALINE: 0.34755, audio_quality: -0.19201236963272095 
+
+iflytek ASR Result after 0 connection retries: WE DO NOT ENCOURAGE THEM TO
+loss:7.238160761878368, loss_levenshtein: 7.3076923076923075, loss_CMU: -0.04508392235671176, loss_ALINE: 0.14807142857142858, audio_quality: -0.17251905202865603 
+
+iflytek ASR Result after 0 connection retries: THEY DENY PEOPLE
+loss:7.185019163349812, loss_levenshtein: 7.317073170731707, loss_CMU: -0.06154134735534375, loss_ALINE: 0.13575, audio_quality: -0.2062626600265503 
+
+iflytek ASR Result after 0 connection retries: 329 THEY LIED
+loss:9.26272924151617, loss_levenshtein: 9.473684210526315, loss_CMU: -0.05011176355817885, loss_ALINE: 0.0, audio_quality: -0.16084320545196534 
+
+iflytek ASR Result after 0 connection retries: SAY I LIED
+loss:10.598310849468573, loss_levenshtein: 10.857142857142856, loss_CMU: -0.06252749088198516, loss_ALINE: 0.02, audio_quality: -0.21630451679229737 
+
+iflytek ASR Result after 0 connection retries: BETA 9999
+loss:12.142796143357701, loss_levenshtein: 12.352941176470589, loss_CMU: -0.055001436781609195, loss_ALINE: 0.023333333333333334, audio_quality: -0.17847692966461182 
+
+iflytek ASR Result after 0 connection retries: DAY DAY DAY BY DAY
+loss:8.834951479751137, loss_levenshtein: 8.837209302325581, loss_CMU: -0.04289233995802029, loss_ALINE: 0.2147, audio_quality: -0.17406548261642457 
+
+iflytek ASR Result after 0 connection retries: HE DENIED THEY LIED
+loss:6.662615429812964, loss_levenshtein: 6.8181818181818175, loss_CMU: -0.046817248583087306, loss_ALINE: 0.05809375, audio_quality: -0.1668428897857666 
+
+iflytek ASR Result after 0 connection retries: HE DENIED THAT
+loss:8.585595661249394, loss_levenshtein: 8.717948717948719, loss_CMU: -0.05014303270928125, loss_ALINE: 0.09765384615384616, audio_quality: -0.17986387014389038 
+
+The adapted gradient estimation finished. Time elapsed: 1 hours, 0 minutes, and 16.50 seconds
