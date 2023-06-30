@@ -67,7 +67,7 @@ Google ASR Result after 0 retries: MY VOICE IS THE PASSWORD
 
 4. For SR models, the testing command with the provided adversarial example is:
 ```sh
-$ python3 speaker_sv.py "SMACK_Examples/success_gmmSV_librispeech_p1089.wav" librispeech_p1089
+$ python3 speaker_sv.py "SMACK_Examples/success_gmmSV_librispeech_p1089.wav" gmmSV librispeech_p1089
 ```
 And you are expected to see the output as:
 ```sh
