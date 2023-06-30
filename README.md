@@ -15,9 +15,11 @@ $ conda env create -f smack.yml
 $ conda activate smack
 ```
 
-Please find the supplementary files [here](https://drive.google.com/file/d/1-kauJ8A6GzvM5BMznyIyryijhbrGh076/view?usp=drive_link). Please place the pre-trained model files *LJ.ckpt* and *waveglow_256channels_universal_v5.pt* under *SMACK*. Other files are needed by FAKEBOB setup as detailed in the following.
+Please find the supplementary files [here](https://drive.google.com/file/d/1-kauJ8A6GzvM5BMznyIyryijhbrGh076/view?usp=drive_link).
 
 For the setup of speaker recognition systems, we follow the existing work *FAKEBOB* and use the Kaldi toolkit. Notably, this process can be time-consuming and requires modification of the shell configuration file. Therefore, we wrote a dedicated tutorial detailing all steps in the *setup_SR.md* file. During the installation of *FAKEBOB*, customized scripts within *FAKEBOB_File_Replace.zip* are needed to replace the ones in *FAKEBOB*, please refer to *setup_SR.md* for the specifics. Alternatively, you can also refer to the original *FAKEBOB* [GitHub repo](https://github.com/FAKEBOB-adversarial-attack/FAKEBOB) for setting up the SR models. 
+
+Additionally, please place the pre-trained model files *LJ.ckpt* and *waveglow_256channels_universal_v5.pt* under AE_SMACK. 
 
 # Basic Tests
 
@@ -67,7 +69,7 @@ Google ASR Result after 0 retries: MY VOICE IS THE PASSWORD
 
 4. For SR models, the testing command with the provided adversarial example is:
 ```sh
-$ python3 speaker_sv.py "SMACK_Examples/success_gmmSV_librispeech_p1089.wav" librispeech_p1089
+$ python3 speaker_sv.py "SMACK_Examples/success_gmmSV_librispeech_p1089.wav" gmmSV librispeech_p1089
 ```
 And you are expected to see the output as:
 ```sh
