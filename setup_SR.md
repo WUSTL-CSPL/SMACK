@@ -92,18 +92,18 @@ If a conda environment is used, activate it again.
 
 # 8 Load data and custom scripts
 
-Under FAKEBOB's directory, copy the provided *data* and *model* folder found under *SMACK_Supplementary_Files/FAKEBOB_File_Replace* such that:
--->...FAKEBOB/data
+Under FAKEBOB's directory, copy the provided *data* and *model* folder found under *SMACK_Supplementary_Files/FAKEBOB_File_Replace* such that:  
+-->...FAKEBOB/data  
 -->...FAKEBOB/model
 
-Copy and replace the following files under "FAKEBOB" with custom scripts of the same name. The custom scripts can be found in the *SMACK_Supplementary_Files/FAKEBOB_File_Replace* (see README.md for google drive download link) folder provided in the root folder.
--->...FAKEBOB/
-------> ivector_PLDA_SV.py (new)
-------> gmm_ubm_SV.py (new)
-------> ivector_PLDA_CSI.py (new)
-------> gmm_ubm_CSI.py (new)
-------> ivector_PLDA_OSI.py (new)
-------> gmm_ubm_OSI.py (new)
+Copy and replace the following files under "FAKEBOB" with custom scripts of the same name. The custom scripts can be found in the *SMACK_Supplementary_Files/FAKEBOB_File_Replace* (see README.md for google drive download link) folder provided in the root folder.  
+-->...FAKEBOB/  
+------> ivector_PLDA_SV.py (new)  
+------> gmm_ubm_SV.py (new)  
+------> ivector_PLDA_CSI.py (new  
+------> gmm_ubm_CSI.py (new)  
+------> ivector_PLDA_OSI.py (new)  
+------> gmm_ubm_OSI.py (new)  
 
 When complete, exit to the root directory of SMACK.
 
@@ -123,24 +123,24 @@ $ mkdir data/test-set
 ```
 
 The data/enrollment-set is used to place wavs to be enrolled. The wav audio file placed here should be follow the naming format "<speaker_name>-<audio_name>.wav", lead with speaker_name and separate with the first '-'.
-For example, the provided data has the following structure:
--->...FAKEBOB/data/enrollment-set/
-------> librispeech_p1089-134686-0001.wav
-------> librispeech_p1221-135766-0013.wav
-------> speechaccent_78-3.wav
-------> timit_FADG0-SX19.wav
-------> vctk_p227-012.wav
+For example, the provided data has the following structure:  
+-->...FAKEBOB/data/enrollment-set/  
+------> librispeech_p1089-134686-0001.wav  
+------> librispeech_p1221-135766-0013.wav  
+------> speechaccent_78-3.wav  
+------> timit_FADG0-SX19.wav  
+------> vctk_p227-012.wav  
 
-The background audio set, "FAKEBOB/data/z-norm/", is a directory containing wav audio files, used as the environment where enrollment set is compared to, therefore enroll. The directory structure can be anything, as the script recursively collect all wav audio files from its subdirectories. The provided data has the following structure:
--->...FAKEBOB/data/z-norm/
-------> librispeech_p1089/
-----------> librispeech_p1089-134686-0001.wav
-----------> librispeech_p1089-134686-0015.wav
-----------> librispeech_p1089-134686-0027.wav
-----------> ...
-------> librispeech_p1188/
-------> librispeech_p1221/
-		...
+The background audio set, "FAKEBOB/data/z-norm/", is a directory containing wav audio files, used as the environment where enrollment set is compared to, therefore enroll. The directory structure can be anything, as the script recursively collect all wav audio files from its subdirectories. The provided data has the following structure:  
+-->...FAKEBOB/data/z-norm/  
+------> librispeech_p1089/  
+----------> librispeech_p1089-134686-0001.wav  
+----------> librispeech_p1089-134686-0015.wav  
+----------> librispeech_p1089-134686-0027.wav  
+----------> ...  
+------> librispeech_p1188/  
+------> librispeech_p1221/  
+		...  
 
 To enroll speaker files in FAKEBOB/data/enrollment-set/, run the following. Note that the controller scripts are parallel to FAKEBOB
 ```sh
