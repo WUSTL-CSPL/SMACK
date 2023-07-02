@@ -26,6 +26,7 @@ def iv_plda_osi(probe_wav, benign_wavs_dir, target_label):
     for path in iv_model_paths:
         with open(path, "rb") as reader:
             model = pickle.load(reader)
+            model[2] = "FAKEBOB" + model[2].partition("FAKEBOB")[2]
             iv_model_list.append(model)
     
     group_id = "test-iv-OSI"
@@ -89,6 +90,7 @@ def gmm_ubm_osi(probe_wav, benign_wavs_dir, target_label):
     for path in gmm_model_paths:
         with open(path, "rb") as reader:
             model = pickle.load(reader)
+            model[2] = "FAKEBOB" + model[2].partition("FAKEBOB")[2]
             gmm_model_list.append(model)
     
     ubm = os.path.join('FAKEBOB/pre-models', "final.dubm")
