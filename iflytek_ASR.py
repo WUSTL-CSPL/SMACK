@@ -61,6 +61,8 @@ class Ws_Param(object):
         }
         # Concatenate the authentication parameters and generate the URL
         url = url + '?' + urlencode(v)
+        
+        # print(f"Constructed URL: {url}")  # Debug use only
 
         return url
 
@@ -87,7 +89,7 @@ def on_message(ws, message):
                     result += w["w"]
                     
     except Exception as e:
-        print("receive msg,but parse exception:", e)
+        print("receive message, but parse exception:", e)
 
 
 # the error websocket message has been received and handling
@@ -98,12 +100,15 @@ def on_error(ws, error):
 
 # the closed websocket message has been received and handling
 def on_close(ws, *args):
-    # print("### closed ###")
+    # print("### closed ###")  # Debug use only
     return;
 
 
 # The connecting websocket message has been received and handling
 def on_open(ws, wsParam):
+    
+    # print("WebSocket connection opened")  # Debug use only
+    
     def run(*args):
         frameSize = 8000  # The audio size of each frame
         intervel = 0.04  # Send audio intervals (unit: S)
@@ -123,6 +128,7 @@ def on_open(ws, wsParam):
                                   "audio": str(base64.b64encode(buf), 'utf-8'),
                                   "encoding": "raw"}}
                     d = json.dumps(d)
+                    # print(f"Sending message to server: {json.dumps(d)}")  # Debug use only
                     ws.send(d)
                     status = STATUS_CONTINUE_FRAME
                 # Intermediate frame
@@ -130,12 +136,14 @@ def on_open(ws, wsParam):
                     d = {"data": {"status": 1, "format": "audio/L16;rate=16000",
                                   "audio": str(base64.b64encode(buf), 'utf-8'),
                                   "encoding": "raw"}}
+                    # print(f"Sending message to server: {json.dumps(d)}")  # Debug use only
                     ws.send(json.dumps(d))
                 # the last frame
                 elif status == STATUS_LAST_FRAME:
                     d = {"data": {"status": 2, "format": "audio/L16;rate=16000",
                                   "audio": str(base64.b64encode(buf), 'utf-8'),
                                   "encoding": "raw"}}
+                    # print(f"Sending message to server: {json.dumps(d)}")  # Debug use only
                     ws.send(json.dumps(d))
                     time.sleep(1)
                     break
