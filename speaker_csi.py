@@ -26,6 +26,7 @@ def iv_plda_csi(probe_wav, target_label):
     for path in iv_model_paths:
         with open(path, "rb") as reader:
             model = pickle.load(reader)
+            model[2] = "FAKEBOB" + model[2].partition("FAKEBOB")[2]
             iv_model_list.append(model)
     
     group_id = "test-iv-CSI"
@@ -60,6 +61,7 @@ def gmm_ubm_csi(probe_wav, target_label):
     for path in gmm_model_paths:
         with open(path, "rb") as reader:
             model = pickle.load(reader)
+            model[2] = "FAKEBOB" + model[2].partition("FAKEBOB")[2]
             gmm_model_list.append(model)
             
     group_id = "test-gmm-CSI"
