@@ -92,15 +92,16 @@ If a conda environment is used, activate it again.
 
 # 8 Load data and custom scripts
 
-Under FAKEBOB's directory, copy the provided *data* and *model* folder found under *SMACK_Supplementary_Files/FAKEBOB_File_Replace* such that:  
+Under FAKEBOB's directory, copy the provided *data*, *model*, and *ivector-build-model-iv* folders found under *SMACK_Supplementary_Files/FAKEBOB_File_Replace* such that:  
 -->...FAKEBOB/data  
--->...FAKEBOB/model
+-->...FAKEBOB/model  
+-->...FAKEBOB/ivector-build-model-iv
 
 Copy and replace the following files under "FAKEBOB" with custom scripts of the same name. The custom scripts can be found in the *SMACK_Supplementary_Files/FAKEBOB_File_Replace* (see README.md for google drive download link) folder provided in the root folder.  
 -->...FAKEBOB/  
 ------> ivector_PLDA_SV.py (new)  
 ------> gmm_ubm_SV.py (new)  
-------> ivector_PLDA_CSI.py (new  
+------> ivector_PLDA_CSI.py (new)  
 ------> gmm_ubm_CSI.py (new)  
 ------> ivector_PLDA_OSI.py (new)  
 ------> gmm_ubm_OSI.py (new)  
