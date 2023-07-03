@@ -15,7 +15,7 @@ $ conda env create -f smack.yml
 $ conda activate smack
 ```
 
-Please find the supplementary files [here](https://drive.google.com/file/d/1NM4ODDs_2ISpor-qZHreQl0w9KrWNLwo/view?usp=sharing). Please place the pre-trained model files *LJ.ckpt* and *waveglow_256channels_universal_v5.pt* under *SMACK*. Other files are needed by FAKEBOB setup as detailed in the following.
+Please find the supplementary files [here](https://drive.google.com/file/d/12vUxRaIRDaD_prg8F-vpb5oUvWMOPqsl/view?usp=sharing). Please place the pre-trained model files *LJ.ckpt* and *waveglow_256channels_universal_v5.pt* under *SMACK*. Other files are needed by FAKEBOB setup as detailed in the following.
 
 For the setup of speaker recognition systems, we follow the existing work *FAKEBOB* and use the Kaldi toolkit. Notably, this process can be time-consuming and requires modification of the shell configuration file. Therefore, we wrote a dedicated tutorial detailing all steps in the *setup_SR.md* file. During the installation of *FAKEBOB*, customized scripts within *FAKEBOB_File_Replace.zip* are needed to replace the ones in *FAKEBOB*, please refer to *setup_SR.md* for the specifics. Alternatively, you can also refer to the original *FAKEBOB* [GitHub repo](https://github.com/FAKEBOB-adversarial-attack/FAKEBOB) for setting up the SR models. 
 
