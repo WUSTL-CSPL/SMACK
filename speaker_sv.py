@@ -71,7 +71,7 @@ def speaker_verification_iv(probe_wav, probe_label, benign_wavs_dir):
         
     with open(iv_model_path, "rb") as reader:
         iv_model = pickle.load(reader)
-        iv_model[2] = "FAKEBOB" + iv_model[2].partition("FAKEBOB")[2]
+        iv_model[2] = os.path.abspath("FAKEBOB") + iv_model[2].partition("FAKEBOB")[2]
     
     decision, threshold, score = iv_plda_sv(iv_model, probe_wav, benign_wavs_dir)
     return decision, threshold, score
