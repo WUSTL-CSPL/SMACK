@@ -61,7 +61,7 @@ def gmm_ubm_csi(probe_wav, target_label):
     for path in gmm_model_paths:
         with open(path, "rb") as reader:
             model = pickle.load(reader)
-            model[2] = "FAKEBOB" + model[2].partition("FAKEBOB")[2]
+            model[2] = os.path.abspath("FAKEBOB") + model[2].partition("FAKEBOB")[2]
             gmm_model_list.append(model)
             
     group_id = "test-gmm-CSI"
