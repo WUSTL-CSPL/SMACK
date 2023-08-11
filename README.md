@@ -133,6 +133,8 @@ $ python3 speaker_enroll.py
 
 # Other Notes
 
+The attack against commercial APIs can sometimes fail due to unstable connections. In the cases that APIs constantly return meaningless responses, please first try basic test 3 and see if the queries work well.
+
 There are two potential reasons if the attack results do not reach the specified target (transcription or speaker label). First, SMACK involves genetic search and gradient estimation, which therefore introduces uncertainties in the optimization process. Results can be different even with the same parameters. Second, the parameter settings need to be adjusted for the target. Considering the time and resource consumption, the provided parameters were selected very conservatively. For instance, the adapted genetic algorithm will only run for 10 epochs with a population size of 20, and the gradient estimation will only run for 5 iterations. As such, the entire attack process adds up to only 300 queries to the target model. To adapt the attack to the target, please consider enlarging the maximum iterations and adjusting other parameters used in the attack algorithm. Besides, the limitations of SMACK regarding arbitrary targets can be found in our paper.
 
 # Citation
