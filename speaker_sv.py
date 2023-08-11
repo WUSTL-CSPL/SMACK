@@ -84,7 +84,7 @@ def speaker_verification_gmm(probe_wav, probe_label, benign_wavs_dir):
     
     with open(gmm_model_path, "rb") as reader:
         gmm_model = pickle.load(reader)
-        gmm_model[2] = "FAKEBOB" + gmm_model[2].partition("FAKEBOB")[2]
+        gmm_model[2] = os.path.abspath("FAKEBOB") + model[2].partition("FAKEBOB")[2]
     
     ubm = os.path.join("FAKEBOB/pre-models", "final.dubm")
 
