@@ -141,10 +141,16 @@ There are two potential reasons if the attack results do not reach the specified
 
 If you find the platform useful, please cite our work with the following reference:
 ```
-@inproceedings{yu2023smack,
-  title={SMACK: Semantically Meaningful Adversarial Audio Attack},
-  author={Yu, Zhiyuan and Chang, Yuanhaur and Zhang, Ning and Xiao, Chaowei},
-  booktitle={32nd USENIX Security Symposium 2023},
-  year={2023}
+@inproceedings {yu2023smack,
+author = {Zhiyuan Yu and Yuanhaur Chang and Ning Zhang and Chaowei Xiao},
+title = {{SMACK}: Semantically Meaningful Adversarial Audio Attack},
+booktitle = {32nd USENIX Security Symposium (USENIX Security 23)},
+year = {2023},
+isbn = {978-1-939133-37-3},
+address = {Anaheim, CA},
+pages = {3799--3816},
+url = {https://www.usenix.org/conference/usenixsecurity23/presentation/yu-zhiyuan-smack},
+publisher = {USENIX Association},
+month = aug,
 }
 ```
