@@ -25,18 +25,6 @@ Please find the supplementary files [here](https://drive.google.com/file/d/12vUx
 
 For the setup of speaker recognition systems, we follow the existing work *FAKEBOB* and use the Kaldi toolkit. Notably, this process can be time-consuming and requires modification of the shell configuration file. Therefore, we wrote a dedicated tutorial detailing all steps in the *setup_SR.md* file. During the installation of *FAKEBOB*, customized scripts within *FAKEBOB_File_Replace.zip* are needed to replace the ones in *FAKEBOB*, please refer to *setup_SR.md* for the specifics. Alternatively, you can also refer to the original *FAKEBOB* [GitHub repo](https://github.com/FAKEBOB-adversarial-attack/FAKEBOB) for setting up the SR models. 
 
-# Repository Overview
-
-The repository contains both programs/files for the generative model and those for the SMACK attack framework. 
-
-The *ETTS*, *wav2vec2*, and *waveglow* folders contain files necessary for the generative model. The *synthesis.py* file serves as a functional call to the generative model without having to expose every detail externally. 
-
-The *genetic.py* contains the implementation of the Adapted Genetic Algorithm, whose design is described in Section 5.2 in the paper. A key enabler of this algorithm is the InsDel operator, which is implemented in the *_insdel()* function defined in *class GeneticAlgorithm()*. The *gradient.py* contains the implementation of the gradient estimation algorithm, whose design is given in Equations (1) and (2) in Section 5.2 of the paper. Combining these two, *attack.py* takes configurations of attack parameters and is used to launch the attack.
-
-Deeper into the attack details, the *CMUPhoneme* folder contains all the raw data and programs used to construct phoneme similarity based on CMU’s Pronouncing Dictionary. Regarding raw data, the *cmudict.dict* file is the official release of CMU’s Pronouncing Dictionary, which was downloaded from the [official GitHub repo](https://github.com/cmusphinx/cmudict). With this raw data, we use the script *alternatives_extract.py* to collect alternative pronunciations of words documented in the dictionary. The *needleman_wunsch.py* contains the implementation of the Needleman-Wunsch algorithm that aligns the phoneme sequences. Then we use *phonemic_similarities.py* to calculate similarity scores between phonemes and store the raw data to *phonemic_similarities.csv*. At last, we implement calculating the phonological similarity of phoneme sequences in *string_similarity.py*. The *ALINEPhoneme* folder contains files for calculating the phonological similarity based on Kondrak’s ALINE cognate alignment system. The files inside follow similar structures and naming strategies. The sources of the raw data are also documented in the programs. Both of the two designs are reflected in Section 6.2.
-
-The *google_ASR.py* and *iflytek_ASR.py* files are implemented queries to commercial ASR systems. They also embed testing functionalities with main functions. *speaker_csi.py*, *speaker_osi.py*, and *speaker_sv.py* are the scripts that call Kaldi speaker recognition functions. The *utils.py* file contains some utility functions such as Levenshtein Distance calculation.
-
 # Basic Tests
 
 The SMACK attack is enabled by the optimization framework consisting of adapted genetic algorithm (AGA) and gradient estimation scheme (ES). Each component can be individually tested for adversarial optimization.
